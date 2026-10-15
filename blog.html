@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blog — El Arte del Café</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Young+Serif&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div style="font-family: 'Figtree', 'Segoe UI', Helvetica, sans-serif; color: #1C1A2E; background: #FFFDF8;">
+<header style="background: #163A2E; color: #FFFDF8;">
+<div style="max-width: 1240px; margin: 0 auto; padding: 18px clamp(20px, 5vw, 64px); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 28px;">
+<a href="index.html" aria-label="El Arte del Café, ir al inicio" style="display: flex; align-items: center; gap: 12px; color: #FFFDF8; text-decoration: none; min-height: 44px;">
+<svg viewBox="0 0 120 120" style="width: 46px; height: 46px; display: block;" aria-hidden="true"><path d="M28,62 L46,34 L53,43 L60,24 L66,24 L88,62" fill="none" stroke="#F2B33D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M63,19 C59,13 67,10 63,4" fill="none" stroke="#F2B33D" stroke-width="4" stroke-linecap="round"/><path d="M20,70 H100 V76 C100,96 86,108 60,108 C34,108 20,96 20,76 Z" fill="#FFFDF8"/><path d="M100,78 C114,78 114,96 98,96" fill="none" stroke="#FFFDF8" stroke-width="7" stroke-linecap="round"/><path d="M14,115 H106" stroke="#FFFDF8" stroke-width="5" stroke-linecap="round"/></svg>
+<span style="font-family: 'Young Serif', Georgia, serif; font-size: 25px; line-height: 1;">El Arte del Café</span>
+</a>
+<button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false" onclick="this.setAttribute('aria-expanded',this.getAttribute('aria-expanded')==='false'?'true':'false');this.nextElementSibling.classList.toggle('open')">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+</button>
+<nav aria-label="Principal" class="nav-links" style="display: flex; flex-wrap: wrap; align-items: center; gap: 2px 4px;">
+<a href="index.html" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; color: #FFFDF8; font-size: 16px; font-weight: 500; text-decoration: none;">Inicio</a>
+<a href="guias.html" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; color: #FFFDF8; font-size: 16px; font-weight: 500; text-decoration: none;">Guías</a>
+<a href="noticias.html" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; color: #FFFDF8; font-size: 16px; font-weight: 500; text-decoration: none;">Noticias</a>
+<a href="blog.html" aria-current="page" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; color: #FFFDF8; font-size: 16px; font-weight: 600; text-decoration: underline; text-decoration-color: #F2B33D; text-decoration-thickness: 2px; text-underline-offset: 8px;">Blog</a>
+<a href="cafeterias.html" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; color: #FFFDF8; font-size: 16px; font-weight: 500; text-decoration: none;">Cafeterías</a>
+<a href="nosotros.html" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; color: #FFFDF8; font-size: 16px; font-weight: 500; text-decoration: none;">Nosotros</a>
+</nav>
+<div role="group" aria-label="Idioma" style="display: flex; gap: 2px; padding: 3px; border: 1.5px solid #F2B33D; border-radius: 999px;">
+<button type="button" aria-pressed="true" style="min-width: 52px; min-height: 44px; border: none; border-radius: 999px; background: #F2B33D; color: #1C1A2E; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 700; cursor: pointer;">ES</button>
+<button type="button" aria-pressed="false" style="min-width: 52px; min-height: 44px; border: none; border-radius: 999px; background: transparent; color: #FFFDF8; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer;">EN</button>
+</div>
+</div>
+</header>
+<section style="background: #163A2E; color: #FFFDF8;">
+<div style="max-width: 1240px; margin: 0 auto; padding: 72px clamp(20px, 5vw, 64px) 64px;">
+<h1 style="font-family: 'Young Serif', Georgia, serif; font-weight: 400; font-size: clamp(44px, 5.6vw, 76px); line-height: 1.04; margin: 0 0 18px; max-width: 14em;">Del blog</h1>
+<p style="margin: 0; max-width: 36em; font-size: 20px; line-height: 1.6; color: #D6E6DC;">Campeonatos, ganadores y métodos nuevos. Las historias que nos llenan de orgullo, contadas con calma y con amor por el grano.</p>
+</div>
+<svg width="100%" height="32" style="display: block;" aria-hidden="true"><defs><pattern id="bordado-intro" width="48" height="32" patternUnits="userSpaceOnUse"><rect width="48" height="32" fill="#FFFDF8"/><polyline points="0,5 6,1 12,5 18,1 24,5 30,1 36,5 42,1 48,5" fill="none" stroke="#1FA3A0" stroke-width="2"/><polyline points="0,27 6,31 12,27 18,31 24,27 30,31 36,27 42,31 48,27" fill="none" stroke="#1FA3A0" stroke-width="2"/><polygon points="24,7 33,16 24,25 15,16" fill="#C8287A"/><polygon points="24,11 29,16 24,21 19,16" fill="#F2B33D"/><rect x="22.5" y="14.5" width="3" height="3" fill="#23305E"/><polygon points="0,10 6,16 0,22 -6,16" fill="#C62B36"/><polygon points="48,10 54,16 48,22 42,16" fill="#C62B36"/><rect x="9" y="15" width="2" height="2" fill="#23305E"/><rect x="37" y="15" width="2" height="2" fill="#23305E"/></pattern></defs><rect x="0" y="0" width="100%" height="32" fill="url(#bordado-intro)"/></svg>
+</section>
+<section style="background: #FFFDF8;">
+<div style="max-width: 1240px; margin: 0 auto; padding: 64px clamp(20px, 5vw, 64px) 96px;">
+<div role="group" aria-label="Filtrar artículos" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
+<button type="button" aria-pressed="true" style="min-height: 44px; padding: 0 18px; border-radius: 999px; border: 1.5px solid #1C1A2E; background: #1C1A2E; color: #FFFDF8; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer;">Todo</button>
+<button type="button" aria-pressed="false" style="min-height: 44px; padding: 0 18px; border-radius: 999px; border: 1.5px solid #C9CBDA; background: transparent; color: #1C1A2E; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer;">Campeonatos</button>
+<button type="button" aria-pressed="false" style="min-height: 44px; padding: 0 18px; border-radius: 999px; border: 1.5px solid #C9CBDA; background: transparent; color: #1C1A2E; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer;">Métodos</button>
+<button type="button" aria-pressed="false" style="min-height: 44px; padding: 0 18px; border-radius: 999px; border: 1.5px solid #C9CBDA; background: transparent; color: #1C1A2E; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer;">Procesos</button>
+<button type="button" aria-pressed="false" style="min-height: 44px; padding: 0 18px; border-radius: 999px; border: 1.5px solid #C9CBDA; background: transparent; color: #1C1A2E; font-family: 'Figtree', sans-serif; font-size: 15px; font-weight: 600; cursor: pointer;">Variedades</button>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 48px;">
+<article style="flex: 1.3 1 460px; min-width: 0; background: #23305E; color: #FFFDF8; border-radius: 28px; overflow: hidden;">
+<svg width="100%" height="32" style="display: block;" aria-hidden="true"><defs><pattern id="bordado-blog" width="48" height="32" patternUnits="userSpaceOnUse"><rect width="48" height="32" fill="#FFFDF8"/><polyline points="0,5 6,1 12,5 18,1 24,5 30,1 36,5 42,1 48,5" fill="none" stroke="#1FA3A0" stroke-width="2"/><polyline points="0,27 6,31 12,27 18,31 24,27 30,31 36,27 42,31 48,27" fill="none" stroke="#1FA3A0" stroke-width="2"/><polygon points="24,7 33,16 24,25 15,16" fill="#C8287A"/><polygon points="24,11 29,16 24,21 19,16" fill="#F2B33D"/><rect x="22.5" y="14.5" width="3" height="3" fill="#23305E"/><polygon points="0,10 6,16 0,22 -6,16" fill="#C62B36"/><polygon points="48,10 54,16 48,22 42,16" fill="#C62B36"/><rect x="9" y="15" width="2" height="2" fill="#23305E"/><rect x="37" y="15" width="2" height="2" fill="#23305E"/></pattern></defs><rect x="0" y="0" width="100%" height="32" fill="url(#bordado-blog)"/></svg>
+<div style="padding: clamp(28px, 4vw, 48px);">
+<span style="display: inline-block; padding: 6px 14px; border-radius: 999px; background: #F2B33D; color: #1C1A2E; font-size: 14px; font-weight: 600; margin-bottom: 18px;">Campeonatos</span>
+<h2 style="font-family: 'Young Serif', Georgia, serif; font-weight: 400; font-size: clamp(32px, 3.4vw, 46px); line-height: 1.1; margin: 0 0 16px;"><a href="blog.html" style="color: #FFFDF8; text-decoration: none;">Taza de Excelencia: el concurso que pone a nuestras fincas en el mapa del mundo</a></h2>
+<p style="margin: 0 0 28px; font-size: 18px; line-height: 1.65; color: #D5DAEE; max-width: 34em;">Jueces de todo el planeta catan a ciegas los mejores cafés de cada país. Para una finca familiar, ganar puede cambiarlo todo. Te contamos cómo funciona.</p>
+<a href="blog.html" style="display: inline-flex; align-items: center; min-height: 52px; padding: 0 28px; border-radius: 999px; background: #C8287A; color: #FFFFFF; font-size: 17px; font-weight: 600; text-decoration: none;">Leer artículo</a>
+</div>
+</article>
+<ul style="flex: 1 1 380px; min-width: 0; list-style: none; margin: 0; padding: 0;">
+<li style="padding: 24px 0; border-top: 1px solid #DCDDE8;"><div style="font-size: 14px; font-weight: 600; color: #4F4A63; margin-bottom: 8px;">Métodos</div><a href="blog.html" style="font-family: 'Young Serif', Georgia, serif; font-size: 26px; line-height: 1.25; color: #1C1A2E; text-decoration: none;">Tu primer V60, paso a paso y sin miedo</a></li>
+<li style="padding: 24px 0; border-top: 1px solid #DCDDE8;"><div style="font-size: 14px; font-weight: 600; color: #4F4A63; margin-bottom: 8px;">Campeonatos</div><a href="blog.html" style="font-family: 'Young Serif', Georgia, serif; font-size: 26px; line-height: 1.25; color: #1C1A2E; text-decoration: none;">El método 4:6 de Tetsu Kasuya, explicado con calma</a></li>
+<li style="padding: 24px 0; border-top: 1px solid #DCDDE8;"><div style="font-size: 14px; font-weight: 600; color: #4F4A63; margin-bottom: 8px;">Procesos</div><a href="blog.html" style="font-family: 'Young Serif', Georgia, serif; font-size: 26px; line-height: 1.25; color: #1C1A2E; text-decoration: none;">Lavado, honey o natural: lo que cambia en tu taza</a></li>
+<li style="padding: 24px 0; border-top: 1px solid #DCDDE8;"><div style="font-size: 14px; font-weight: 600; color: #4F4A63; margin-bottom: 8px;">Variedades</div><a href="blog.html" style="font-family: 'Young Serif', Georgia, serif; font-size: 26px; line-height: 1.25; color: #1C1A2E; text-decoration: none;">Pacas y Pacamara, las variedades que nacieron en El Salvador</a></li>
+<li style="padding: 24px 0; border-top: 1px solid #DCDDE8; border-bottom: 1px solid #DCDDE8;"><div style="font-size: 14px; font-weight: 600; color: #4F4A63; margin-bottom: 8px;">Origen</div><a href="blog.html" style="font-family: 'Young Serif', Georgia, serif; font-size: 26px; line-height: 1.25; color: #1C1A2E; text-decoration: none;">¿Qué significa realmente café de altura?</a></li>
+</ul>
+</div>
+</div>
+</section>
+<footer id="contacto" style="background: #23305E; color: #FFFDF8;">
+<svg width="100%" height="32" style="display: block;" aria-hidden="true"><defs><pattern id="bordado-pie" width="48" height="32" patternUnits="userSpaceOnUse"><rect width="48" height="32" fill="#FFFDF8"/><polyline points="0,5 6,1 12,5 18,1 24,5 30,1 36,5 42,1 48,5" fill="none" stroke="#1FA3A0" stroke-width="2"/><polyline points="0,27 6,31 12,27 18,31 24,27 30,31 36,27 42,31 48,27" fill="none" stroke="#1FA3A0" stroke-width="2"/><polygon points="24,7 33,16 24,25 15,16" fill="#C8287A"/><polygon points="24,11 29,16 24,21 19,16" fill="#F2B33D"/><rect x="22.5" y="14.5" width="3" height="3" fill="#23305E"/><polygon points="0,10 6,16 0,22 -6,16" fill="#C62B36"/><polygon points="48,10 54,16 48,22 42,16" fill="#C62B36"/><rect x="9" y="15" width="2" height="2" fill="#23305E"/><rect x="37" y="15" width="2" height="2" fill="#23305E"/></pattern></defs><rect x="0" y="0" width="100%" height="32" fill="url(#bordado-pie)"/></svg>
+<div style="max-width: 1240px; margin: 0 auto; padding: 64px clamp(20px, 5vw, 64px) 40px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px 64px; margin-bottom: 48px;">
+<div style="flex: 1 1 300px; min-width: 0; max-width: 400px;">
+<div style="font-family: 'Young Serif', Georgia, serif; font-size: 30px; margin-bottom: 12px;">El Arte del Café</div>
+<p style="margin: 0; font-size: 17px; line-height: 1.6; color: #D5DAEE;">Cada taza contiene una historia. Gracias por ser parte de la nuestra.</p>
+</div>
+<nav aria-label="Pie de página" style="display: flex; flex-direction: column; gap: 4px;">
+<a href="index.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center; text-decoration: none;">Inicio</a>
+<a href="guias.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center; text-decoration: none;">Guías</a>
+<a href="noticias.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center; text-decoration: none;">Noticias</a>
+<a href="blog.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center; text-decoration: none;">Blog</a>
+<a href="cafeterias.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center; text-decoration: none;">Cafeterías</a>
+<a href="nosotros.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center; text-decoration: none;">Nosotros</a>
+</nav>
+<div style="display: flex; flex-direction: column; gap: 4px;">
+<div style="font-size: 15px; font-weight: 600; color: #F2B33D; margin-bottom: 6px;">Contacto</div>
+<a href="nosotros.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center;">[correo@tudominio.com]</a>
+<a href="nosotros.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center;">Instagram</a>
+<a href="nosotros.html" style="color: #FFFDF8; font-size: 16px; min-height: 36px; display: inline-flex; align-items: center;">Facebook</a>
+</div>
+</div>
+<div style="padding-top: 24px; border-top: 1px solid #3E4D82; font-size: 14px; color: #C9CFE8;">© 2026 El Arte del Café</div>
+</div>
+</footer>
+</div>
+</body>
+</html>

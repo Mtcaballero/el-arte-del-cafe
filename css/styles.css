@@ -1,0 +1,121 @@
+/* ========================================
+   El Arte del Café — Estilos compartidos
+   ======================================== */
+
+/* Reset & Base */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; font-family: 'Figtree', 'Segoe UI', Helvetica, sans-serif; color: #1C1A2E; background: #FFFDF8; }
+a { color: #C8287A; }
+a:hover { color: #9E1D5F; }
+:focus-visible { outline: 3px solid #F2B33D; outline-offset: 3px; }
+img { max-width: 100%; height: auto; display: block; }
+
+/* ---- Animaciones ---- */
+@keyframes vapor{0%{transform:translateY(24px) scaleX(.9);opacity:0}30%{opacity:.9}65%{transform:translateY(-16px) scaleX(1.12)}100%{transform:translateY(-58px) scaleX(.95);opacity:0}}
+.vapor{animation:vapor 5.2s ease-in-out infinite;transform-box:fill-box;transform-origin:50% 100%;animation-delay:2s;animation-fill-mode:backwards}
+.v2{animation-delay:3.3s}.v3{animation-delay:4.6s}.v4{animation-delay:3.9s}
+
+@keyframes humo{0%{transform:translate(0,0) scale(.5);opacity:0}15%{opacity:.85}100%{transform:translate(30px,-64px) scale(2.2);opacity:0}}
+.humo{animation:humo 5.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+.h2{animation-delay:1.8s}.h3{animation-delay:3.6s}
+
+@keyframes bruma{from{transform:translateX(-28px)}to{transform:translateX(28px)}}
+.bruma{animation:bruma 16s ease-in-out infinite alternate}
+.b2{animation-duration:22s;animation-direction:alternate-reverse}
+
+@keyframes chorro{to{stroke-dashoffset:-36}}
+.chorro{animation:chorro .9s linear infinite}
+
+@keyframes gota{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(26px);opacity:0}}
+.gota{animation:gota 1.3s ease-in infinite}
+.g2{animation-delay:.65s}
+
+@keyframes entra{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.entra{animation:entra .7s cubic-bezier(.2,.7,.2,1) both}
+
+@keyframes sol{from{transform:translateY(34px)}to{transform:none}}
+.sol{animation:sol 7s cubic-bezier(.25,.6,.2,1) both}
+
+@keyframes ascFar{from{transform:translateY(-18px)}to{transform:none}}
+.asc-far{animation:ascFar 7s cubic-bezier(.25,.6,.2,1) both}
+@keyframes ascMid{from{transform:translateY(-55px)}to{transform:none}}
+.asc-mid{animation:ascMid 7s cubic-bezier(.25,.6,.2,1) both}
+@keyframes ascNear{from{transform:translateY(-130px)}to{transform:none}}
+.asc-near{animation:ascNear 7s cubic-bezier(.25,.6,.2,1) both}
+@keyframes ascFront{from{transform:translateY(-210px)}to{transform:none}}
+.asc-front{animation:ascFront 7s cubic-bezier(.25,.6,.2,1) both}
+
+@keyframes ruta{to{stroke-dashoffset:-7}}
+.ruta{animation:ruta 1.4s linear infinite}
+
+@keyframes aparece{from{opacity:0}to{opacity:1}}
+.cumbre{animation:aparece .8s 5.6s ease-out both}
+
+@keyframes pulso{0%{transform:scale(1);opacity:.5}100%{transform:scale(2.6);opacity:0}}
+.pulso{animation:pulso 2.2s 6.2s ease-out infinite;transform-box:fill-box;transform-origin:center;opacity:0}
+
+.mini{transition:transform .25s ease,box-shadow .25s ease}
+.mini:hover{transform:translateY(-4px);box-shadow:0 12px 26px rgba(28,26,46,.24)}
+
+@keyframes llega{0%{transform:translateY(-44px);opacity:0}55%{opacity:1}80%{transform:translateY(3px)}100%{transform:none;opacity:1}}
+.llega{animation:llega 1.6s cubic-bezier(.2,.8,.2,1) .4s both}
+
+@keyframes sombra{from{opacity:0;transform:scaleX(.55)}to{opacity:1;transform:none}}
+.sombra{animation:sombra 1.6s cubic-bezier(.2,.8,.2,1) .4s both;transform-box:fill-box;transform-origin:center}
+
+@keyframes enfoque{from{transform:scale(1)}to{transform:scale(1.4)}}
+.enfoque{animation:enfoque 12s ease-in-out infinite alternate}
+
+@supports (animation-timeline: view()){
+  @keyframes acerca{from{transform:scale(.8)}to{transform:scale(1)}}
+  .zoom-marco{animation:acerca linear both;animation-timeline:view();animation-range:entry 0% cover 45%}
+}
+
+@keyframes titila{from{opacity:.25}to{opacity:.95}}
+.estrella{animation:titila 2.6s ease-in-out infinite alternate}
+.e1{animation-delay:.9s}.e2{animation-delay:1.7s}
+
+@keyframes espiral{0%{stroke-dashoffset:1;opacity:0}10%{opacity:.55}70%{stroke-dashoffset:0;opacity:.55}100%{stroke-dashoffset:0;opacity:0}}
+.espiral{stroke-dasharray:1;stroke-dashoffset:1;animation:espiral 7s ease-in-out infinite}
+
+@keyframes onda{from{transform:scale(.15);opacity:.55}to{transform:scale(1);opacity:0}}
+.onda{animation:onda 3.6s ease-out infinite;transform-box:fill-box;transform-origin:center}
+.o2{animation-delay:1.2s}.o3{animation-delay:2.4s}
+
+@keyframes barra{from{transform:scaleY(0)}to{transform:none}}
+.barra{transform-origin:bottom;animation:barra 1.1s cubic-bezier(.2,.8,.2,1) both}
+.d2{animation-delay:.15s}.d3{animation-delay:.3s}.d4{animation-delay:.45s}.d5{animation-delay:.6s}
+
+@keyframes kenburns{from{transform:scale(1) translate(0,0)}to{transform:scale(1.14) translate(-2%,-2%)}}
+.kenburns{animation:kenburns 18s ease-in-out infinite alternate}
+
+.metodo-btn{transition:background .2s ease,color .2s ease}
+
+@supports (animation-timeline: view()){
+  @keyframes revela{from{clip-path:inset(10% 10% 10% 10% round 28px);opacity:.4}to{clip-path:inset(0 0 0 0 round 28px);opacity:1}}
+  .revela{animation:revela linear both;animation-timeline:view();animation-range:entry 0% cover 35%}
+  @keyframes subeScroll{from{opacity:0;transform:translateY(28px)}to{opacity:1;transform:none}}
+  .sube{animation:subeScroll linear both;animation-timeline:view();animation-range:entry 0% cover 25%}
+}
+
+@media (prefers-reduced-motion: reduce){
+  .vapor,.humo,.bruma,.chorro,.gota,.entra,.sol,.asc-far,.asc-mid,.asc-near,.asc-front,.ruta,.cumbre,.pulso,
+  .estrella,.llega,.sombra,.enfoque,.zoom-marco,.espiral,.onda,.barra,.kenburns,.revela,.sube{animation:none}
+  .mini{transition:none}
+  .espiral{stroke-dashoffset:0}
+}
+
+/* ---- Formulario ---- */
+.campo{min-height:48px;padding:12px 16px;border:1.5px solid #C9CBDA;border-radius:14px;font-family:'Figtree',sans-serif;font-size:16px;color:#1C1A2E;background:#FFFFFF;box-sizing:border-box;width:100%}
+
+/* ---- Mobile nav ---- */
+.nav-toggle { display: none; }
+@media (max-width: 860px) {
+  .nav-toggle {
+    display: flex; align-items: center; justify-content: center;
+    width: 44px; height: 44px; border: none; background: transparent; cursor: pointer;
+    color: #FFFDF8; padding: 0;
+  }
+  .nav-links { display: none; width: 100%; order: 10; flex-direction: column; gap: 4px; padding: 8px 0; }
+  .nav-links.open { display: flex; }
+}
