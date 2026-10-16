@@ -1,0 +1,137 @@
+{
+  "id": "cr",
+  "nombre": "Costa Rica",
+  "slug": "costa-rica",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de Costa Rica: historia, producción, liquidación del ICAFE al productor, quién regula el precio y ganadores de la Taza de la Excelencia.",
+  "intro": "Costa Rica exporta café desde 1820, y el grano marcó su historia, su paisaje y su manera de repartir la tierra. Hoy lo cultivan sobre todo pequeños productores, bajo un sistema de reglas que reparte el valor de cada cosecha entre productores, beneficios y exportadores.",
+  "v2": {
+    "gentilicio": "costarricense",
+    "gentilicioPlural": "costarricenses",
+    "regionesTitulo": "Siete regiones, siete tazas",
+    "titulos": {"intro": "Un café con reglas propias", "historia": "El grano que construyó un país"},
+    "lead": "En Costa Rica el café se entrega en fruta a un beneficio y una ley garantiza cómo se reparte lo que vale cada cosecha. Es un país de pequeños productores y microbeneficios que convirtió la calidad en su marca.",
+    "introduccion": [
+      "Siete regiones cafetaleras, de Los Santos y Tarrazú a Turrialba y la Zona Norte, dan al país cafés muy distintos en poco territorio. Los Santos es la más productiva y Tarrazú lleva ocho cosechas seguidas como el principal cantón cafetalero.",
+      "El sistema costarricense es único en la región: el Instituto del Café de Costa Rica aprueba los costos de cada beneficio, limita su ganancia y publica cuánto debe recibir el productor por cada fanega. A la vez, los microbeneficios familiares han llevado al país a lo más alto de la Taza de la Excelencia."
+    ],
+    "cifras": [
+      {"valor": "1,81 M", "etiqueta": "fanegas en la cosecha 2024-2025", "nota": "ICAFE"},
+      {"valor": "84,5 %", "etiqueta": "entrega menos de 100 fanegas", "nota": "Pequeños productores, ICAFE"},
+      {"valor": "307", "etiqueta": "beneficios, 17 de ellos cooperativas", "nota": "Cosecha 2024-2025"},
+      {"valor": "9 %", "etiqueta": "ganancia máxima del beneficio", "nota": "Ley 2762 de 1961"}
+    ],
+    "destacado": "En 2018 un Geisha honey de la finca Don Cayito, de Luis Ricardo Calderón, se vendió a 300,09 dólares la libra: el precio más alto pagado hasta entonces por un café de la Taza de la Excelencia en el mundo.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales en las montañas de Tarrazú, en la región de Los Santos"},
+      "historia": {"src": "", "alt": "Carreta típica costarricense cargada de sacos de café"},
+      "cosecha": {"src": "", "alt": "Entrega de café en fruta medido en cajuelas en un beneficio"},
+      "premios": {"src": "", "alt": "Microbeneficio familiar de café de especialidad en Costa Rica"}
+    },
+    "capitulos": [
+      {"periodo": "1808–1832", "titulo": "Las primeras plantas", "texto": "El café empezó a arraigarse hacia 1808, bajo el gobernador Tomás de Acosta, y en 1816 el padre Félix Velarde ya tenía cafetos cerca de la actual Catedral Metropolitana. En 1820 salió la primera exportación, apenas dos quintales hacia Panamá. Para extender el cultivo, el Estado eximió al café del diezmo y en 1831 dio tierras baldías a quien las sembrara con café durante cinco años."},
+      {"periodo": "1840–1890", "titulo": "El camino a Europa", "texto": "En los años cuarenta, con ayuda del comerciante inglés William Le Lacheur, el café llegó directo a Europa. El camino a Puntarenas, terminado en 1846, permitió cambiar las mulas por carretas, y el café fue el único producto de exportación del país hasta 1890."},
+      {"periodo": "1933–1988", "titulo": "Reglas para repartir la cosecha", "texto": "En 1933 nació la institución que hoy es el ICAFE, y en 1961 la Ley 2762 fijó las reglas entre productores, beneficios y exportadores, con un tope del 9 % a la ganancia del beneficio. La Revolución Verde trajo Caturra y Catuaí, y en 1988 un decreto prohibió sembrar robusta para que el país apostara solo por el arábica."},
+      {"periodo": "Hoy", "titulo": "Microlotes y un récord mundial", "texto": "La urbanización y la falta de mano de obra redujeron productores y hectáreas, pero los microbeneficios dieron al país una de las mejores reputaciones de calidad del mundo. En 2018 un Geisha de Don Cayito marcó el récord mundial de la Taza de la Excelencia y ese mismo año se volvió a permitir el robusta en zonas definidas por el ICAFE."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha", "texto": "Se recoge a mano sobre todo de noviembre a febrero; las regiones de maduración temprana, como la Brunca, empiezan antes."},
+      {"titulo": "Entrega en fruta", "texto": "El productor lleva la cereza al beneficio el mismo día. Se mide en fanegas y recibe adelantos de pago durante la cosecha."},
+      {"titulo": "Beneficiado", "texto": "El beneficio despulpa, fermenta y lava el café. Los microbeneficios popularizaron los honey y naturales, hoy un sello del café costarricense de especialidad."},
+      {"titulo": "Secado", "texto": "El grano se seca al sol o en secadoras mecánicas hasta quedar como pergamino, listo para trillar."},
+      {"titulo": "Venta y liquidación", "texto": "Al cerrar el año cafetero, el ICAFE publica la liquidación final de cada beneficio, que debe pagarse al productor en ocho días hábiles."}
+    ],
+    "variedades": [
+      {"grupo": "Base del país", "lista": ["Caturra", "Catuaí"]},
+      {"grupo": "De especialidad", "lista": ["Geisha", "Java"]},
+      {"grupo": "Solo en zonas autorizadas", "lista": ["Robusta"]}
+    ],
+    "variedadesTexto": "La Revolución Verde llenó el país de Caturra y Catuaí, de porte bajo, que permiten sembrar más denso. Los microlotes premiados son casi siempre de Geisha, y desde 2018 el robusta vuelve a estar permitido, pero solo en zonas definidas por el ICAFE.",
+    "regiones": [
+      {"nombre": "Los Santos", "altura": "", "perfil": ["Mayor producción", "Tarrazú", "Dota"], "nota": "La región más productiva del país; Tarrazú es el principal cantón cafetalero por octava cosecha seguida."},
+      {"nombre": "Pérez Zeledón", "altura": "", "perfil": ["Maduración temprana", "Brunca"], "nota": "Segundo cantón cafetalero, con varios ganadores recientes de la Taza de la Excelencia."},
+      {"nombre": "Coto Brus", "altura": "", "perfil": ["Brunca", "Frontera con Panamá"], "nota": "Región del sur que forma con Pérez Zeledón la zona Brunca."},
+      {"nombre": "Valle Central", "altura": "", "perfil": ["Zona histórica"], "nota": "Donde empezó todo, alrededor de San José y Cartago, cada vez más rodeada de ciudad."},
+      {"nombre": "Valle Occidental", "altura": "", "perfil": ["Estación seca marcada"], "nota": "Oeste del Valle Central, sensible a los retrasos en las lluvias."},
+      {"nombre": "Turrialba", "altura": "", "perfil": ["Vertiente caribeña"], "nota": "La que más creció en la cosecha 2024-2025: un 61,7 %."},
+      {"nombre": "Zona Norte", "altura": "", "perfil": ["Norte"], "nota": "Región del norte cuya cosecha bajó un 12,7 % en 2024-2025."}
+    ],
+    "costoPasos": [
+      {"titulo": "Adelantos durante la cosecha", "texto": "Al entregar su café en fruta, el productor recibe pagos por adelantado mientras el beneficio procesa y vende."},
+      {"titulo": "El beneficio vende", "texto": "Vende el café a exportadores o tostadores a precios que siguen el contrato C de Nueva York más un diferencial por calidad."},
+      {"titulo": "La liquidación final", "texto": "De esas ventas se restan los costos aprobados por el ICAFE y una ganancia máxima del 9 %. Lo que queda se paga al productor por fanega."}
+    ],
+    "costoTip": "En Costa Rica el café no se paga por quintal sino por fanega de café fruta, unos 400 litros de cereza. El café verde, ya listo para exportar, se vende en sacos de 46 kilos.",
+    "costoEjemplo": {"valor": "₡120.644,93", "etiqueta": "liquidación final promedio por fanega en 2024-2025, un 40,19 % más que la cosecha anterior", "nota": "ICAFE"},
+    "costoEspecialidad": "El precio promedio de exportación subió a 304,44 dólares por saco de 46 kg, pero el tipo de cambio, el más bajo en seis cosechas, frenó el aumento en colones.",
+    "quienCorto": "El mercado, con reglas claras.",
+    "quienLargo": "El precio internacional sigue a la bolsa de Nueva York, pero el reparto no es libre. El ICAFE, una institución pública no estatal donde se sientan productores, beneficios, exportadores y tostadores, registra los contratos, aprueba los costos de beneficiado y fija la liquidación final que cada beneficio debe pagar, según la Ley 2762 de 1961.",
+    "organismosNota": "El sistema costarricense es único en Centroamérica: el productor no depende solo de lo que le ofrezca el beneficio, porque la ley fija cuánto puede quedarse este y el ICAFE publica lo que debe pagar.",
+    "niveles": [
+      {"titulo": "Regula y liquida", "siglas": ["ICAFE"]},
+      {"titulo": "Política y exportaciones", "siglas": ["MAG", "PROCOMER"]},
+      {"titulo": "Cooperativas", "siglas": ["CoopeTarrazú"]},
+      {"titulo": "Aliados internacionales", "siglas": ["ACE", "OIC"]}
+    ],
+    "reconocidosIntro": "La Taza de la Excelencia de Costa Rica es una de las más cotizadas del mundo. Los Santos, Tarrazú y Pérez Zeledón se reparten los primeros lugares, casi siempre con Geisha de microbeneficios familiares.",
+    "records": [
+      {"valor": "300,09", "unidad": "dólares por libra", "titulo": "Finca Don Cayito · 2018", "texto": "Un Geisha honey de Luis Ricardo Calderón, en Copey de Dota: récord mundial de la Taza de la Excelencia en su momento."},
+      {"valor": "200,10", "unidad": "dólares por libra", "titulo": "Lote ganador · 2026", "texto": "El precio más alto de la subasta de 2026, sin superar el récord de 2018."}
+    ],
+    "ganadores": [
+      {"anio": "2026", "categoria": "Lavado y honey", "finca": "Finca Río Blanco", "productor": "Alejandra Cordero Solano", "region": "Los Santos", "cafe": "Java lavado", "puntos": "91,36"},
+      {"anio": "2026", "categoria": "Experimental", "finca": "Finca Las Margaritas Veintiséis", "productor": "Emmanuel Solís Porras", "region": "Los Santos", "cafe": "Geisha", "puntos": "91,06"},
+      {"anio": "2025", "categoria": "Honey y natural", "finca": "Finca La Cusuka", "productor": "Jhonny Alvarado Fonseca", "region": "Pérez Zeledón", "cafe": "Geisha natural", "puntos": "91,22"},
+      {"anio": "2025", "categoria": "Lavado", "finca": "Finca Vista Paraíso", "productor": "Jhon Alvarado Abarca", "region": "Pérez Zeledón", "cafe": "Geisha lavado", "puntos": "90,63"},
+      {"anio": "2024", "categoria": "Honey y natural tradicional", "finca": "Finca Don Cayito", "productor": "Luis Ricardo Calderón Madrigal", "region": "Tarrazú", "cafe": "Geisha honey", "puntos": "93,62"},
+      {"anio": "2024", "categoria": "Lavado tradicional", "finca": "Finca Santa Teresa", "productor": "Roger Ureña Hidalgo", "region": "Tarrazú", "cafe": "Geisha lavado", "puntos": "92,04"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1808", "texto": "Bajo el gobernador Tomás de Acosta, el cultivo del café empieza a arraigarse."},
+    {"anio": "1820", "texto": "Primera exportación de café: dos quintales con destino a Panamá."},
+    {"anio": "1831", "texto": "Un decreto da la propiedad de tierras baldías a quien las cultive con café durante cinco años."},
+    {"anio": "1846", "texto": "Se termina el camino a Puntarenas; el café será el único producto de exportación hasta 1890."},
+    {"anio": "1933", "texto": "Se funda la institución que hoy es el Instituto del Café de Costa Rica (ICAFE)."},
+    {"anio": "1961", "texto": "La Ley 2762 regula las relaciones entre productores, beneficiadores y exportadores."},
+    {"anio": "1988", "texto": "Un decreto prohíbe el cultivo de robusta en el país."},
+    {"anio": "2018", "texto": "Don Cayito marca el récord mundial de la Taza de la Excelencia y se vuelve a permitir el robusta en zonas autorizadas."},
+    {"anio": "2025", "texto": "La liquidación final al productor sube un 40,19 %, hasta 120.644,93 colones por fanega."}
+  ],
+  "produccion": {
+    "volumen": "1.812.628 fanegas de café fruta en la cosecha 2024-2025, según el ICAFE; el USDA lo estima en unos 1,3 millones de sacos de 60 kg",
+    "cosecha": "Se concentra de noviembre a febrero; las regiones de maduración temprana, como la Brunca, empiezan antes",
+    "altitud": "Desde menos de 1.000 m hasta más de 1.200 m, en suelos volcánicos",
+    "productores": "Menos de 26.000 productores registrados en 2023/24, según el USDA; el 84,5 % entrega menos de 100 fanegas por cosecha"
+  },
+  "quienControlaPrecio": "En Costa Rica la comercialización del café está en manos privadas, pero el Estado la supervisa a través del Instituto del Café de Costa Rica (ICAFE), una institución pública no estatal donde están representados productores, beneficiadores, exportadores y tostadores. El ICAFE no fija el precio internacional, que sigue a la bolsa de Nueva York, pero registra los contratos de venta, aprueba los costos de beneficiado y fija el precio de liquidación final que cada beneficio debe pagar a sus productores, de acuerdo con la Ley 2762 de 1961, que limita la utilidad del beneficiador al 9 %.",
+  "organismos": [
+    {"nombre": "Instituto del Café de Costa Rica", "sigla": "ICAFE", "tipo": "Institución nacional", "rol": "Institución pública no estatal fundada en 1933 que regula el sector, registra los contratos, publica las liquidaciones al productor e investiga a través del CICAFE.", "url": "https://www.icafe.cr/"},
+    {"nombre": "Ministerio de Agricultura y Ganadería", "sigla": "MAG", "tipo": "Institución nacional", "rol": "Ministerio rector de la política agropecuaria del país.", "url": "https://www.mag.go.cr/"},
+    {"nombre": "Promotora del Comercio Exterior de Costa Rica", "sigla": "PROCOMER", "tipo": "Institución nacional", "rol": "Promueve las exportaciones y publica las cifras oficiales de divisas generadas por el café.", "url": "https://www.procomer.com/"},
+    {"nombre": "Cooperativa de Caficultores de Tarrazú", "sigla": "CoopeTarrazú", "tipo": "Cooperativa", "rol": "Fundada en 1960 en San Marcos de Tarrazú, agrupa a más de 5.000 asociados y beneficia y exporta su café.", "url": "https://www.coopetarrazu.com/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organización sin fines de lucro que dirige la Taza de la Excelencia y subasta los lotes ganadores de Costa Rica.", "url": "https://allianceforcoffeeexcellence.org/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organismo intergubernamental del café; Costa Rica firmó el Convenio Internacional del Café de 2022.", "url": "https://ico.org/"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Costa Rica (Taza de la Excelencia)", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2026/"},
+  "fuentes": [
+    {"titulo": "ICAFE – Informe sobre la Actividad Cafetalera en Costa Rica 2025", "url": "https://www.icafe.cr/wp-content/uploads/informacion_mercado/informes_actividad/actual/Informe%20Actividad%20Cafetalera.pdf"},
+    {"titulo": "ICAFE – Historia del café de Costa Rica", "url": "https://www.icafe.cr/nuestro-cafe/historia/"},
+    {"titulo": "ICAFE – Acerca del ICAFE", "url": "https://www.icafe.cr/transparencia-institucional-icafe/acceso-a-la-informacion/acerca-del-icafe/index.php"},
+    {"titulo": "ICAFE – Regiones cafetaleras", "url": "https://www.icafe.cr/nuestro-cafe/regiones-cafetaleras/index.php"},
+    {"titulo": "ICAFE – Liquidación final beneficio", "url": "https://www.icafe.cr/sector-cafetalero/liquidacion-final-beneficio/"},
+    {"titulo": "Ley N.° 2762 sobre el régimen de relaciones entre productores, beneficiadores y exportadores de café (FAOLEX)", "url": "https://faolex.fao.org/docs/pdf/cos73525-2001.pdf"},
+    {"titulo": "USDA FAS – Costa Rica: Coffee Annual 2025", "url": "https://www.fas.usda.gov/data/costa-rica-coffee-annual-10"},
+    {"titulo": "Daily Coffee News – Costa Rica Coffee Report (mayo de 2025)", "url": "https://dailycoffeenews.com/2025/05/22/costa-rica-coffee-report-production-planted-area-and-farm-numbers-down"},
+    {"titulo": "Alliance for Coffee Excellence – Costa Rican Gesha Shatters Cup of Excellence Record at $300 Per Pound (2018)", "url": "https://allianceforcoffeeexcellence.org/?p=211585"},
+    {"titulo": "The Tico Times – Costa Rica coffee reaches $200 a pound at Cup of Excellence 2026", "url": "https://ticotimes.net/2026/07/11/costa-rica-coffee-200-pound-cup-of-excellence-2026"},
+    {"titulo": "Revista E&N – Costa Rica permitirá cultivo de café robusta tras 30 años de prohibición", "url": "https://www.revistaeyn.com/centroamericaymundo/costa-rica-permitira-cultivo-de-cafe-robusta-tras-30-anos-de-prohibicion-HXEN1154627"},
+    {"titulo": "Daily Coffee News – Costa Rica agriculture leaders seek to lift 30-year robusta ban (2018)", "url": "https://dailycoffeenews.com/2018/02/19/costa-rica-agriculture-leaders-seek-to-lift-30-year-robusta-ban"},
+    {"titulo": "Alliance for Coffee Excellence – Costa Rica 2026", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2026/"},
+    {"titulo": "Alliance for Coffee Excellence – Costa Rica 2025", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2025/"},
+    {"titulo": "Alliance for Coffee Excellence – Costa Rica 2024", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2024/"},
+    {"titulo": "Oikocredit – CoopeTarrazú", "url": "https://www.oikocredit.coop/en/what-we-do/partners/partner-detail/11355/coopetarrazu-cooperativa-de-caficultores-de-tarrazu-rl"}
+  ]
+}
