@@ -151,7 +151,7 @@ ${d.niveles.map((n, i) => `<div class="rv-nivel"><p class="rv-nivel-tit"><span>$
 </div>
 <p class="rv-aparte">${esc(d.organismosNota)}</p>`);
 
-    const reconocidos = seccion('reconocidos', 'Cafés reconocidos de ' + esc(c.nombre), 'Los cafés ' + esc(d.gentilicioPlural) + ' más premiados', `
+    const reconocidos = seccion('reconocidos', 'Cafés reconocidos de ' + esc(c.nombre), esc((d.titulos || {}).reconocidos || 'Los cafés ' + d.gentilicioPlural + ' más premiados'), `
 <div class="rv-dos">
 <p class="rv-lead rv-lead-claro">${esc(d.reconocidosIntro)}</p>
 ${foto(d.imagenes.premios, 'rv-foto-media')}

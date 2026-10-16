@@ -1,0 +1,127 @@
+{
+  "id": "do",
+  "nombre": "República Dominicana",
+  "slug": "republica-dominicana",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de República Dominicana: historia, producción, precio al caficultor, INDOCAFE y regiones como Barahona, Valdesia y Cibao Altura.",
+  "intro": "En República Dominicana el café se cultiva desde el siglo XVIII en montañas repartidas por casi todo el país, de Barahona a la Cordillera Central. Gran parte de la cosecha se queda en casa, porque los dominicanos son grandes bebedores de café, y una parte creciente se exporta como café de origen.",
+  "v2": {
+    "gentilicio": "dominicano",
+    "gentilicioPlural": "dominicanos",
+    "regionesTitulo": "Las regiones del café dominicano",
+    "ganadoresTitulo": "Orígenes y cafés reconocidos",
+    "titulos": {"intro": "Un café de montaña en el Caribe", "historia": "De Barahona a la Cordillera Central", "reconocidos": "Los cafés dominicanos más reconocidos"},
+    "lead": "En República Dominicana el café crece en las montañas de casi todo el país, de Barahona a la Cordillera Central. Los dominicanos se toman buena parte de lo que cultivan, y una parte creciente sale al mundo como café de origen.",
+    "introduccion": [
+      "En 2022 había café en 28 provincias y unas 130.000 hectáreas. La mayor parte del arábica crece entre los 1.000 y los 1.600 metros, y regiones como Barahona, Valdesia, Ocoa y Cibao Altura tienen identidad propia: Valdesia es denominación de origen protegida en la Unión Europea desde 2016.",
+      "El consumo interno, entre 640.000 y 700.000 quintales al año según INDOCAFE, supera las cosechas recientes. Por eso el país exporta solo una parte de su café, y la que sale lo hace cada vez más como café de origen, con mejores precios."
+    ],
+    "cifras": [
+      {"valor": "590.817", "etiqueta": "quintales cosechados en 2024", "nota": "INDOCAFE"},
+      {"valor": "640–700 mil", "etiqueta": "quintales que se consumen al año", "nota": "INDOCAFE"},
+      {"valor": "US$ 39 M", "etiqueta": "en exportaciones de café en 2024", "nota": "145.992 quintales"},
+      {"valor": "28", "etiqueta": "provincias con café", "nota": "Unas 130.000 hectáreas, 2022"}
+    ],
+    "destacado": "En 2024 el café de Cibao Altura y Juncalito se exportó a un promedio de 390,05 dólares el quintal, más de 160 dólares por encima del precio promedio de la bolsa de Nueva York en marzo de ese año.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales en las montañas de la Cordillera Central dominicana"},
+      "historia": {"src": "", "alt": "Finca cafetalera tradicional en Barahona"},
+      "cosecha": {"src": "", "alt": "Cosecha de café en las montañas de San José de Ocoa"},
+      "premios": {"src": "", "alt": "Sacos de café de origen dominicano listos para exportar"}
+    },
+    "capitulos": [
+      {"periodo": "1735–1860", "titulo": "Las primeras fincas", "texto": "Según los registros oficiales, el cultivo del café empezó en 1735 por iniciativa española, y las primeras zonas fueron Barahona y las provincias cercanas. Desde allí se extendió a otras regiones, aunque durante más de un siglo se mantuvo sobre todo como producción para el consumo local."},
+      {"periodo": "1860–1900", "titulo": "El café se vuelve negocio", "texto": "Hacia 1860 el café se convirtió en una actividad comercial. En las décadas siguientes surgieron plantaciones en Puerto Plata, Enriquillo, Espaillat, Constanza, Jarabacoa, San José de Ocoa, San Juan y Azua, y se formó un mapa cafetalero muy diverso que dio al café un lugar central en la vida campesina de montaña."},
+      {"periodo": "1989–2010", "titulo": "La llegada de la roya", "texto": "La roya llegó al país en 1989 y reapareció con fuerza a finales de 2010, con una incidencia de hasta el 70 % en algunas regiones. Entre 2000 y 2010 la producción promedio rondaba los 800.000 quintales de café oro. En el año 2000 la Ley 79-00 creó el Consejo Dominicano del Café."},
+      {"periodo": "Hoy", "titulo": "Origen y renovación", "texto": "En 2016 la Unión Europea protegió el Café de Valdesia y en 2017 la Ley 246-17 creó el Instituto Dominicano del Café, que impulsa la renovación de cafetales con variedades tolerantes a la roya. En 2024 se cosecharon 590.817 quintales y se exportaron casi 146.000, por unos 39 millones de dólares."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha", "texto": "Se recoge aproximadamente de octubre a junio, según la región, y la mayor parte en la primera mitad del año."},
+      {"titulo": "Venta en finca", "texto": "En la finca el café se vende por 50 kilos de café pilado, antes de trillar, a intermediarios, tostadoras o exportadores."},
+      {"titulo": "Tostadoras del país", "texto": "Buena parte de la cosecha la compran las tostadoras locales para abastecer el alto consumo nacional."},
+      {"titulo": "Control de calidad", "texto": "Para exportar, INDOCAFE analiza una muestra de cada lote, registra el contrato y emite el permiso de embarque."},
+      {"titulo": "Certificado de origen", "texto": "Cada embarque sale con el certificado de origen de la Organización Internacional del Café que emite INDOCAFE."}
+    ],
+    "variedades": [
+      {"grupo": "Tradicionales", "lista": ["Typica", "Caturra", "Catuaí", "Bourbon", "Mundo Novo"]},
+      {"grupo": "Tolerantes a la roya", "lista": ["Catimor"]}
+    ],
+    "variedadesTexto": "Las variedades tradicionales siguen dominando los cafetales dominicanos. Desde la crisis de la roya, INDOCAFE impulsa la renovación con variedades tolerantes, como el Catimor.",
+    "regiones": [
+      {"nombre": "Barahona", "altura": "Más de 500 m (DO)", "perfil": ["Donde empezó todo", "Denominación de origen"], "nota": "Región del suroeste donde comenzó el café dominicano, con denominación de origen propia."},
+      {"nombre": "Valdesia", "altura": "", "perfil": ["DOP Unión Europea"], "nota": "San Cristóbal, Peravia y San José de Ocoa. Su café es denominación de origen protegida en Europa desde 2016."},
+      {"nombre": "Cibao Altura y Juncalito", "altura": "", "perfil": ["Precio FOB más alto", "Cordillera Central"], "nota": "Cafés de Jánico que en 2024 lograron el mejor precio promedio de exportación del país."},
+      {"nombre": "Ocoa", "altura": "", "perfil": ["2.º precio FOB"], "nota": "Cafés de San José de Ocoa, con el segundo precio de exportación más alto en 2024."},
+      {"nombre": "Constanza y Jarabacoa", "altura": "", "perfil": ["Zonas altas", "Cordillera Central"], "nota": "Montañas de la Cordillera Central con plantaciones desde el siglo XIX."}
+    ],
+    "costoPasos": [
+      {"titulo": "La bolsa como referencia", "texto": "El precio parte de la bolsa de Nueva York y de lo que pagan exportadores y tostadoras locales, que compiten por el mismo café."},
+      {"titulo": "El precio en finca", "texto": "En 2024 el caficultor recibió en promedio 13.037,98 pesos por 50 kilos de café pilado, según INDOCAFE."},
+      {"titulo": "El origen paga más", "texto": "En la exportación, los cafés de origen ganan premios claros: Cibao Altura promedió 390,05 dólares por quintal, Ocoa 330,15 y Barahona 288,34."}
+    ],
+    "costoTip": "En la finca el café se cotiza en pesos por 50 kilos de café pilado; en la exportación, en dólares por quintal de 100 libras. Antes de comparar precios, conviene llevarlos a la misma unidad.",
+    "costoEjemplo": {"valor": "RD$ 13.037,98", "etiqueta": "precio promedio pagado al caficultor por 50 kilos de café pilado en 2024", "nota": "INDOCAFE, Memoria 2024"},
+    "costoEspecialidad": "Como el país consume más café del que cosecha, las tostadoras locales compiten con los exportadores por cada quintal.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El precio se forma en el mercado, con la bolsa de Nueva York como referencia y la negociación entre caficultores, intermediarios, tostadoras y exportadores. INDOCAFE, adscrito al Ministerio de Agricultura, regula y fomenta la producción: registra exportadores y contratos, controla la calidad de los embarques y publica los precios promedio de finca y de exportación.",
+    "organismosNota": "INDOCAFE reemplazó en 2017 al Consejo Dominicano del Café, creado en el año 2000. En 2025 presentó la primera certificación de finca de café sostenible del Caribe.",
+    "niveles": [
+      {"titulo": "Regula y fomenta", "siglas": ["INDOCAFE", "Ministerio de Agricultura de la República Dominicana"]},
+      {"titulo": "Investigación y exportación", "siglas": ["IDIAF", "ProDominicana"]},
+      {"titulo": "Internacional", "siglas": ["OIC"]}
+    ],
+    "reconocidosIntro": "República Dominicana no tiene hoy una competencia internacional de calidad como la Taza de Excelencia. Su reconocimiento llega por otros caminos: denominaciones de origen, precios de exportación que premian a ciertas regiones y marcas que llevan el café dominicano al mundo.",
+    "records": [
+      {"valor": "2016", "unidad": "denominación de origen europea", "titulo": "Café de Valdesia", "texto": "La Unión Europea registró el café de Valdesia como denominación de origen protegida, un sello que reconoce la calidad ligada a su territorio."},
+      {"valor": "10", "unidad": "mercados internacionales", "titulo": "Café Santo Domingo", "texto": "La marca más conocida del país, de Industrias Banilejas, llega de forma directa a una decena de mercados y lanzó en 2021 su línea de especialidad Gran Origen."}
+    ],
+    "ganadores": [
+      {"anio": "", "puesto": "Mejor precio de exportación 2024", "categoria": "Origen", "finca": "Cibao Altura y Juncalito", "productor": "", "region": "Jánico, Cordillera Central", "cafe": "Arábica de altura", "precio": "390,05", "unidad": "US$/qq"},
+      {"anio": "", "puesto": "2.º precio de exportación 2024", "categoria": "Origen", "finca": "Ocoa", "productor": "", "region": "San José de Ocoa", "cafe": "Arábica de altura", "precio": "330,15", "unidad": "US$/qq"},
+      {"anio": "", "puesto": "Denominación de origen", "categoria": "Origen", "finca": "Café Barahona", "productor": "", "region": "Suroeste", "cafe": "Cultivado a más de 500 m", "precio": "288,34", "unidad": "US$/qq"},
+      {"anio": "", "puesto": "1.er lugar, productores independientes", "categoria": "Competencia Dominicana de Cafés de Calidad 2009", "finca": "Cirilo Díaz", "productor": "", "region": "Constanza", "cafe": "Arábica", "puntos": "85"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1735", "texto": "Comienza el cultivo del café en el país, con Barahona y provincias cercanas como primeras zonas."},
+    {"anio": "1860", "texto": "El café se convierte en una actividad comercial y se extiende a nuevas provincias."},
+    {"anio": "1989", "texto": "La roya del cafeto llega por primera vez a República Dominicana."},
+    {"anio": "2000", "texto": "La Ley 79-00 crea el Consejo Dominicano del Café (CODOCAFE)."},
+    {"anio": "2016", "texto": "La Unión Europea registra el Café de Valdesia como denominación de origen protegida."},
+    {"anio": "2017", "texto": "La Ley 246-17 crea el Instituto Dominicano del Café (INDOCAFE)."},
+    {"anio": "2024", "texto": "Se cosechan 590.817 quintales y se exportan casi 146.000, por unos 39 millones de dólares."},
+    {"anio": "2025", "texto": "INDOCAFE presenta la primera certificación de finca de café sostenible del Caribe."}
+  ],
+  "produccion": {
+    "volumen": "590.817 quintales de café cosechados en 2024, según la Memoria Institucional 2024 de INDOCAFE; ese año se exportaron 145.991,63 quintales por 38.971.967,96 dólares",
+    "cosecha": "Aproximadamente de octubre a junio, con variaciones entre regiones",
+    "altitud": "La mayor parte del arábica crece entre 1.000 y 1.600 m",
+    "productores": ""
+  },
+  "quienControlaPrecio": "En República Dominicana el precio del café se forma en el mercado, con la bolsa de Nueva York como referencia y la negociación entre caficultores, intermediarios, tostadoras y exportadores. El Instituto Dominicano del Café (INDOCAFE), creado por la Ley 246-17 y adscrito al Ministerio de Agricultura, regula y fomenta la producción: registra a los exportadores y los contratos, controla la calidad de los lotes de exportación, emite los permisos de embarque y publica los precios promedio de finca y FOB. No hay un precio oficial de compra fijado por el Estado.",
+  "organismos": [
+    {"nombre": "Instituto Dominicano del Café", "sigla": "INDOCAFE", "tipo": "Institución nacional", "rol": "Ente público descentralizado creado por la Ley 246-17 que regula y fomenta la caficultura, da asistencia técnica y controla las exportaciones.", "url": "https://www.indocafe.gob.do/"},
+    {"nombre": "Ministerio de Agricultura de la República Dominicana", "sigla": "", "tipo": "Institución nacional", "rol": "Ministerio al que está adscrito INDOCAFE.", "url": ""},
+    {"nombre": "Instituto Dominicano de Investigaciones Agropecuarias y Forestales", "sigla": "IDIAF", "tipo": "Institución nacional", "rol": "Instituto de investigación agrícola que estudió los cafés de la región Enriquillo para la denominación de origen Café Barahona.", "url": "https://www.idiaf.gob.do/"},
+    {"nombre": "Centro de Exportación e Inversión de la República Dominicana", "sigla": "ProDominicana", "tipo": "Institución nacional", "rol": "Promueve las exportaciones y ha llevado, junto con INDOCAFE, pabellones de café dominicano a la Specialty Coffee Expo.", "url": "https://prodominicana.gob.do/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organismo intergubernamental del café; INDOCAFE emite sus certificados de origen para cada embarque.", "url": "https://ico.org/"}
+  ],
+  "competencia": {"nombre": "", "url": ""},
+  "fuentes": [
+    {"titulo": "INDOCAFE – Memoria Institucional 2024", "url": "https://indocafe.gob.do/transparencia/index.php/plan-estrategico/memorias-institucionales/category/1633-2024?download=6692%3Amemoria-institucional-2024-indocafe"},
+    {"titulo": "INDOCAFE – Historia (Ley 79-00 y Ley 246-17)", "url": "https://www.indocafe.gob.do/index.php/en/sobre-nosotros/historia"},
+    {"titulo": "Revista Mercado – Día Mundial del Café, historia y cifras en la República Dominicana (2022)", "url": "https://www.revistamercado.do/economia/dia-mundial-del-cafe"},
+    {"titulo": "Reglamento de Ejecución (UE) 2016/1043 – registro de Café de Valdesia (DOP)", "url": "https://eur-lex.europa.eu/eli/reg/2016/1043/oj"},
+    {"titulo": "El Nuevo Diario – Comisión Europea protege el café Valdesia de RD", "url": "https://elnuevodiario.com.do/comision-europea-protege-el-cafe-valdesia-de-rd/"},
+    {"titulo": "IDIAF/CEDAF – Café Barahona, denominación de origen", "url": "https://intranet.cedaf.org.do/digital/cafe.barahona.denominacion.origen.idiaf.pdf"},
+    {"titulo": "IDIAF/CEDAF – La roya del cafeto en República Dominicana", "url": "https://intranet.cedaf.org.do/digital/roya.pdf"},
+    {"titulo": "Diario Libre – Roya afecta hasta el 70 % de plantaciones de café en RD", "url": "https://www.diariolibre.com/economia/roya-afecta-hasta-en-el-70-a-plantaciones-del-cafe-en-rd-XE2446707"},
+    {"titulo": "PNUD – República Dominicana lanza primera certificación de café sostenible del Caribe (2025)", "url": "https://www.undp.org/es/dominican-republic/noticias/republica-dominicana-lanza-primera-certificacion-de-cafe-sostenible-del-caribe"},
+    {"titulo": "Revista Mercado – ¿Qué significa la industria del café para la República Dominicana?", "url": "https://www.revistamercado.do/economia/industria-del-cafe-rd"},
+    {"titulo": "Acento – Industrias Banilejas y Goya Europa amplían su alianza", "url": "https://acento.com.do/sociales/industrias-banilejas-y-goya-europa-amplian-su-alianza-para-la-distribucion-en-espana-y-la-union-europea-9569117.html"},
+    {"titulo": "Café Metilxantin – Constanza primer lugar en la 3.ª Competencia Dominicana de Cafés de Calidad (2009)", "url": "http://cafemetilxantin.blogspot.com/2009/04/constanza-primer-lugar-en-3-competencia.html"},
+    {"titulo": "Starbucks Coffee Academy – ficha de origen República Dominicana (ASU)", "url": "https://live-sgacms.ws.asu.edu/sites/default/files/2023-08/DominicanRepublic_EN_Updated.pdf"}
+  ]
+}
