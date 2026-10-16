@@ -1,0 +1,112 @@
+{
+  "id": "gt",
+  "nombre": "Guatemala",
+  "slug": "guatemala",
+  "publicado": true,
+  "heroVideo": "",
+  "datosCortos": {"volumen": "3,16 millones de sacos (2025/26)", "cosecha": "Noviembre a abril", "altitud": "1.300 a 2.000 m", "productores": "Unas 125.000 familias"},
+  "metaDescripcion": "Café de Guatemala: historia, ocho regiones, producción, cómo se forma el precio, el rol de Anacafé y los cafés ganadores de la Taza de Excelencia.",
+  "intro": "El café de Guatemala crece a la sombra, entre volcanes y montañas, y se cosecha a mano en ocho regiones con perfiles de taza muy distintos. Unas 125.000 familias dependen de él, y fincas de Huehuetenango, Antigua o Acatenango figuran desde hace años entre las más premiadas del continente.",
+  "introduccion": [
+    "Pocos países tienen tantos paisajes cafetaleros en tan poco espacio. En Guatemala el café crece en las faldas de volcanes activos, en valles rodeados de montañas, a orillas del lago de Atitlán, en el bosque nuboso de Alta Verapaz y en las tierras altas de Huehuetenango, cerca de la frontera con México. Anacafé reconoce ocho regiones cafetaleras, y cada una tiene un clima, un suelo y un perfil de taza propios.",
+    "Casi todo es arábica de altura, cultivado bajo sombra y cosechado a mano. Más del 80 % de la cosecha reciente se clasificó como Strictly Hard Bean, el grano duro que solo se logra por encima de los 1.350 metros y que los compradores pagan con mejores diferenciales. Detrás de esa calidad hay unas 125.000 familias, y el 97 % de los productores son pequeños caficultores.",
+    "El país tiene además una larga historia en el café de especialidad. Celebró su primera Taza de Excelencia en 2001, de las primeras de la región; en 2000 los productores de Antigua fundaron la Asociación de Productores de Café Genuino Antigua, que logró la primera denominación de origen del país, y en 2020 un Geisha lavado de la finca El Socorro se vendió a 180,20 dólares la libra, récord de la competencia en Guatemala.",
+    "En esta página encontrarás cómo llegó el café a Guatemala, cómo se produce en cada región, cómo se forma el precio que recibe el productor, qué hace Anacafé y cuáles son los cafés guatemaltecos más premiados de los últimos años."
+  ],
+  "historia": [
+    "Los historiadores coinciden en que el cafeto ya crecía en Guatemala a mediados del siglo XVIII, aunque la fecha exacta de su llegada se desconoce. Se atribuye a los jesuitas haberlo sembrado como planta ornamental en sus jardines de La Antigua Guatemala. Durante décadas no tuvo importancia comercial: la gran exportación del país era la grana cochinilla, un colorante natural que en 1850 representaba más del 90 % de las ventas al exterior.",
+    "Todo cambió a mediados del siglo XIX. Las malas cosechas de cochinilla y la invención de los tintes sintéticos hundieron ese negocio, y el éxito cafetero de Costa Rica mostró otro camino. La Revolución Liberal de 1871 llevó al poder a Justo Rufino Barrios, él mismo caficultor, cuyo gobierno impulsó el cultivo con leyes sobre la tierra y el trabajo que favorecieron a los grandes finqueros a costa de las comunidades indígenas. Para 1880 el café ya representaba alrededor del 92 % del valor de las exportaciones.",
+    "En el siglo XX el Estado fue organizando el sector: en 1928 se creó la Oficina Central del Café, en 1960 se fundó la Asociación Nacional del Café (Anacafé) y en 1969 la Ley del Café, Decreto 19-69, definió sus funciones. En la década de 1990 Anacafé delimitó las ocho regiones cafetaleras según su clima, suelo y altitud. En 2001 Guatemala organizó su primera Taza de Excelencia, y en 2011 Honduras la superó como primer productor de Centroamérica.",
+    "La epidemia de roya obligó a declarar emergencia a inicios de 2013, y desde entonces cerca de un tercio de los cafetales de arábica se ha renovado con híbridos tolerantes. Hoy el país produce alrededor de tres millones de sacos al año, casi todo arábica de altura. Con los precios internacionales altos, la cosecha 2024-2025 dejó divisas por unos 1.281 millones de dólares, un 42,5 % más que el ciclo anterior. En 2018 los conocimientos tradicionales de la caficultura fueron reconocidos oficialmente como símbolo de identidad nacional."
+  ],
+  "hitos": [
+    {"anio": "1850", "texto": "La grana cochinilla, no el café, representa más del 90 % de las exportaciones."},
+    {"anio": "1871", "texto": "La Revolución Liberal lleva al poder a Justo Rufino Barrios, que convierte el café en eje de la economía."},
+    {"anio": "1880", "texto": "El café representa cerca del 92 % del valor de las exportaciones."},
+    {"anio": "1928", "texto": "Se crea la Oficina Central del Café."},
+    {"anio": "1960", "texto": "Se funda la Asociación Nacional del Café (Anacafé)."},
+    {"anio": "1969", "texto": "La Ley del Café (Decreto 19-69) define las funciones de Anacafé."},
+    {"anio": "2000", "texto": "Nace la Asociación de Productores de Café Genuino Antigua, que logra la primera denominación de origen del país."},
+    {"anio": "2001", "texto": "Primera edición de la Taza de Excelencia (Cup of Excellence) en Guatemala."},
+    {"anio": "2013", "texto": "Se declara emergencia por la epidemia de roya del cafeto."},
+    {"anio": "2018", "texto": "El Acuerdo Ministerial 606-2018 reconoce los conocimientos tradicionales de la caficultura como símbolo de identidad."},
+    {"anio": "2020", "texto": "Un Geisha lavado de la finca El Socorro se vende a 180,20 dólares la libra, récord de la Taza de Excelencia en Guatemala."},
+    {"anio": "2025", "texto": "La cosecha 2024-2025 deja divisas récord de unos 1.281 millones de dólares."}
+  ],
+  "produccion": {
+    "resumen": "Guatemala produce casi exclusivamente arábica: cerca del 98 % del área sembrada y el 96 % de la producción, con una pequeña cantidad de robusta. El 97 % de los productores son pequeños caficultores, aunque conviven con fincas medianas y grandes que tienen su propio beneficio.\n\nEl café se cultiva bajo sombra de árboles, que protegen las plantas del sol fuerte, conservan la humedad del suelo y dan refugio a aves y otras especies. La cosecha se hace a mano y avanza con la altitud: empieza en noviembre o diciembre en las zonas más bajas y termina en marzo o abril en las más altas. Casi todo el grano se procesa por vía húmeda (lavado), y en la última década han crecido los naturales y honey en los lotes de especialidad.\n\nLa altura es la gran carta de presentación del país. El café se clasifica por la altitud a la que crece, y la categoría más alta, Strictly Hard Bean, reúne el grano cultivado por encima de unos 1.350 metros: más denso, más ácido y más complejo en taza. En el ciclo 2024/25 el 81 % de la cosecha entró en esa categoría. Tras la roya de 2013, cerca de un tercio de los cafetales se renovó con híbridos tolerantes, junto a variedades tradicionales como Bourbon, Caturra, Catuaí y Typica.",
+    "volumen": "Alrededor de 3,16 millones de sacos de 60 kg en el ciclo 2025/26, según la estimación del USDA FAS (informe anual de café, 2026)",
+    "cosecha": "De noviembre o diciembre a marzo o abril, según la región y la altitud; el año cafetero va del 1 de octubre al 30 de septiembre",
+    "altitud": "Principalmente entre 1.300 y 2.000 metros sobre el nivel del mar en las regiones de especialidad",
+    "variedades": ["Bourbon", "Caturra", "Catuaí", "Typica", "Pacamara", "Anacafé 14", "Geisha"],
+    "procesos": ["Lavado", "Natural", "Honey"],
+    "productores": "Unas 125.000 familias productoras, según Anacafé",
+    "regiones": [
+      {"nombre": "Antigua", "nota": "Valle rodeado por los volcanes de Agua, Fuego y Acatenango; cafés de cuerpo pleno con notas de chocolate oscuro y azúcar morena. Tiene la primera denominación de origen del país."},
+      {"nombre": "Acatenango", "nota": "Suelos volcánicos arenosos y fincas bajo sombra de hasta unos 2.000 m, con una estación seca que permite secar al sol."},
+      {"nombre": "Atitlán", "nota": "Cafetales en las laderas volcánicas que rodean el lago de Atitlán."},
+      {"nombre": "Cobán", "nota": "Clima de bosque nuboso, muy húmedo, donde la maduración lenta da cafés dulces y complejos."},
+      {"nombre": "Fraijanes", "nota": "Meseta cercana a la Ciudad de Guatemala, con suelos de piedra pómez y estación seca cálida."},
+      {"nombre": "Huehuetenango", "nota": "Región de altura no volcánica cerca de México, famosa por cafés florales, complejos y frutales. De aquí salen muchos ganadores de la Taza de Excelencia."},
+      {"nombre": "Nuevo Oriente", "nota": "Zona oriental de clima más seco y menor precipitación que el resto del país."},
+      {"nombre": "San Marcos", "nota": "Región volcánica occidental, descrita como la más cálida de las zonas cafetaleras del país."}
+    ]
+  },
+  "costo": {
+    "explicacion": "El precio del café guatemalteco se forma a partir de la cotización del contrato \"C\" de arábica en la bolsa de Nueva York. A esa referencia se suma un diferencial que paga el comprador según la región, la altitud (por ejemplo, Strictly Hard Bean), la calidad en taza y las certificaciones; en los cafés de especialidad pueden añadirse primas adicionales por calidad.\n\nCada exportación se registra ante Anacafé con su precio: en la cosecha 2024-2025 el precio promedio de registro fue de 344,73 dólares por quintal, mientras el contrato \"C\" cerró la temporada en 374,85 dólares tras tocar un máximo histórico de 440,85 (Prensa Libre, octubre de 2025). La diferencia se explica en parte porque muchos contratos se pactan meses antes de la entrega, cuando el precio de la bolsa era más bajo.\n\nLo que recibe una familia productora es menor que el precio de exportación: se descuentan el beneficiado, el transporte, el financiamiento y el margen de intermediarios o cooperativas. Por eso los altos precios internacionales no siempre llegan completos a la finca, sobre todo a los pequeños productores que venden en cereza o en pergamino a un intermediario.\n\nPara leer el precio de arriba con números guatemaltecos: el café se vende por quintal de 46 kilos, unas 100 libras. El precio de Nueva York en centavos por libra equivale, de forma aproximada, a dólares por quintal de café oro, antes de sumar o restar el diferencial.",
+    "unidadLocal": "quintal de café oro (46 kg / 100 lb)"
+  },
+  "quienControlaPrecio": "En Guatemala el precio no lo fija ninguna autoridad: sigue al mercado internacional y se negocia libremente entre productores, exportadores y compradores. La Asociación Nacional del Café (Anacafé), fundada en 1960, no fija precios; la Ley del Café le prohíbe interferir en la libre contratación del café para exportación. Ante ella se registran las exportaciones y se tramitan los registros de exportadores, lo que le permite publicar los volúmenes, las divisas y el precio promedio de registro de cada cosecha.",
+  "organismosTexto": [
+    "El centro del sistema cafetalero guatemalteco es la Asociación Nacional del Café, Anacafé. Su marco es la Ley del Café, Decreto 19-69, que le encarga servicios para toda la caficultura: catación, arbitraje, registros, estadísticas y almacenamiento, además de investigación, asistencia técnica y promoción del café de Guatemala en el mundo. La misma ley deja claro que Anacafé no puede intervenir en la libre contratación del café de exportación: registra los contratos, pero no decide sus precios.",
+    "La ley también hace que los productores formen parte de la asociación, algo que ha generado debate: organizaciones campesinas han pedido a la Corte de Constitucionalidad revisar esa afiliación obligatoria por considerar que limita la libertad de asociación. Es una muestra de que el café sigue siendo un tema central en la vida política y económica del país.",
+    "Junto a Anacafé trabajan las cooperativas y sus federaciones, como FEDECOCAGUA, que desde 1969 comercializa el café de decenas de cooperativas de pequeños productores; asociaciones regionales como la de Café Genuino Antigua, que protege la denominación de origen de ese valle; y organizaciones internacionales que ofrecen financiamiento, certificaciones de comercio justo y programas de desarrollo para las familias cafetaleras."
+  ],
+  "organismos": [
+    {"nombre": "Asociación Nacional del Café", "sigla": "Anacafé", "tipo": "Institución nacional", "rol": "Representa a los caficultores, registra las exportaciones y presta servicios de catación, arbitraje, estadística, asistencia técnica e investigación.", "url": "https://www.anacafe.org/"},
+    {"nombre": "Federación de Cooperativas Agrícolas de Productores de Café de Guatemala", "sigla": "FEDECOCAGUA", "tipo": "Cooperativa", "rol": "Federación fundada en 1969 que comercializa el café de decenas de cooperativas de pequeños productores.", "url": ""},
+    {"nombre": "Asociación de Productores de Café Genuino Antigua", "sigla": "APCA", "tipo": "Denominación de origen", "rol": "Fundada en 2000, protege la autenticidad del café de Antigua con la primera denominación de origen del país y su sello Genuine Antigua Coffee.", "url": ""},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organiza la Taza de Excelencia en Guatemala y subasta en línea los lotes ganadores.", "url": "https://allianceforcoffeeexcellence.org/"},
+    {"nombre": "Coordinadora Latinoamericana y del Caribe de Comercio Justo", "sigla": "CLAC", "tipo": "Organismo internacional", "rol": "Red de pequeños productores copropietaria del sistema Fairtrade, que agrupa a cooperativas certificadas de la región.", "url": "https://clac-comerciojusto.org/"},
+    {"nombre": "Root Capital", "sigla": "", "tipo": "ONG", "rol": "Financia y asesora a cooperativas y empresas agrícolas de pequeños productores en Guatemala.", "url": "https://rootcapital.org/"},
+    {"nombre": "TechnoServe", "sigla": "", "tipo": "ONG", "rol": "Organización de desarrollo empresarial agrícola con programas activos en Guatemala.", "url": "https://www.technoserve.org/"}
+  ],
+  "reconocidosTexto": [
+    "Guatemala celebró su primera Taza de Excelencia en 2001 y desde entonces la competencia se ha convertido en la vitrina de sus mejores fincas. Jurados nacionales e internacionales catan a ciegas cientos de lotes; los que superan los 87 puntos se subastan en línea. Las ediciones recientes premian por separado varias categorías, como los Exóticos lavados, los Exóticos naturales y honey y la categoría One of a Kind para cafés de perfil único.",
+    "Huehuetenango domina los primeros lugares de los últimos años, pero los récords vienen de distintas regiones. En 2008 el Pacamara de El Injerto, de la familia Aguirre, se vendió a 80,20 dólares la libra; en 2020 un Geisha lavado de la finca El Socorro alcanzó 180,20 dólares la libra, y en 2022 la finca El Morito, de Mataquescuintla, logró 138,20 dólares la libra. El Injerto, por su parte, sumaba en 2021 su undécimo triunfo en la competencia desde 2006."
+  ],
+  "cafesReconocidos": [
+    {"nombre": "Finca El Injerto I (El Injerto S.A.)", "region": "Huehuetenango", "logro": "1.er lugar categoría Exóticos naturales y honey, Cup of Excellence Guatemala 2026, Geisha natural, 91,86 puntos", "anio": "2026"},
+    {"nombre": "Finca Las Macadamias", "region": "Huehuetenango", "logro": "1.er lugar categoría Exóticos lavados, Cup of Excellence Guatemala 2026, Geisha lavado, 90,77 puntos", "anio": "2026"},
+    {"nombre": "Finca Los Aguacatones (Rosa María De La Peña Illescas)", "region": "Huehuetenango", "logro": "1.er lugar categoría One of a Kind, Cup of Excellence Guatemala 2026, lavado, 89,86 puntos", "anio": "2026"},
+    {"nombre": "Finca La Gran Manzana (Ángel Alejandro Morales De La Peña)", "region": "Huehuetenango", "logro": "1.er lugar categoría Exóticos lavados, Cup of Excellence Guatemala 2025, Geisha lavado, 91,15 puntos", "anio": "2025"},
+    {"nombre": "Finca El Morito (José Roberto Monterroso Pineda)", "region": "Mataquescuintla, Jalapa", "logro": "2.º lugar categoría Exóticos lavados, Cup of Excellence Guatemala 2025, Geisha lavado, 90,90 puntos", "anio": "2025"}
+  ],
+  "records": [
+    {"nombre": "Finca El Socorro", "region": "Guatemala", "logro": "180,20 dólares por libra por un Geisha lavado en la Cup of Excellence Guatemala 2020, récord de la competencia en el país", "anio": "2020"},
+    {"nombre": "Finca El Morito", "region": "Mataquescuintla, Jalapa", "logro": "138,20 dólares por libra en la subasta de la Cup of Excellence Guatemala 2022", "anio": "2022"},
+    {"nombre": "Finca El Injerto (familia Aguirre)", "region": "Huehuetenango", "logro": "80,20 dólares por libra por su Pacamara en la Cup of Excellence Guatemala 2008, récord de aquel momento", "anio": "2008"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Guatemala (Taza de Excelencia)", "url": "https://allianceforcoffeeexcellence.org/guatemala-2026/"},
+  "fuentes": [
+    {"titulo": "Anacafé – Asociación Nacional del Café", "url": "https://www.anacafe.org/"},
+    {"titulo": "Anacafé – Café de Guatemala", "url": "https://www.anacafe.org/cafe-de-guatemala/"},
+    {"titulo": "Ley del Café, Decreto 19-69 (copia en export.com.gt)", "url": "https://export.com.gt/attach/componentes/listado-filas/LeydelCafe_5fb59fbdc7be3.pdf"},
+    {"titulo": "USDA FAS – Guatemala: Coffee Annual", "url": "https://www.fas.usda.gov/data/guatemala-coffee-annual"},
+    {"titulo": "Daily Coffee News – Guatemala Coffee Report: Production Up as Arabica Plantings Mature (mayo de 2026)", "url": "https://dailycoffeenews.com/2026/05/12/guatemala-coffee-report-production-up-as-arabica-plantings-mature/"},
+    {"titulo": "Prensa Libre – Cosecha cafetalera 2024-2025 deja divisas históricas para Guatemala (octubre de 2025)", "url": "https://www.prensalibre.com/?p=23901850"},
+    {"titulo": "Prensa Libre – Precios récord del café: ¿Por qué los productores aún no pueden ver los beneficios? (febrero de 2025)", "url": "https://www.prensalibre.com/?p=21686948"},
+    {"titulo": "Prensa Libre – Impugnación de la Ley del Café ante la Corte de Constitucionalidad", "url": "https://www.prensalibre.com/?p=229224"},
+    {"titulo": "Global Coffee Report – Guatemala Cup of Excellence continues auction record-breaking streak", "url": "https://www.gcrmag.com/guatemala-cup-of-excellence-continues-auction-record-breaking-streak"},
+    {"titulo": "Bloomberg Línea – Cafés de Guatemala logran precios récord en subasta internacional Cup of Excellence (2022)", "url": "https://www.bloomberglinea.com/2022/07/20/cafes-de-guatemala-logran-precios-record-en-subasta-internacional-cup-of-excellence/"},
+    {"titulo": "Daily Coffee News – 28 farms win 2021 Guatemala Cup of Excellence awards", "url": "https://dailycoffeenews.com/2021/06/24/28-farms-win-2021-guatemala-cup-of-excellence-awards-four-reach-90"},
+    {"titulo": "Algrano – Antigua, Guatemala", "url": "https://www.algrano.com/en/resources/42"},
+    {"titulo": "Alliance for Coffee Excellence – Guatemala 2026", "url": "https://allianceforcoffeeexcellence.org/guatemala-2026/"},
+    {"titulo": "Alliance for Coffee Excellence – Guatemala 2025", "url": "https://allianceforcoffeeexcellence.org/guatemala-2025/"},
+    {"titulo": "SAFIN – Federación de Cooperativas Agrícolas de Productores de Café de Guatemala", "url": "https://safinetwork.org/members/federacion-de-cooperativas-agricolas-de-productores-de-cafe-de-guatemala/"},
+    {"titulo": "BID – El FOMIN apoya esquema de financiamiento para agricultura sostenible en Honduras, Guatemala y Nicaragua (Root Capital)", "url": "https://www.iadb.org/en/news/mif-supports-innovative-financing-scheme-sustainable-agriculture-honduras-guatemala-and"},
+    {"titulo": "TechnoServe – Where we work", "url": "https://www.technoserve.org/our-work/where-we-work/"},
+    {"titulo": "Wikipedia – Coffee production in Guatemala", "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Guatemala"},
+    {"titulo": "Britannica – History of Guatemala", "url": "https://kids.britannica.com/students/article/history-of-Guatemala/638172"}
+  ]
+}

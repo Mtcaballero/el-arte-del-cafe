@@ -321,7 +321,7 @@ ${c.records.map((r) => `<li>${TAZA}<div><h4>${esc(r.nombre)} · ${esc(r.anio)}</
 ${comp.nombre ? '<p class="rg-nota">Resultados completos en ' + (comp.url ? '<a href="' + esc(comp.url) + '" target="_blank" rel="noopener">' + esc(comp.nombre) + '</a>' : esc(comp.nombre)) + '.</p>' : ''}
 </section>
 
-<section id="explora" aria-labelledby="h-explora" class="rg-explora" style="background: ${v.bg};">
+<section id="explora" aria-labelledby="h-explora" class="rg-explora" style="background: ${v.bg === '#23305E' ? '#4A1F3D' : v.bg};">
 <h2 id="h-explora">Sigue explorando ${esc(c.nombre)}</h2>
 <div class="rg-ctas">
 <a class="rg-cta" href="/cafeterias.html#ranking">${TAZA}<span>Ver cafeterías premiadas</span>${FLECHA}</a>
