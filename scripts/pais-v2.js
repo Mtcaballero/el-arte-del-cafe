@@ -84,7 +84,7 @@ ${contenido}
     const anios = [...new Set(d.ganadores.map((g) => g.anio))].sort().reverse();
     const otros = TODOS.filter((x) => x.id !== c.id);
 
-    const intro = seccion('introduccion', 'Introducción al café de ' + esc(c.nombre), 'Un café que nace en la montaña', `
+    const intro = seccion('introduccion', 'Introducción al café de ' + esc(c.nombre), esc((d.titulos || {}).intro || 'Un café que nace en la montaña'), `
 <div class="rv-intro">
 <div class="rv-intro-texto">
 <p class="rv-lead">${esc(d.lead)}</p>
@@ -97,7 +97,7 @@ ${d.cifras.map((x) => `<div><dt>${esc(x.etiqueta)}</dt><dd>${esc(x.valor)}</dd>$
 ${foto(d.imagenes.paisaje, 'rv-foto-ancha')}
 <blockquote class="rv-destacado"><p>${esc(d.destacado)}</p></blockquote>`);
 
-    const historia = seccion('historia', 'Historia del café en ' + esc(c.nombre), 'De cultivo de patio a orgullo nacional', `
+    const historia = seccion('historia', 'Historia del café en ' + esc(c.nombre), esc((d.titulos || {}).historia || 'De cultivo de patio a orgullo nacional'), `
 <div class="rv-capitulos">
 ${d.capitulos.map((k, i) => `<article class="rv-capitulo"><span class="rv-periodo">${esc(k.periodo)}</span><h3>${esc(k.titulo)}</h3><p>${esc(k.texto)}</p></article>${i === 1 ? foto(d.imagenes.historia, 'rv-foto-capitulo') : ''}`).join('\n')}
 </div>
@@ -146,7 +146,7 @@ ${d.costoPasos.map((x, i) => `<li><span class="rv-paso-num">${i + 1}</span><div>
 <p class="rv-pregunta-a">${esc(d.quienCorto)}</p>
 <p>${esc(d.quienLargo)}</p>
 </div>
-<div class="rv-niveles">
+<div class="rv-niveles" style="--n: ${d.niveles.length};">
 ${d.niveles.map((n, i) => `<div class="rv-nivel"><p class="rv-nivel-tit"><span>${i + 1}</span>${esc(n.titulo)}</p><ul>${n.siglas.map((s) => org[s]).filter(Boolean).map((o) => `<li><h4>${esc(o.sigla || o.nombre)}</h4>${o.sigla ? '<p class="rv-org-nombre">' + esc(o.nombre) + '</p>' : ''}<p>${esc(o.rol)}</p>${o.url ? '<a href="' + esc(o.url) + '" target="_blank" rel="noopener">Visitar sitio ' + EXTERNO + '<span class="rg-oculto"> (se abre en otra pestaña)</span></a>' : ''}</li>`).join('')}</ul></div>`).join('\n')}
 </div>
 <p class="rv-aparte">${esc(d.organismosNota)}</p>`);
@@ -161,7 +161,7 @@ ${d.records.map((r) => `<div class="rv-record"><span class="rv-record-valor">${e
 </div>
 ${anios.map((a) => `<h3 class="rv-subtitulo">Ganadores de la Taza de Excelencia ${esc(a)}</h3>
 <ul class="rv-ganadores">
-${d.ganadores.filter((g) => g.anio === a).map((g) => `<li><span class="rv-puntos">${esc(g.puntos)}<small>puntos</small></span><p class="rv-categoria">${esc(g.puesto || '1.er lugar')} · ${esc(g.categoria)}</p><h4>${esc(g.finca)}</h4><p>${esc(g.productor)}</p><p class="rv-region-tag">${esc(g.region)} · ${esc(g.cafe)}</p></li>`).join('\n')}
+${d.ganadores.filter((g) => g.anio === a).map((g) => `<li><span class="rv-puntos">${esc(g.puntos)}<small>puntos</small></span><p class="rv-categoria">${esc(g.puesto || '1.er lugar')} · ${esc(g.categoria)}</p><h4>${esc(g.finca)}</h4>${g.productor ? '<p>' + esc(g.productor) + '</p>' : ''}<p class="rv-region-tag">${esc(g.region)} · ${esc(g.cafe)}</p></li>`).join('\n')}
 </ul>`).join('\n')}
 ${comp.url ? '<p class="rv-mas"><a href="' + esc(comp.url) + '" target="_blank" rel="noopener">Ver todos los resultados de la ' + esc(comp.nombre.replace(/\s*\(.*\)$/, '')) + ' ' + EXTERNO + '</a></p>' : ''}`, 'rv-oscura');
 

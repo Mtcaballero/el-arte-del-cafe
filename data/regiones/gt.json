@@ -3,7 +3,90 @@
   "nombre": "Guatemala",
   "slug": "guatemala",
   "publicado": true,
+  "diseno": 2,
   "heroVideo": "",
+  "v2": {
+    "gentilicio": "guatemalteco",
+    "gentilicioPlural": "guatemaltecos",
+    "regionesTitulo": "Ocho regiones, ocho tazas",
+    "titulos": {"intro": "Un café que crece entre volcanes", "historia": "De jardín jesuita a potencia cafetalera"},
+    "lead": "En Guatemala el café crece a la sombra, entre volcanes, lagos y montañas, y se cosecha a mano en ocho regiones con personalidad propia. Es uno de los orígenes más reconocidos del mundo y uno de los primeros de la región en apostar por el café de especialidad.",
+    "introduccion": [
+      "Pocos países tienen tantos paisajes cafetaleros en tan poco espacio: faldas de volcanes activos en Antigua y Acatenango, el lago de Atitlán, el bosque nuboso de Cobán y las tierras altas de Huehuetenango, junto a la frontera con México.",
+      "Casi todo es arábica de altura. Más del 80 % de la cosecha reciente se clasificó como Strictly Hard Bean, el grano duro que crece por encima de unos 1.350 metros, y el 97 % de quienes lo producen son pequeños caficultores."
+    ],
+    "cifras": [
+      {"valor": "3,16 M", "etiqueta": "sacos de 60 kg al año", "nota": "Ciclo 2025/26, USDA"},
+      {"valor": "125.000", "etiqueta": "familias productoras", "nota": "Anacafé"},
+      {"valor": "8", "etiqueta": "regiones cafetaleras", "nota": "Delimitadas por Anacafé"},
+      {"valor": "81 %", "etiqueta": "grano duro de altura", "nota": "Strictly Hard Bean, 2024/25"}
+    ],
+    "destacado": "En 2020 un Geisha lavado de la finca El Socorro se vendió a 180,20 dólares la libra, el precio más alto en la historia de la Taza de Excelencia en Guatemala.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales bajo sombra frente a los volcanes de Antigua Guatemala"},
+      "historia": {"src": "", "alt": "Patio de secado en una finca cafetalera tradicional de Guatemala"},
+      "cosecha": {"src": "", "alt": "Recolección de cerezas de café maduras en Huehuetenango"},
+      "premios": {"src": "", "alt": "Catación de lotes en la Taza de Excelencia Guatemala"}
+    },
+    "capitulos": [
+      {"periodo": "Siglo XVIII", "titulo": "Un jardín jesuita", "texto": "El cafeto ya crecía en Guatemala a mediados del siglo XVIII. Se cuenta que los jesuitas lo sembraban como planta ornamental en sus jardines de La Antigua. Durante décadas fue una curiosidad: el gran negocio era la grana cochinilla, un colorante que en 1850 representaba más del 90 % de las exportaciones."},
+      {"periodo": "1850–1900", "titulo": "El auge cafetalero", "texto": "Los tintes sintéticos hundieron la cochinilla y el café ocupó su lugar. La Revolución Liberal de 1871 llevó al poder a Justo Rufino Barrios, él mismo caficultor, cuyo gobierno impulsó el cultivo con leyes que favorecieron a los grandes finqueros a costa de las comunidades indígenas. Para 1880 el café era el 92 % de las exportaciones."},
+      {"periodo": "1928–2001", "titulo": "Un sector organizado", "texto": "En 1928 nació la Oficina Central del Café y en 1960 Anacafé, cuyas funciones fijó la Ley del Café de 1969. En los noventa se delimitaron las ocho regiones cafetaleras, en 2000 los productores de Antigua crearon su denominación de origen y en 2001 llegó la primera Taza de Excelencia."},
+      {"periodo": "Hoy", "titulo": "Roya, renovación y récords", "texto": "La roya obligó a declarar emergencia en 2013 y cerca de un tercio de los cafetales se renovó con híbridos tolerantes. La cosecha 2024-2025 dejó divisas récord de unos 1.281 millones de dólares, y en 2018 la caficultura tradicional fue reconocida como símbolo de identidad nacional."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha a mano, bajo sombra", "texto": "Los árboles de sombra protegen al cafeto del sol fuerte. La cereza madura se recoge a mano entre noviembre o diciembre y marzo o abril, según la altura."},
+      {"titulo": "Despulpado", "texto": "La cereza llega al beneficio el mismo día y la despulpadora separa la pulpa del grano. Muchas fincas medianas y grandes tienen su propio beneficio."},
+      {"titulo": "Fermentado y lavado", "texto": "El grano reposa para que se suelte el mucílago y luego se lava. Casi todo el café del país se procesa así, por vía húmeda."},
+      {"titulo": "Secado al sol", "texto": "Se extiende en patios hasta quedar como café pergamino. Regiones como Acatenango aprovechan su estación seca para secar al sol; en los lotes de especialidad crecen los naturales y honey."},
+      {"titulo": "Clasificación por altura", "texto": "Antes de exportarse se trilla y se clasifica por altura y densidad. La categoría más alta, Strictly Hard Bean, es la carta de presentación del país."}
+    ],
+    "variedades": [
+      {"grupo": "Tradicionales", "lista": ["Bourbon", "Caturra", "Catuaí", "Typica"]},
+      {"grupo": "Tolerantes a la roya", "lista": ["Anacafé 14"]},
+      {"grupo": "De especialidad", "lista": ["Pacamara", "Geisha"]}
+    ],
+    "variedadesTexto": "Las variedades tradicionales siguen dominando las fincas de altura. Tras la roya de 2013 cerca de un tercio de los cafetales se renovó con híbridos tolerantes, y en las fincas de especialidad brillan el Pacamara y el Geisha.",
+    "regiones": [
+      {"nombre": "Antigua", "altura": "", "perfil": ["Chocolate oscuro", "Azúcar morena", "Cuerpo pleno"], "nota": "Valle rodeado por los volcanes de Agua, Fuego y Acatenango. Tiene la primera denominación de origen del país."},
+      {"nombre": "Acatenango", "altura": "Hasta unos 2.000 m", "perfil": ["Suelo volcánico", "Secado al sol"], "nota": "Fincas bajo sombra en suelos volcánicos arenosos, con una estación seca ideal para secar."},
+      {"nombre": "Atitlán", "altura": "", "perfil": ["Laderas volcánicas", "Lago"], "nota": "Cafetales en las faldas de los volcanes que rodean el lago de Atitlán."},
+      {"nombre": "Cobán", "altura": "", "perfil": ["Dulce", "Complejo", "Bosque nuboso"], "nota": "Clima muy húmedo y maduración lenta, que da cafés dulces y complejos."},
+      {"nombre": "Fraijanes", "altura": "", "perfil": ["Piedra pómez", "Estación seca"], "nota": "Meseta cercana a la Ciudad de Guatemala, con suelos de piedra pómez."},
+      {"nombre": "Huehuetenango", "altura": "", "perfil": ["Floral", "Frutal", "Complejo"], "nota": "Tierras altas no volcánicas junto a México. De aquí salen muchos ganadores de la Taza de Excelencia."},
+      {"nombre": "Nuevo Oriente", "altura": "", "perfil": ["Clima seco"], "nota": "Zona oriental, más seca y con menos lluvia que el resto del país."},
+      {"nombre": "San Marcos", "altura": "", "perfil": ["Volcánico", "Cálido"], "nota": "Región volcánica del occidente, la más cálida de las zonas cafetaleras."}
+    ],
+    "costoPasos": [
+      {"titulo": "La bolsa marca el punto de partida", "texto": "La referencia es el contrato C de arábica en la bolsa de Nueva York. Anacafé publica esa cotización y registra el precio de cada venta."},
+      {"titulo": "La altura vale dinero", "texto": "El comprador suma un diferencial según la región, la altura (como el Strictly Hard Bean), la calidad en taza y las certificaciones."},
+      {"titulo": "Lo que llega a la finca", "texto": "Se restan beneficio, transporte, financiamiento y márgenes. Los pequeños productores que venden en cereza o pergamino a un intermediario suelen recibir la parte más pequeña."}
+    ],
+    "costoTip": "Un quintal guatemalteco pesa 46 kilos, unas 100 libras. Por eso el precio de Nueva York en centavos por libra equivale, más o menos, a dólares por quintal.",
+    "costoEjemplo": {"valor": "US$ 344,73", "etiqueta": "precio promedio de registro por quintal, cosecha 2024-2025", "nota": "Anacafé vía Prensa Libre, octubre de 2025"},
+    "costoEspecialidad": "Los lotes premiados se subastan por su calidad y pueden valer muchas veces el precio de la bolsa: en 2020 uno llegó a 180,20 dólares la libra.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El precio sigue al mercado internacional y se negocia libremente entre productores, exportadores y compradores. Anacafé registra cada exportación y su precio y publica volúmenes y promedios, pero la Ley del Café le prohíbe intervenir en la libre contratación del café de exportación.",
+    "organismosNota": "La Ley del Café hace que los productores formen parte de Anacafé, algo que organizaciones campesinas han cuestionado ante la Corte de Constitucionalidad.",
+    "niveles": [
+      {"titulo": "Registra y da servicios", "siglas": ["Anacafé"]},
+      {"titulo": "Cooperativas y origen", "siglas": ["FEDECOCAGUA", "APCA"]},
+      {"titulo": "Aliados internacionales", "siglas": ["ACE", "CLAC", "Root Capital", "TechnoServe"]}
+    ],
+    "reconocidosIntro": "Desde 2001 la Taza de Excelencia es la vitrina del café guatemalteco. Los lotes que superan los 87 puntos se subastan en línea, y en los últimos años Huehuetenango domina los primeros lugares.",
+    "records": [
+      {"valor": "180,20", "unidad": "dólares por libra", "titulo": "Finca El Socorro · 2020", "texto": "Un Geisha lavado que marcó el récord de la Taza de Excelencia en Guatemala."},
+      {"valor": "138,20", "unidad": "dólares por libra", "titulo": "Finca El Morito · 2022", "texto": "Desde Mataquescuintla, Jalapa, uno de los precios más altos de la competencia en el país."},
+      {"valor": "80,20", "unidad": "dólares por libra", "titulo": "Finca El Injerto · 2008", "texto": "El Pacamara de la familia Aguirre, récord de aquel momento."}
+    ],
+    "ganadores": [
+      {"anio": "2026", "categoria": "Exóticos naturales y honey", "finca": "Finca El Injerto I", "productor": "El Injerto S.A.", "region": "Huehuetenango", "cafe": "Geisha natural", "puntos": "91,86"},
+      {"anio": "2026", "categoria": "Exóticos lavados", "finca": "Finca Las Macadamias", "productor": "", "region": "Huehuetenango", "cafe": "Geisha lavado", "puntos": "90,77"},
+      {"anio": "2026", "categoria": "One of a Kind", "finca": "Finca Los Aguacatones", "productor": "Rosa María De La Peña Illescas", "region": "Huehuetenango", "cafe": "Lavado", "puntos": "89,86"},
+      {"anio": "2025", "categoria": "Exóticos lavados", "finca": "Finca La Gran Manzana", "productor": "Ángel Alejandro Morales De La Peña", "region": "Huehuetenango", "cafe": "Geisha lavado", "puntos": "91,15"},
+      {"anio": "2025", "categoria": "Exóticos lavados", "puesto": "2.º lugar", "finca": "Finca El Morito", "productor": "José Roberto Monterroso Pineda", "region": "Mataquescuintla, Jalapa", "cafe": "Geisha lavado", "puntos": "90,90"}
+    ]
+  },
   "datosCortos": {"volumen": "3,16 millones de sacos (2025/26)", "cosecha": "Noviembre a abril", "altitud": "1.300 a 2.000 m", "productores": "Unas 125.000 familias"},
   "metaDescripcion": "Café de Guatemala: historia, ocho regiones, producción, cómo se forma el precio, el rol de Anacafé y los cafés ganadores de la Taza de Excelencia.",
   "intro": "El café de Guatemala crece a la sombra, entre volcanes y montañas, y se cosecha a mano en ocho regiones con perfiles de taza muy distintos. Unas 125.000 familias dependen de él, y fincas de Huehuetenango, Antigua o Acatenango figuran desde hace años entre las más premiadas del continente.",
