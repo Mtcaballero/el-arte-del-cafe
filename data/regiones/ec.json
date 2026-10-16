@@ -1,0 +1,130 @@
+{
+  "id": "ec",
+  "nombre": "Ecuador",
+  "slug": "ecuador",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de Ecuador: historia, producción de arábigo y robusta, cómo se forma el precio, organismos y cafés premiados en Taza Dorada y Cup of Excellence.",
+  "intro": "Ecuador cultiva a la vez café arábigo y robusta, desde la costa de Manabí hasta la Amazonía y las montañas de Loja. Aunque hoy produce menos café del que consume, sus microlotes de altura se cuentan entre los mejor puntuados de América del Sur.",
+  "v2": {
+    "gentilicio": "ecuatoriano",
+    "gentilicioPlural": "ecuatorianos",
+    "regionesTitulo": "De la costa a la Amazonía",
+    "ganadoresTitulo": "Cafés premiados",
+    "titulos": {"intro": "Arábigo y robusta en la mitad del mundo", "historia": "De la Sultana del Café a los microlotes"},
+    "lead": "Ecuador cultiva café en la costa, en los Andes y en la Amazonía, y es de los pocos países de la región que produce arábigo y robusta a la vez. Hoy cosecha menos de lo que consume, pero sus microlotes de altura están entre los mejor puntuados de Sudamérica.",
+    "introduccion": [
+      "Cerca del 55 % de la cosecha es arábigo, de Manabí, Loja, Pichincha e Imbabura, y el 45 % es robusta, sobre todo de Orellana y Sucumbíos, que abastece a la industria de café soluble. Por estar sobre la línea ecuatorial, en algunas zonas el cafeto florece y madura varias veces al año.",
+      "La producción es apenas una fracción de la de los años setenta, y el país importa grano para su industria. Pero en Loja, Zamora Chinchipe, Pichincha e Imbabura una nueva generación de fincas de especialidad ganó la primera Cup of Excellence del país con precios récord."
+    ],
+    "cifras": [
+      {"valor": "~97.000", "etiqueta": "sacos de 60 kg en 2023", "nota": "5.584 toneladas, INEC"},
+      {"valor": "+300.000", "etiqueta": "sacos que se consumen al año", "nota": "Anecafé"},
+      {"valor": "55 / 45", "etiqueta": "por ciento de arábigo y robusta", "nota": "Dos especies, dos mercados"},
+      {"valor": "30.314", "etiqueta": "hectáreas sembradas", "nota": "INEC, 2023"}
+    ],
+    "destacado": "En su primera Cup of Excellence, en 2021, los 23 lotes ganadores de Ecuador promediaron 33,55 dólares la libra: el mejor promedio de la historia del programa hasta ese momento.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales de altura en las montañas de Loja"},
+      "historia": {"src": "", "alt": "Puerto de Manta, salida histórica del café de Jipijapa"},
+      "cosecha": {"src": "", "alt": "Recolección de cerezas maduras en una finca de especialidad de Pichincha"},
+      "premios": {"src": "", "alt": "Catación de microlotes ecuatorianos de especialidad"}
+    },
+    "capitulos": [
+      {"periodo": "1860–1930", "titulo": "La Sultana del Café", "texto": "El café llegó a mediados del siglo XIX y se asentó primero en Manabí. Desde 1860 el cantón de Jipijapa vivió un auge que le dio el apodo de «Sultana del Café»: llegó a aportar el 38,6 % de la producción nacional y el grano salía por Manta hacia Europa. A fines de los años veinte, cuando las enfermedades golpearon al cacao, el café pasó a primer plano."},
+      {"periodo": "1970–2012", "titulo": "Auge y caída", "texto": "En los años setenta el país llegó a producir más de 2,5 millones de sacos al año, según El Diario. Desde los ochenta la caída de los precios internacionales hizo poco rentable el café, y la crisis, las plagas y la falta de inversión hundieron zonas como Jipijapa. En 2012 la roya golpeó con fuerza y la superficie siguió bajando."},
+      {"periodo": "2000–2023", "titulo": "El despertar de la especialidad", "texto": "Desde la década de 2000 creció el café de especialidad en Loja, Zamora Chinchipe, Pichincha e Imbabura. Anecafé organiza desde hace casi dos décadas la Taza Dorada, y entre 2021 y 2023 el país celebró sus primeras Cup of Excellence, con un debut de precios récord."},
+      {"periodo": "Hoy", "titulo": "Un país que importa café", "texto": "En 2023 había 30.314 hectáreas sembradas y se cosecharon unos 97.000 sacos, mientras el consumo supera los 300.000. El país importa grano para su industria de soluble, que es más del 90 % de lo que exporta. En 2025 el Ministerio de Agricultura creó la Mesa Técnica de la Cadena del Café y el Gobierno impulsa revitalizar 20.000 hectáreas."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha casi todo el año", "texto": "La cosecha principal de arábigo va de abril a septiembre, con otra menor a fin de año; cerca de la línea ecuatorial se cosecha casi todo el año."},
+      {"titulo": "De «café en bola» a cereza madura", "texto": "El café tradicional se dejaba secar en la planta. Los productores de especialidad recogen solo cerezas maduras y cuidan cada paso."},
+      {"titulo": "Beneficio", "texto": "El arábigo de especialidad se procesa lavado, natural, honey o con fermentaciones experimentales como el lavado anaeróbico."},
+      {"titulo": "Robusta para soluble", "texto": "El robusta de la Amazonía va sobre todo a la industria de café soluble, el principal producto de exportación cafetera del país."},
+      {"titulo": "Venta", "texto": "Entre el caficultor y el exportador suele haber varios intermediarios; los lotes de especialidad se venden directo o en subasta."}
+    ],
+    "variedades": [
+      {"grupo": "Tradicionales", "lista": ["Típica (criollo)", "Bourbon", "Caturra"]},
+      {"grupo": "De especialidad", "lista": ["Sidra", "Typica Mejorado", "Geisha"]},
+      {"grupo": "De la Amazonía", "lista": ["Robusta"]}
+    ],
+    "variedadesTexto": "Junto a la Típica criolla, el Bourbon y el Caturra, Ecuador se hizo famoso entre los catadores por variedades como el Sidra y el Typica Mejorado, que ganaron sus primeras competencias. En la Amazonía domina el robusta.",
+    "regiones": [
+      {"nombre": "Loja", "altura": "", "perfil": ["Más premiada", "Altura"], "nota": "Región del sur de donde salieron los dos primeros lugares de la Cup of Excellence 2023 y el lote más caro de 2021."},
+      {"nombre": "Manabí", "altura": "500–700 m", "perfil": ["Cuna histórica", "Arábigo de baja altura"], "nota": "Donde empezó el café ecuatoriano, con Jipijapa como gran centro cafetalero."},
+      {"nombre": "Pichincha", "altura": "", "perfil": ["Especialidad", "Cerca de Quito"], "nota": "Fincas de especialidad como Cruz Loma, premiada en la Cup of Excellence 2023."},
+      {"nombre": "Zamora Chinchipe", "altura": "", "perfil": ["Especialidad", "Sur"], "nota": "Junto con Loja y Pichincha, concentra los mejores lotes del país."},
+      {"nombre": "Orellana y Sucumbíos", "altura": "Tierras bajas", "perfil": ["Robusta", "Amazonía"], "nota": "Encabezan la superficie cosechada de café, sobre todo robusta."},
+      {"nombre": "Chimborazo", "altura": "", "perfil": ["Taza Dorada 2024"], "nota": "De Pallatanga salió el ganador de la Taza Dorada 2024."}
+    ],
+    "costoPasos": [
+      {"titulo": "Dos bolsas de referencia", "texto": "El arábigo sigue a la bolsa de Nueva York y el robusta al mercado de futuros de robusta, más un diferencial por calidad y negociación."},
+      {"titulo": "Varios intermediarios", "texto": "Entre la finca y el exportador suele haber varios compradores, y cada uno se queda con una parte del precio."},
+      {"titulo": "La especialidad paga más", "texto": "Los cafés de especialidad se negocian por encima de la bolsa y los mejores se venden en Taza Dorada y Cup of Excellence."}
+    ],
+    "costoTip": "Ecuador usa el dólar estadounidense, así que el quintal se paga directamente en dólares, sin tipo de cambio de por medio. Por eso los cambios de la bolsa llegan rápido al campo.",
+    "costoEjemplo": {"valor": "US$ 400", "etiqueta": "por quintal de arábigo en abril de 2025, frente a unos 200 dólares seis meses antes; el robusta pasó de 100 a 240", "nota": "Primicias, abril de 2025"},
+    "costoEspecialidad": "Los microlotes de altura se venden muy por encima del café convencional: en la primera Cup of Excellence, el mejor lote llegó a 97,10 dólares la libra.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El Estado no fija ni regula el precio del café: se forma en el mercado, a partir de las cotizaciones internacionales y de lo que pagan exportadores, industrias de soluble e intermediarios. El Ministerio de Agricultura define la política y los programas de reactivación, y Anecafé reúne a exportadores e industriales, pero ninguno establece un precio de compra al productor.",
+    "organismosNota": "Ecuador no tiene hoy un instituto nacional del café como el de Colombia o el de Costa Rica: la política la marca el Ministerio de Agricultura y el gremio privado Anecafé organiza la Taza Dorada.",
+    "niveles": [
+      {"titulo": "Política agrícola", "siglas": ["MAGP"]},
+      {"titulo": "Investigación", "siglas": ["INIAP"]},
+      {"titulo": "Exportadores e industria", "siglas": ["Anecafé"]},
+      {"titulo": "Internacional", "siglas": ["OIC", "ACE"]}
+    ],
+    "reconocidosIntro": "Ecuador tiene dos vitrinas: la Taza Dorada, que Anecafé organiza desde hace casi dos décadas, y la Cup of Excellence, celebrada entre 2021 y 2023. Loja domina los primeros lugares, con Geisha, Sidra y Typica Mejorado.",
+    "records": [
+      {"valor": "97,10", "unidad": "dólares por libra", "titulo": "Abel Salinas Pacheco · 2021", "texto": "Un Typica Mejorado lavado de Saraguro, Loja, el lote más caro de la primera Cup of Excellence del país."},
+      {"valor": "33,55", "unidad": "dólares por libra de promedio", "titulo": "Cup of Excellence · 2021", "texto": "El promedio de los 23 lotes ganadores, récord de todo el programa en su momento."}
+    ],
+    "ganadores": [
+      {"anio": "2024", "puesto": "1.er lugar", "categoria": "Taza Dorada", "finca": "Las Palmeras", "productor": "José Miguel Villa", "region": "Pallatanga, Chimborazo", "cafe": "Sidra", "puntos": "91,02"},
+      {"anio": "2023", "puesto": "1.er lugar", "categoria": "Cup of Excellence", "finca": "La Noria", "productor": "María del Pilar Burneo Samaniego", "region": "Loja", "cafe": "Geisha", "puntos": "91,22"},
+      {"anio": "2023", "puesto": "1.er lugar arábigo", "categoria": "Taza Dorada", "finca": "La Noria", "productor": "María del Pilar Burneo", "region": "Loja", "cafe": "", "puntos": "91,50"},
+      {"anio": "2023", "puesto": "2.º lugar", "categoria": "Cup of Excellence", "finca": "Nuestra Señora de Guadalupe", "productor": "Eladio Gonzalo Chamba Herrera", "region": "Loja", "cafe": "", "puntos": "89,53"},
+      {"anio": "2023", "puesto": "3.er lugar", "categoria": "Cup of Excellence", "finca": "Cruz Loma", "productor": "Familia Morales Rivera", "region": "Pichincha", "cafe": "", "puntos": "89,53"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1860", "texto": "Comienza el auge cafetalero de Jipijapa (Manabí), la «Sultana del Café»."},
+    {"anio": "1970", "texto": "En la década de 1970 el país supera, según El Diario, los 2,5 millones de sacos al año."},
+    {"anio": "2012", "texto": "La roya afecta severamente las plantaciones de café del país."},
+    {"anio": "2021", "texto": "Primera Cup of Excellence en Ecuador, con un promedio récord de 33,55 dólares la libra."},
+    {"anio": "2023", "texto": "Un Geisha de la finca La Noria, en Loja, gana la Cup of Excellence Ecuador con 91,22 puntos."},
+    {"anio": "2024", "texto": "La Taza Dorada se realiza en Nueva York; gana un Sidra de Pallatanga, Chimborazo, con 91,02 puntos."},
+    {"anio": "2025", "texto": "El Ministerio de Agricultura crea la Mesa Técnica de la Cadena del Café."}
+  ],
+  "produccion": {
+    "volumen": "Unas 5.584 toneladas (cerca de 97.000 sacos de 60 kg) en 2023, según el INEC; Anecafé estima que la producción anual no llega a 200.000 sacos",
+    "cosecha": "La cosecha principal de arábigo va de abril a septiembre, con una cosecha menor hacia fin de año",
+    "altitud": "Desde cerca del nivel del mar hasta más de 2.000 metros",
+    "productores": ""
+  },
+  "quienControlaPrecio": "En Ecuador el Estado no fija ni regula el precio del café: se forma en el mercado, a partir de las cotizaciones internacionales y de lo que pagan exportadores, industrias de soluble e intermediarios. El Ministerio de Agricultura, Ganadería y Pesca define la política del sector y los programas de reactivación, y Anecafé reúne a exportadores e industriales, organiza la Taza Dorada y publica estimaciones del mercado, pero ninguno de los dos establece un precio de compra al productor.",
+  "organismos": [
+    {"nombre": "Ministerio de Agricultura, Ganadería y Pesca", "sigla": "MAGP", "tipo": "Institución nacional", "rol": "Define la política agrícola y lleva el proyecto de reactivación de la caficultura y la Mesa Técnica de la Cadena del Café.", "url": "https://www.agricultura.gob.ec/"},
+    {"nombre": "Asociación Nacional Ecuatoriana de Café", "sigla": "Anecafé", "tipo": "Gremio", "rol": "Gremio de exportadores e industriales del café que organiza el concurso Taza Dorada.", "url": ""},
+    {"nombre": "Instituto Nacional de Investigaciones Agropecuarias", "sigla": "INIAP", "tipo": "Investigación", "rol": "Instituto público de investigación agrícola que estudia y conserva materiales de café arábigo y robusta.", "url": "https://www.iniap.gob.ec/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organización intergubernamental con sede en Londres que reúne a países productores y consumidores de café.", "url": "https://www.ico.org/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organización sin fines de lucro que gestiona la Cup of Excellence Ecuador y publica sus resultados.", "url": "https://allianceforcoffeeexcellence.org/"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Ecuador", "url": "https://allianceforcoffeeexcellence.org/ecuador-2023/", "textoEnlace": "Ver los resultados de la Cup of Excellence Ecuador"},
+  "fuentes": [
+    {"titulo": "Primicias – Mapa del café: de dónde sale el grano de origen local (abril de 2025)", "url": "https://primicias.ec/economia/mapa-cafe-tazas-ecuatorianos-produccion-exportacion-starbucks-94111"},
+    {"titulo": "El Diario – Café en Ecuador: producción en declive y consumo en alza (septiembre de 2025)", "url": "https://www.eldiario.ec/negocios/cafe-en-ecuador-produccion-en-declive-y-consumo-en-alza-30092025/"},
+    {"titulo": "Vistazo – Café ecuatoriano debe potenciar su producción (octubre de 2025)", "url": "https://www.vistazo.com/enfoque/2025-10-02-cafe-ecuatoriano-potenciar-produccion-consumo-interno-crece-HB10222775"},
+    {"titulo": "Primicias – Taza Dorada 2024: el mejor café de este año está en Pallatanga, Chimborazo", "url": "https://www.primicias.ec/economia/taza-dorada-premio-cafe-chimborazo-ecuador-estados-unidos-82584"},
+    {"titulo": "Primicias – Ganadores de la Taza Dorada 2023", "url": "https://www.primicias.ec/noticias/economia/taza-dorada-ecuador-mejor-cafe"},
+    {"titulo": "Daily Coffee News – Inaugural Ecuador Cup of Excellence auction results in record-breaking price per pound (2021)", "url": "https://dailycoffeenews.com/2021/12/07/inaugural-ecuador-cup-of-excellence-auction-results-in-record-breaking-price-per-pound"},
+    {"titulo": "Global Coffee Report – Inaugural Ecuador Cup of Excellence garners global recognition", "url": "https://www.gcrmag.com/inaugural-ecuador-cup-of-excellence-garners-global-recognition/"},
+    {"titulo": "Café Imports – Origins: Ecuador", "url": "https://www.cafeimports.com/europe/ecuador"},
+    {"titulo": "Algrano – Ecuador (origen)", "url": "https://algrano.com/es/origins/ecuador"},
+    {"titulo": "Expreso – La racha del café: precios al alza, Ecuador sin base productiva consolidada", "url": "https://www.expreso.ec/economia-y-negocios/la-racha-cafe-precios-al-alza-ecuador-sin-base-productiva-consolidada-reactivacion-cambio-climatico-productividad-cafe-robusta-arabica-279180.html"},
+    {"titulo": "ESPOL – Estudio sobre la comercialización del café en Ecuador", "url": "https://www.dspace.espol.edu.ec/bitstream/123456789/2264/1/4452.pdf"},
+    {"titulo": "Alliance for Coffee Excellence – Ecuador 2023", "url": "https://allianceforcoffeeexcellence.org/ecuador-2023/"},
+    {"titulo": "Alliance for Coffee Excellence – Ecuador 2021", "url": "https://allianceforcoffeeexcellence.org/ecuador-2021/"}
+  ]
+}
