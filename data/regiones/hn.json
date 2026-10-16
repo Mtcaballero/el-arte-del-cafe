@@ -3,7 +3,88 @@
   "nombre": "Honduras",
   "slug": "honduras",
   "publicado": true,
+  "diseno": 2,
   "heroVideo": "",
+  "v2": {
+    "gentilicio": "hondureño",
+    "gentilicioPlural": "hondureños",
+    "regionesTitulo": "Seis regiones, seis tazas",
+    "lead": "En Honduras el café crece entre neblina y bosques de pino, en fincas familiares de unas tres hectáreas. Es el mayor productor de Centroamérica y, en las últimas dos décadas, uno de los orígenes más premiados del mundo.",
+    "introduccion": [
+      "Seis regiones de altura le dan al país una paleta de sabores enorme: del chocolate y la nuez de Copán a la acidez frutal de Opalaca o la intensidad de Montecillos, donde está Marcala, la primera denominación de origen de café de Centroamérica.",
+      "Detrás de cada saco hay una familia que cosecha a mano, grano por grano, entre noviembre y junio. En buena parte del país, la cosecha marca el calendario, el empleo y la vida de los pueblos."
+    ],
+    "cifras": [
+      {"valor": "5,5 M", "etiqueta": "sacos de 60 kg al año", "nota": "Ciclo 2024/25, USDA"},
+      {"valor": "+100.000", "etiqueta": "familias productoras", "nota": "IHCAFE"},
+      {"valor": "15 de 18", "etiqueta": "departamentos con café", "nota": "210 de 298 municipios"},
+      {"valor": "1.000–1.600", "etiqueta": "metros de altura", "nota": "Principales regiones"}
+    ],
+    "destacado": "En 2017 un lote hondureño se vendió a 124,50 dólares la libra: el precio más alto pagado hasta entonces en la Taza de Excelencia, en cualquier país.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales entre neblina y bosque de pino en las montañas de Honduras"},
+      "historia": {"src": "", "alt": "Beneficio de café tradicional en el occidente de Honduras"},
+      "cosecha": {"src": "", "alt": "Manos recogiendo cerezas de café maduras"},
+      "premios": {"src": "", "alt": "Catación de un lote premiado en la Taza de Excelencia"}
+    },
+    "capitulos": [
+      {"periodo": "Siglo XIX", "titulo": "Un cultivo de patio", "texto": "Nadie sabe con exactitud cuándo llegó el café. Las versiones más citadas hablan de plantas traídas desde Costa Rica entre finales del siglo XVIII y comienzos del XIX. Durante décadas fue un cultivo pequeño: sacar el grano de las montañas hacia la costa era casi imposible, y hacia 1894 apenas se exportaba una de cada diez bolsas."},
+      {"periodo": "1950–1990", "titulo": "A la sombra del banano", "texto": "Mientras el banano dominaba la economía, el café quedó en manos de pequeños productores. Con crédito y apoyo técnico desde los años cincuenta, la producción se multiplicó. En 1967 nació AHPROCAFE y en 1970 el IHCAFE, que desde entonces impulsa la investigación y la asistencia técnica."},
+      {"periodo": "1998–2013", "titulo": "Huracanes, crisis y roya", "texto": "El huracán Mitch arrasó miles de hectáreas de cafetales en 1998 y un año después se desplomaron los precios. Aun así, Honduras celebró su primera Taza de Excelencia en 2004, superó a Guatemala como primer productor de Centroamérica en 2011 y resistió la epidemia de roya de 2013."},
+      {"periodo": "Hoy", "titulo": "La era de la especialidad", "texto": "La renovación con variedades resistentes como Lempira, IHCAFE 90 y Parainema devolvió la fuerza al sector. Las cosechas 2024-2025 y 2025-2026 superaron cada una los 2.100 millones de dólares en exportaciones, y Santa Bárbara, Lempira, La Paz e Intibucá se volvieron cuna de cafés premiados."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha a mano", "texto": "Solo se recoge la cereza madura. Los cafetales bajos maduran antes que los altos, por eso la temporada va de noviembre a junio."},
+      {"titulo": "Despulpado", "texto": "El mismo día, la cereza pasa por la despulpadora, que separa la pulpa y deja el grano cubierto de mucílago."},
+      {"titulo": "Fermentado y lavado", "texto": "El grano reposa para que el mucílago se suelte y luego se lava con agua limpia. Es el proceso lavado, el más común del país."},
+      {"titulo": "Secado al sol", "texto": "Se seca en patios o camas africanas hasta ser café pergamino. En los naturales y honey se seca con toda o parte de la fruta."},
+      {"titulo": "Trilla y exportación", "texto": "Se quita el pergamino, se clasifica el grano y sale del país como café oro, en sacos de 46 kilos."}
+    ],
+    "variedades": [
+      {"grupo": "Resistentes a la roya", "lista": ["Lempira", "IHCAFE 90", "Parainema"]},
+      {"grupo": "Tradicionales", "lista": ["Pacas", "Catuaí", "Caturra", "Bourbon", "Typica"]},
+      {"grupo": "Exóticas", "lista": ["Geisha"]}
+    ],
+    "variedadesTexto": "Tras la roya, buena parte de los cafetales se renovó con variedades resistentes desarrolladas o difundidas por el IHCAFE. Conviven con las tradicionales y con el Geisha, la variedad más cotizada del mundo.",
+    "regiones": [
+      {"nombre": "Copán", "altura": "1.000–1.500 m", "perfil": ["Chocolate", "Cuerpo redondo"], "nota": "Cafés suaves y fáciles de querer, en la tierra de las ruinas mayas."},
+      {"nombre": "Opalaca", "altura": "1.100–1.500 m", "perfil": ["Frutal", "Acidez delicada"], "nota": "Perfil más frutal y cuerpo ligero."},
+      {"nombre": "Montecillos", "altura": "Hasta 1.600 m", "perfil": ["Vibrante", "Aterciopelado"], "nota": "La región más alta. Aquí está Marcala, la primera denominación de origen de Centroamérica."},
+      {"nombre": "Comayagua", "altura": "1.000–1.500 m", "perfil": ["Chocolate", "Cítrico", "Cremoso"], "nota": "Cuerpo cremoso con toques cítricos."},
+      {"nombre": "El Paraíso", "altura": "", "perfil": ["Dulce", "Cítrico"], "nota": "Una de las regiones de mayor producción del país."},
+      {"nombre": "Agalta", "altura": "1.000–1.400 m", "perfil": ["Chocolate", "Dulce", "Acidez baja"], "nota": "Cafés dulces y amables, de acidez suave."}
+    ],
+    "costoPasos": [
+      {"titulo": "La bolsa marca el punto de partida", "texto": "La referencia es el contrato C de arábica en Nueva York. El IHCAFE publica esa cotización todos los días."},
+      {"titulo": "El diferencial premia la calidad", "texto": "Cada exportador negocia con su comprador una prima o un descuento según la calidad, la altura, las certificaciones y la demanda."},
+      {"titulo": "Lo que llega a la finca", "texto": "Se restan beneficiado, transporte, financiamiento y contribuciones. Por eso importa si la familia vende a un intermediario, a una cooperativa o directo a un exportador."}
+    ],
+    "costoTip": "Un quintal hondureño pesa 46 kilos, unas 100 libras. Por eso el precio de Nueva York en centavos por libra equivale, más o menos, a dólares por quintal.",
+    "costoEjemplo": {"valor": "US$ 314,95", "etiqueta": "precio promedio de exportación por saco de 46 kg, cosecha 2025-2026", "nota": "IHCAFE, julio de 2026"},
+    "costoEspecialidad": "Los microlotes premiados rompen la regla: se subastan por su calidad y pueden valer muchas veces el precio de la bolsa.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El precio sigue al mercado internacional más los diferenciales que pagan los compradores. Lo que sí existe es un sistema que ordena y registra la venta: el CONACAFE define la política cafetalera y el IHCAFE la ejecuta, registra cada contrato de exportación y publica los precios de referencia.",
+    "organismosNota": "El IHCAFE suena a oficina de gobierno, pero es una institución privada, sin fines de lucro y de interés público, dirigida por el propio sector cafetalero.",
+    "niveles": [
+      {"titulo": "Define la política", "siglas": ["CONACAFE"]},
+      {"titulo": "Ejecuta, registra e investiga", "siglas": ["IHCAFE"]},
+      {"titulo": "Representan a los productores", "siglas": ["AHPROCAFE", "DO Café Marcala"]},
+      {"titulo": "Aliados internacionales", "siglas": ["CRS", "Root Capital", "TechnoServe", "CLAC", "Rainforest Alliance"]}
+    ],
+    "reconocidosIntro": "Desde 2004, la Taza de Excelencia es la gran vitrina del café hondureño. Jurados nacionales e internacionales catan a ciegas cientos de lotes y solo los que superan los 87 puntos llegan a la subasta mundial.",
+    "records": [
+      {"valor": "124,50", "unidad": "dólares por libra", "titulo": "Finca El Laurel · 2017", "texto": "El precio más alto pagado hasta entonces por un café de la Taza de Excelencia, en cualquier país."},
+      {"valor": "120", "unidad": "dólares por libra", "titulo": "Finca El Puente · 2016", "texto": "Marysabel Caballero, de Marcala, La Paz, abrió la racha de récords hondureños."}
+    ],
+    "ganadores": [
+      {"anio": "2026", "categoria": "Exóticos", "finca": "Finca El Pimporro", "productor": "Francisco Alvarado Gómez", "region": "Intibucá", "cafe": "Geisha lavado", "puntos": "90,50"},
+      {"anio": "2026", "categoria": "Tradicionales", "finca": "Finca La Cascada", "productor": "Edras Nehemías Guevara Muñoz", "region": "Lempira", "cafe": "Typica lavado", "puntos": "89,82"},
+      {"anio": "2026", "categoria": "Parainema", "finca": "Finca La Loma", "productor": "Ottoniel Sagastume Pineda", "region": "Santa Bárbara", "cafe": "Parainema natural", "puntos": "89,14"},
+      {"anio": "2025", "categoria": "Exóticos", "finca": "Finca La Salvaje", "productor": "Fabio Antonio Caballero García", "region": "La Paz", "cafe": "Geisha lavado", "puntos": "91,59"},
+      {"anio": "2025", "categoria": "Tradicionales", "finca": "Finca Dariela", "productor": "Keyli Victoria Carvajal Bonilla", "region": "Lempira", "cafe": "Typica natural", "puntos": "90,50"},
+      {"anio": "2025", "categoria": "Parainema", "finca": "Finca El Rubí", "productor": "Jeniffer Iveth Madrid Chávez", "region": "Santa Bárbara", "cafe": "Parainema lavado", "puntos": "89,65"}
+    ]
+  },
   "datosCortos": {"volumen": "5,52 millones de sacos (2024/25)", "cosecha": "Noviembre a junio", "altitud": "1.000 a 1.600 m", "productores": "Más de 100.000 familias"},
   "metaDescripcion": "Café de Honduras: historia, producción, regiones, cómo se forma el precio, el papel del IHCAFE y los cafés ganadores de la Taza de Excelencia.",
   "intro": "Honduras es hoy el mayor productor de café de Centroamérica, con cafetales en 15 de sus 18 departamentos y más de 100.000 familias que viven del grano. En pocas décadas pasó de exportar café común a ganar subastas internacionales con lotes de Geisha, Typica y Parainema.",

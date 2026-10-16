@@ -30,7 +30,7 @@ const PAISES = TODOS.filter((c) => c.listo);
 // Versión de cada archivo estático para que el navegador no use una copia vieja tras publicar.
 const crypto = require('crypto');
 const VER = {};
-['css/styles.css', 'js/paises.js', 'js/origenes.js', 'js/precio-cafe.js', 'js/vertido-scroll.js', 'js/regiones-listas.js'].forEach((a) => {
+['css/styles.css', 'js/paises.js', 'js/origenes.js', 'js/precio-cafe.js', 'js/vertido-scroll.js', 'js/sifon-scroll.js', 'js/regiones-listas.js'].forEach((a) => {
   const f = path.join(RAIZ, a);
   if (a === 'js/regiones-listas.js') fs.writeFileSync(f, '/* Generado por scripts/generar-regiones.js: países con página publicada en Regiones. */\nwindow.EADC_REGIONES_LISTAS = ' + JSON.stringify(PAISES.map((c) => c.slug)) + ';\n');
   VER[a] = fs.existsSync(f) ? crypto.createHash('md5').update(fs.readFileSync(f)).digest('hex').slice(0, 8) : '1';
@@ -502,7 +502,8 @@ function seoExistente(archivo, d) {
 
 fs.mkdirSync(path.join(RAIZ, 'regiones'), { recursive: true });
 fs.writeFileSync(path.join(RAIZ, 'regiones/index.html'), paginaIndice());
-PAISES.forEach((c, i) => fs.writeFileSync(path.join(RAIZ, 'regiones', c.slug + '.html'), paginaPais(c, i)));
+const paginaPaisV2 = require('./pais-v2')({ esc, cabeza, cabecera, piePagina, bordadoAncho, paisaje, precioWidget, migas, migasLd, EDITOR, SITIO, NOMBRE, HOY, ver, TODOS, tarjetaMini, FLECHA, EXTERNO, GRANO, TAZA, CHEMEX });
+PAISES.forEach((c, i) => fs.writeFileSync(path.join(RAIZ, 'regiones', c.slug + '.html'), c.diseno === 2 && c.v2 ? paginaPaisV2(c) : paginaPais(c, i)));
 fs.writeFileSync(path.join(RAIZ, '404.html'), pagina404());
 Object.keys(EXISTENTES).forEach((a) => seoExistente(a, EXISTENTES[a]));
 
