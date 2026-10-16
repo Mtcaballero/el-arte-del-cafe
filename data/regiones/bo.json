@@ -1,0 +1,130 @@
+{
+  "id": "bo",
+  "nombre": "Bolivia",
+  "slug": "bolivia",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de Bolivia: historia, producción en Caranavi y los Yungas, cómo se forma el precio, organismos del sector y ganadores de la Taza Presidencial.",
+  "intro": "Bolivia produce poco café, menos del 1 % del total mundial, pero buena parte es arábica de altura cultivada por familias campesinas en Caranavi y los Yungas de La Paz. Su prestigio se apoya en la calidad: sus lotes de especialidad se subastan cada año a compradores de todo el mundo.",
+  "v2": {
+    "gentilicio": "boliviano",
+    "gentilicioPlural": "bolivianos",
+    "regionesTitulo": "De Caranavi a los Yungas",
+    "ganadoresTitulo": "Ganadores de la Taza Presidencial",
+    "titulos": {"intro": "Poco café, mucha altura", "historia": "De cerco vivo a café de subasta"},
+    "lead": "Bolivia produce menos del 1 % del café del mundo, pero casi todo es arábica de altura cultivado por familias campesinas en Caranavi y los Yungas de La Paz. Su apuesta es la calidad: cada año sus mejores lotes se subastan a compradores de todo el mundo.",
+    "introduccion": [
+      "Más del 90 % del café boliviano sale del departamento de La Paz, sobre todo de Caranavi, la capital cafetalera del país, y de Nor y Sud Yungas. El trópico de Cochabamba, con Villa Tunari, y Santa Cruz completan el mapa. El café de especialidad crece entre los 1.200 y los 2.000 metros.",
+      "Alrededor del 80 % de la cosecha se exporta, sobre todo a Estados Unidos, Bélgica y Francia, mientras buena parte del café que se toma en el país es importado. En 2025 las exportaciones superaron por primera vez los 17 millones de dólares."
+    ],
+    "cifras": [
+      {"valor": "< 1 %", "etiqueta": "del café del mundo", "nota": "Un origen pequeño"},
+      {"valor": "+90 %", "etiqueta": "sale de La Paz", "nota": "Caranavi y los Yungas"},
+      {"valor": "~80 %", "etiqueta": "de la cosecha se exporta", "nota": "EE. UU., Bélgica y Francia"},
+      {"valor": "US$ 17 M", "etiqueta": "en exportaciones en 2025", "nota": "Récord, IBCE"}
+    ],
+    "destacado": "En 2017 el café de Valeriano Callejas, de Villa Tunari, logró 90,3 puntos en la Taza Presidencial y se vendió a 53,20 dólares la libra, un récord de venta para el café boliviano.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales en las laderas de los Yungas de La Paz"},
+      "historia": {"src": "", "alt": "Familia caficultora en Caranavi, capital cafetalera de Bolivia"},
+      "cosecha": {"src": "", "alt": "Secado de café pergamino en una finca de Caranavi"},
+      "premios": {"src": "", "alt": "Catación de lotes en la Taza de Calidad Café Presidencial"}
+    },
+    "capitulos": [
+      {"periodo": "Siglo XVIII–1950", "titulo": "Un cultivo casero", "texto": "No hay un registro exacto de la llegada del café. Muchos estudiosos la sitúan a fines del siglo XVIII y la atribuyen a personas esclavizadas que huían de Brasil; otras investigaciones hablan de monjes y terratenientes. A comienzos del siglo XIX ya había cafetales en las haciendas de los Yungas, pero el grano era sobre todo para la familia y a veces la planta servía apenas de cerco vivo."},
+      {"periodo": "1953–1990", "titulo": "La reforma agraria y Caranavi", "texto": "La Revolución de 1952 y la reforma agraria de 1953 repartieron tierras a familias campesinas e indígenas, y muchas migraron hacia los Yungas y el norte de La Paz. En los años sesenta se abrió la colonización de Caranavi, hoy capital cafetalera del país. A comienzos de los noventa la producción llegó a su punto más alto, cerca de 150.000 sacos al año."},
+      {"periodo": "2000–2018", "titulo": "Caída y apuesta por la calidad", "texto": "Los cafetales envejecieron y la producción cayó con fuerza. Entre 2004 y 2009 Bolivia celebró cinco Cup of Excellence que dieron a conocer sus cafés de altura, y en 2015 nació la Taza Presidencial. En 2018 se lanzó un programa nacional de cinco años, con 182,8 millones de bolivianos, para renovar plantaciones."},
+      {"periodo": "Hoy", "titulo": "Pequeño y valioso", "texto": "En 2025 las exportaciones superaron por primera vez los 17 millones de dólares, aunque el volumen bajó un 12 %. Ese año la XI Taza Presidencial llevó a subasta internacional 20 lotes, con precios de más de 35 dólares por libra."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha", "texto": "Se concentra entre mayo y agosto, y en algunas zonas se extiende hasta noviembre."},
+      {"titulo": "Familias y cooperativas", "texto": "El café lo cultivan pequeñas familias campesinas, muchas organizadas en cooperativas y asociaciones que acopian y exportan."},
+      {"titulo": "Lavado, natural y honey", "texto": "La tradición es el café lavado; en los últimos años algunos productores de especialidad empezaron a exportar naturales y honey."},
+      {"titulo": "Secado y pergamino", "texto": "El grano se seca hasta quedar como café pergamino, que se vende por quintal o por kilo en bolivianos."},
+      {"titulo": "Exportación y subasta", "texto": "Cerca del 80 % de la cosecha se exporta, y los mejores lotes se venden en la subasta electrónica de la Taza Presidencial."}
+    ],
+    "variedades": [
+      {"grupo": "Tradicionales", "lista": ["Típica (criolla)", "Caturra", "Catuaí"]},
+      {"grupo": "Resistentes a la roya", "lista": ["Catimor"]},
+      {"grupo": "De especialidad", "lista": ["Java", "Geisha"]}
+    ],
+    "variedadesTexto": "La Típica criolla, el Caturra y el Catuaí son la base de los cafetales, muchos de ellos viejos y de baja productividad, por eso el programa nacional busca renovarlos. En los lotes premiados aparecen el Java y el Geisha.",
+    "regiones": [
+      {"nombre": "Caranavi", "altura": "", "perfil": ["Capital cafetalera", "Especialidad"], "nota": "Concentra la mayor parte del café de especialidad del país."},
+      {"nombre": "Nor y Sud Yungas", "altura": "", "perfil": ["Laderas subtropicales", "Orgánico"], "nota": "Valles de ladera donde se cultiva arábica, mucho de él orgánico."},
+      {"nombre": "Trópico de Cochabamba", "altura": "", "perfil": ["Villa Tunari", "Taza Presidencial"], "nota": "Zona de menor volumen con ganadores de la Taza Presidencial."},
+      {"nombre": "Zongo", "altura": "", "perfil": ["Emergente"], "nota": "Región de La Paz que la Taza Presidencial dio a conocer como polo de calidad."},
+      {"nombre": "Santa Cruz", "altura": "", "perfil": ["Producción menor"], "nota": "Departamento con una producción cafetalera más pequeña."}
+    ],
+    "costoPasos": [
+      {"titulo": "La bolsa como base", "texto": "Cooperativas, asociaciones y exportadores toman como base el contrato C de Nueva York y le suman o restan un diferencial por calidad y certificaciones."},
+      {"titulo": "Pago en pergamino", "texto": "El productor vende su café en pergamino, por quintal o por kilo, y cobra en bolivianos."},
+      {"titulo": "La subasta de la calidad", "texto": "Los cafés de especialidad logran primas muy por encima de la bolsa, y los mejores se venden en la Taza Presidencial."}
+    ],
+    "costoTip": "En Bolivia no existe un precio oficial de referencia del café: cada cooperativa o exportador negocia el suyo a partir de la bolsa de Nueva York y de la calidad del lote.",
+    "costoEjemplo": {"valor": "US$ 39,20", "etiqueta": "por libra, el precio más alto de la subasta de la Taza Presidencial 2024", "nota": "Cancillería de Bolivia"},
+    "costoEspecialidad": "En la subasta de 2025 la libra de café boliviano superó los 35 dólares, más de diez veces el precio de la bolsa de Nueva York.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El mercado es libre: el precio se forma a partir de la Bolsa de Nueva York más los diferenciales que pactan cooperativas, exportadores y compradores. El Estado apoya la producción con programas de renovación y, desde la Cancillería, con la plataforma de subasta de la Taza Presidencial. Los productores se representan en el Consejo Nacional del Café, que reúne a FECAFEB y ANPROCA.",
+    "organismosNota": "La Taza Presidencial es una alianza poco común: la organizan los gremios cafetaleros y el Ministerio de Relaciones Exteriores pone la plataforma de subasta electrónica internacional.",
+    "niveles": [
+      {"titulo": "Gremios cafetaleros", "siglas": ["CNCB", "FECAFEB", "ANPROCA"]},
+      {"titulo": "Estado y comercio exterior", "siglas": ["Ministerio de Relaciones Exteriores – Taza de Calidad Café Presidencial", "IBCE"]},
+      {"titulo": "Internacional", "siglas": ["ACE"]}
+    ],
+    "reconocidosIntro": "Bolivia celebró cinco Cup of Excellence entre 2004 y 2009. Desde 2015 su vitrina es la Taza Presidencial, que premia los mejores lotes del país y los subasta a compradores de todo el mundo.",
+    "records": [
+      {"valor": "53,20", "unidad": "dólares por libra", "titulo": "Valeriano Callejas · 2017", "texto": "Un café de Villa Tunari con 90,3 puntos, récord de venta del café boliviano en la Taza Presidencial."},
+      {"valor": "39,20", "unidad": "dólares por libra", "titulo": "Taza Presidencial · 2024", "texto": "El precio más alto de la subasta de la décima edición."}
+    ],
+    "ganadores": [
+      {"anio": "2025", "puesto": "Lote ganador", "categoria": "XI Taza Presidencial", "finca": "Huellas del Jaguar", "productor": "Juan José Machicado Aguilar", "region": "Kantutani, Caranavi", "cafe": "Geisha lavado a 1.750 m"},
+      {"anio": "2024", "puesto": "1.er lugar", "categoria": "X Taza Presidencial", "finca": "Elías Quispe Condori", "productor": "", "region": "Caranavi, La Paz", "cafe": "", "puntos": "90"},
+      {"anio": "2021", "puesto": "1.er lugar", "categoria": "Taza Presidencial", "finca": "Juan Calani Vargas", "productor": "", "region": "Cochabamba", "cafe": "Catuaí rojo lavado", "puntos": "91,45"},
+      {"anio": "2017", "puesto": "1.er lugar", "categoria": "III Taza Presidencial", "finca": "Valeriano Callejas", "productor": "", "region": "Villa Tunari, Cochabamba", "cafe": "53,20 dólares por libra", "puntos": "90,3"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1953", "texto": "La reforma agraria impulsa la migración campesina hacia los Yungas y el cultivo del café."},
+    {"anio": "1960", "texto": "En la década de 1960 se abre la colonización de Caranavi, hoy capital cafetalera del país."},
+    {"anio": "2004", "texto": "Bolivia celebra su primera Cup of Excellence."},
+    {"anio": "2009", "texto": "Se realiza la última edición de la Cup of Excellence en Bolivia."},
+    {"anio": "2015", "texto": "Nace el Torneo Nacional Taza de Calidad Café Presidencial."},
+    {"anio": "2017", "texto": "Un café de Villa Tunari logra 90,3 puntos y se vende a 53,20 dólares la libra."},
+    {"anio": "2018", "texto": "Arranca un programa nacional de caficultura de cinco años para renovar plantaciones."},
+    {"anio": "2025", "texto": "Las exportaciones de café superan por primera vez los 17 millones de dólares."}
+  ],
+  "produccion": {
+    "volumen": "No hay una cifra oficial reciente de producción; según el Ministerio de Desarrollo Rural y Tierras (julio de 2025), las exportaciones pasaron de 1.403 a 2.427 toneladas en cuatro años, y el IBCE informó que en 2025 superaron los 17 millones de dólares",
+    "cosecha": "Aproximadamente entre mayo y agosto; en algunas zonas se extiende hasta noviembre",
+    "altitud": "El café de especialidad se cultiva en general entre 1.200 y 2.000 metros",
+    "productores": ""
+  },
+  "quienControlaPrecio": "Nadie fija el precio del café en Bolivia: el mercado es libre y el precio se forma a partir de la Bolsa de Nueva York más los diferenciales que pactan cooperativas, exportadores y compradores. El Estado interviene con programas de apoyo a la producción y, a través del Ministerio de Relaciones Exteriores, con la plataforma de subasta de la Taza Presidencial. Los productores se representan mediante el Consejo Nacional del Café de Bolivia, que reúne a la Federación de Caficultores Exportadores de Bolivia (FECAFEB) y a la Asociación Nacional de Productores de Café (ANPROCA).",
+  "organismos": [
+    {"nombre": "Consejo Nacional del Café de Bolivia", "sigla": "CNCB", "tipo": "Gremio de productores", "rol": "Reúne a FECAFEB y ANPROCA y organiza el Torneo Nacional Taza de Calidad Café Presidencial.", "url": ""},
+    {"nombre": "Federación de Caficultores Exportadores de Bolivia", "sigla": "FECAFEB", "tipo": "Gremio de productores", "rol": "Agrupa a cooperativas y organizaciones de caficultores exportadores.", "url": ""},
+    {"nombre": "Asociación Nacional de Productores de Café", "sigla": "ANPROCA", "tipo": "Gremio de productores", "rol": "Asociación de productores que forma parte del Consejo Nacional del Café.", "url": ""},
+    {"nombre": "Ministerio de Relaciones Exteriores – Taza de Calidad Café Presidencial", "sigla": "", "tipo": "Institución nacional", "rol": "Administra el portal y la subasta electrónica internacional de los cafés ganadores de la Taza Presidencial.", "url": "https://cancilleria.gob.bo/cafe/"},
+    {"nombre": "Instituto Boliviano de Comercio Exterior", "sigla": "IBCE", "tipo": "Comercio exterior", "rol": "Entidad privada de comercio exterior que publica las estadísticas de exportación de café del país.", "url": "https://www.ibce.org.bo/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organizó la Cup of Excellence en Bolivia entre 2004 y 2009 y conserva sus resultados históricos.", "url": "https://allianceforcoffeeexcellence.org/"}
+  ],
+  "competencia": {"nombre": "Torneo Nacional Taza de Calidad Café Presidencial", "url": "https://cancilleria.gob.bo/cafe/ganadores/", "textoEnlace": "Ver los ganadores de la Taza Presidencial"},
+  "fuentes": [
+    {"titulo": "Cancillería de Bolivia – Taza de Calidad Café Presidencial", "url": "https://cancilleria.gob.bo/cafe/"},
+    {"titulo": "Cancillería de Bolivia – Ganadores Taza Presidencial", "url": "https://cancilleria.gob.bo/cafe/ganadores/"},
+    {"titulo": "Cancillería de Bolivia – Bolivia brilla en la X edición del Torneo Nacional Taza de Calidad Café Presidencial (2024)", "url": "https://cancilleria.gob.bo/mre/2024/12/12/19592/"},
+    {"titulo": "Cancillería de Bolivia – Ficha del lote P1 Huellas del Jaguar (2025)", "url": "https://cancilleria.gob.bo/cafe/wp-content/uploads/2025/11/P1-HUELLAS-DEL-JAGUAR-CAR-ing.pdf"},
+    {"titulo": "SWI swissinfo.ch – El café boliviano especial rompe récord de venta en una subasta electrónica", "url": "https://www.swissinfo.ch/spa/el-caf%c3%a9-boliviano-especial-rompe-r%c3%a9cord-de-venta-en-una-subasta-electr%c3%b3nica/46382444"},
+    {"titulo": "IBCE Cifras – Exportación de café", "url": "https://www.ibce.org.bo//images/ibcecifras_documentos/Cifras_1.428_Exportacion_de_cafe_1782396236.pdf"},
+    {"titulo": "eju.tv – En subasta internacional la libra del café boliviano alcanza los $us 35 (diciembre de 2025)", "url": "https://eju.tv/?p=4839871"},
+    {"titulo": "eju.tv – Bolivia generó $us 1.751 MM por exportación de café, cacao y frutos (julio de 2025)", "url": "https://eju.tv/?p=4698497"},
+    {"titulo": "eju.tv / Los Tiempos – Bolivia produce café de alta calidad, pero no se queda en el país (2019)", "url": "https://eju.tv/?p=1296962"},
+    {"titulo": "Correo del Sur – Taza de Calidad: Bolivia elige hoy a su mejor café (noviembre de 2025)", "url": "https://correodelsur.com/local/20251115/taza-de-calidad-bolivia-elige-hoy-a-su-mejor-cafe.html"},
+    {"titulo": "Daily Coffee News – Taza Presidencial: Bolivia's producer-led quality coffee resurgence (2022)", "url": "https://dailycoffeenews.com/2022/01/24/taza-presidencial-bolivias-producer-led-quality-coffee-resurgence"},
+    {"titulo": "Royal Coffee – The New Wave of Bolivian Coffee", "url": "https://royalcoffee.com/the-new-wave-of-bolivian-coffee/"},
+    {"titulo": "Perfect Daily Grind – Historia del café en Bolivia (2022)", "url": "https://perfectdailygrind.com/es/?p=16938"},
+    {"titulo": "Alliance for Coffee Excellence – Bolivia 2009", "url": "https://allianceforcoffeeexcellence.org/bolivia-2009/"}
+  ]
+}
