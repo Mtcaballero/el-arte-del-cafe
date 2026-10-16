@@ -1,0 +1,110 @@
+{
+  "id": "hn",
+  "nombre": "Honduras",
+  "slug": "honduras",
+  "publicado": true,
+  "heroVideo": "",
+  "datosCortos": {"volumen": "5,52 millones de sacos (2024/25)", "cosecha": "Noviembre a junio", "altitud": "1.000 a 1.600 m", "productores": "Más de 100.000 familias"},
+  "metaDescripcion": "Café de Honduras: historia, producción, regiones, cómo se forma el precio, el papel del IHCAFE y los cafés ganadores de la Taza de Excelencia.",
+  "intro": "Honduras es hoy el mayor productor de café de Centroamérica, con cafetales en 15 de sus 18 departamentos y más de 100.000 familias que viven del grano. En pocas décadas pasó de exportar café común a ganar subastas internacionales con lotes de Geisha, Typica y Parainema.",
+  "introduccion": [
+    "Hablar de café en Honduras es hablar de montaña. El grano crece entre los 1.000 y los 1.600 metros de altura, en laderas cubiertas de neblina y bosque de pino, y llega a la taza con perfiles que van del chocolate y la nuez de Copán a la acidez frutal de Opalaca o la intensidad de Montecillos. Seis regiones cafetaleras reconocidas por el Instituto Hondureño del Café le dan al país una variedad de sabores difícil de encontrar en un territorio tan pequeño.",
+    "También es un café de pequeños productores. La finca típica mide unas tres hectáreas y la trabaja una familia que cosecha a mano, grano por grano, entre noviembre y junio. El café se cultiva en 210 de los 298 municipios del país, de modo que en buena parte de Honduras la cosecha marca el calendario, el empleo y la economía de los pueblos.",
+    "En los últimos veinte años su reputación cambió por completo. La primera Taza de Excelencia, en 2004, mostró al mundo lo que podían lograr las fincas de altura; en 2005 Marcala obtuvo la primera denominación de origen de café de Centroamérica, y en 2016 y 2017 dos lotes hondureños rompieron los récords de precio de la competencia. Hoy Honduras vende tanto volumen como especialidad, y compradores de Asia, Europa y Norteamérica buscan sus microlotes.",
+    "En esta página encontrarás cómo llegó el café al país, cómo se produce, cómo se forma el precio que recibe el productor, quién regula el sector y cuáles son los cafés hondureños más premiados de los últimos años."
+  ],
+  "historia": [
+    "No existe una fecha exacta de la llegada del café a Honduras. Las versiones más citadas la sitúan entre finales del siglo XVIII y comienzos del XIX, posiblemente con plantas traídas desde Costa Rica. Durante el siglo XIX el cultivo fue pequeño y se destinaba sobre todo al consumo local: el gran obstáculo era sacar el grano de las montañas hacia la costa. Hacia 1894 el país producía unos 20.000 quintales, de los cuales apenas un diez por ciento se exportaba por los puertos de Amapala y Puerto Cortés.",
+    "Durante buena parte del siglo XX la economía hondureña giró en torno al banano, y el café quedó en manos de pequeños productores. El impulso llegó a partir de los años cincuenta, con crédito y apoyo técnico para ampliar la producción y el beneficiado. Entre 1950 y 1990 la producción se multiplicó varias veces. En 1967 nació la Asociación Hondureña de Productores de Café (AHPROCAFE) y en 1970 se creó el Instituto Hondureño del Café (IHCAFE), que desde entonces concentra la investigación, la asistencia técnica y el registro de la comercialización del grano.",
+    "El sector vivió golpes muy duros. En 1998 el huracán Mitch destruyó miles de hectáreas de cafetales y más de mil beneficios húmedos, y en 1999 se sumó un desplome de los precios internacionales. Aun así, en 2004 Honduras celebró su primera Taza de Excelencia, que puso a sus pequeños productores frente a compradores de todo el mundo, y en 2005 nació la denominación de origen Café Marcala. En 2011 el país superó a Guatemala como primer productor de Centroamérica, y en 2013 tuvo que declarar emergencia por la epidemia de roya que afectó a toda la región.",
+    "La renovación de cafetales con variedades resistentes, como Lempira, IHCAFE 90 y Parainema, permitió recuperar la producción. Hoy Honduras produce alrededor de cinco millones y medio de sacos al año y exporta la mayor parte. Con los altos precios internacionales, las cosechas 2024-2025 y 2025-2026 marcaron récords de divisas, superando los 2.100 millones de dólares cada una según el IHCAFE. Al mismo tiempo, regiones como Santa Bárbara, Lempira, La Paz e Intibucá se han consolidado como fuente de cafés de especialidad muy premiados."
+  ],
+  "hitos": [
+    {"anio": "1894", "texto": "La producción ronda los 20.000 quintales; cerca del 10 % se exporta por Amapala y Puerto Cortés."},
+    {"anio": "1967", "texto": "Se funda la Asociación Hondureña de Productores de Café (AHPROCAFE)."},
+    {"anio": "1970", "texto": "Se crea el Instituto Hondureño del Café (IHCAFE), mediante el Decreto 83 del 9 de diciembre."},
+    {"anio": "1998", "texto": "El huracán Mitch destruye miles de hectáreas de cafetales y más de mil beneficios húmedos."},
+    {"anio": "2000", "texto": "El Decreto 145-2000 crea el Consejo Nacional del Café (CONACAFE), que formula la política cafetalera del país."},
+    {"anio": "2004", "texto": "Primera edición de la Taza de Excelencia (Cup of Excellence) en Honduras."},
+    {"anio": "2005", "texto": "Marcala recibe la primera denominación de origen de café registrada en Honduras y en Centroamérica."},
+    {"anio": "2011", "texto": "Honduras se convierte en el mayor productor de café de Centroamérica."},
+    {"anio": "2013", "texto": "Se declara emergencia por la epidemia de roya del cafeto."},
+    {"anio": "2017", "texto": "Un lote de la finca El Laurel se vende a 124,50 dólares la libra, récord de la Taza de Excelencia en todos los países."}
+  ],
+  "produccion": {
+    "resumen": "Casi todo el café hondureño es arábica cultivado en zonas montañosas, en 210 de los 298 municipios y 15 de los 18 departamentos del país. Predominan las fincas pequeñas, con un tamaño medio de unas 3 hectáreas, y el grano llega al mercado a través de cooperativas, intermediarios y exportadores.\n\nLa cosecha se hace a mano y escalonada: primero maduran los cafetales más bajos y, semanas después, los de mayor altura, por eso la temporada se extiende de noviembre a junio. La mayor parte del café se procesa por vía húmeda (lavado): se despulpa, se fermenta, se lava y se seca al sol en patios o camas africanas. En los lotes de especialidad ganan terreno los procesos natural y honey, que dejan secar el grano con parte o toda la fruta para lograr tazas más dulces y frutales.\n\nTras la crisis de la roya de 2012 y 2013, buena parte del parque cafetalero se renovó con variedades resistentes desarrolladas o difundidas por el IHCAFE, como Lempira, IHCAFE 90 y Parainema. Junto a ellas siguen presentes las variedades tradicionales, como Pacas, Catuaí, Caturra, Bourbon y Typica, y las fincas de especialidad han sumado Geisha, la variedad más cotizada del mundo.",
+    "volumen": "Alrededor de 5,52 millones de sacos de 60 kg en el ciclo 2024/25, según el informe anual de café del USDA FAS (2025)",
+    "cosecha": "De noviembre a junio, según la altitud; el año cafetero oficial va del 1 de octubre al 30 de septiembre",
+    "altitud": "Entre 1.000 y 1.600 metros sobre el nivel del mar en las principales regiones",
+    "variedades": ["Lempira", "IHCAFE 90", "Parainema", "Pacas", "Catuaí", "Caturra", "Bourbon", "Typica", "Geisha"],
+    "procesos": ["Lavado", "Honey", "Natural"],
+    "productores": "Más de 100.000 familias productoras, según el IHCAFE",
+    "regiones": [
+      {"nombre": "Copán", "nota": "Cafés suaves y accesibles, con notas de chocolate y cuerpo redondo; cultivados entre unos 1.000 y 1.500 m."},
+      {"nombre": "Opalaca", "nota": "Acidez delicada, perfil más frutal y cuerpo ligero, entre unos 1.100 y 1.500 m."},
+      {"nombre": "Montecillos", "nota": "La región más alta (hasta unos 1.600 m), con tazas vibrantes y cuerpo aterciopelado. Aquí está Marcala, la primera denominación de origen de café de Centroamérica."},
+      {"nombre": "Comayagua", "nota": "Notas de chocolate con toques cítricos y cuerpo cremoso, entre unos 1.000 y 1.500 m."},
+      {"nombre": "El Paraíso", "nota": "Una de las regiones de mayor producción; cafés dulces, suaves y cítricos."},
+      {"nombre": "Agalta", "nota": "Cafés dulces con notas de chocolate y acidez baja, entre unos 1.000 y 1.400 m."}
+    ]
+  },
+  "costo": {
+    "explicacion": "En Honduras no hay un precio fijado por el Estado: el punto de partida es la cotización del contrato \"C\" de café arábica en la bolsa de Nueva York, que el propio IHCAFE publica a diario. Sobre esa referencia, cada exportador negocia con su comprador un diferencial (prima o descuento) según la calidad, la altura, las certificaciones y la demanda del momento.\n\nEl productor recibe ese precio descontados los costos de beneficiado, transporte, financiamiento y las contribuciones del sector, por lo que lo que llega a la finca depende mucho de si vende a un intermediario, a una cooperativa o directamente a un exportador. Los cafés de especialidad rompen esa lógica: un microlote premiado en la Taza de Excelencia se subasta por su calidad y puede venderse a muchas veces el precio de la bolsa.\n\nPara leer el precio de arriba con números hondureños: en Honduras el café se vende por quintal de 46 kilos, unas 100 libras. Por eso el precio de Nueva York en centavos por libra equivale, de forma aproximada, a dólares por quintal de café oro, antes de sumar o restar el diferencial.",
+    "unidadLocal": "quintal (46 kg); las exportaciones se reportan en sacos de 46 kg de café oro"
+  },
+  "quienControlaPrecio": "Nadie fija el precio del café en Honduras: sigue al mercado internacional, en particular a la bolsa de Nueva York, más los diferenciales que pagan los compradores. El Instituto Hondureño del Café (IHCAFE), creado en 1970 y definido por su ley como un organismo privado, no estatal, de interés público y sin fines de lucro, es quien regula y registra la comercialización: lleva el registro de los contratos de venta al exterior, publica el precio promedio de exportación de cada cosecha y difunde las cotizaciones diarias de Nueva York. Por ejemplo, para la cosecha 2025-2026 reportó un precio promedio de exportación de 314,95 dólares por saco de 46 kg (julio de 2026).",
+  "organismosTexto": [
+    "El café hondureño tiene una organización en dos niveles. Arriba está el Consejo Nacional del Café (CONACAFE), creado por el Decreto 145-2000 como el órgano del Estado que formula, aprueba y evalúa la política cafetalera y asesora al presidente de la República en la materia. Su ley también le permite dictar medidas de control y de emergencia para proteger el interés público, como ocurrió durante la crisis de la roya.",
+    "Quien ejecuta esa política es el IHCAFE. Aunque su nombre suene a oficina de gobierno, es una institución privada, sin fines de lucro y de interés público, dirigida por el propio sector. Registra cada contrato de exportación, investiga y difunde variedades resistentes, da asistencia técnica en el campo y publica la información de precios que usa todo el país.",
+    "Alrededor de ellos trabajan los gremios de productores, como AHPROCAFE, que lleva la voz de los caficultores desde 1967; cientos de cooperativas que acopian, benefician y exportan; y organizaciones internacionales que ofrecen crédito, certificaciones y programas de sostenibilidad. Para una familia productora, pertenecer a una cooperativa certificada puede significar acceso a financiamiento, asistencia técnica y primas de comercio justo u orgánicas."
+  ],
+  "organismos": [
+    {"nombre": "Consejo Nacional del Café", "sigla": "CONACAFE", "tipo": "Institución nacional", "rol": "Órgano del Estado que formula y evalúa la política cafetalera de Honduras y asesora a la Presidencia en temas de café.", "url": ""},
+    {"nombre": "Instituto Hondureño del Café", "sigla": "IHCAFE", "tipo": "Institución nacional", "rol": "Regula y registra la comercialización del café, investiga variedades como Parainema y brinda asistencia técnica a los productores.", "url": "https://www.ihcafe.hn/"},
+    {"nombre": "Asociación Hondureña de Productores de Café", "sigla": "AHPROCAFE", "tipo": "Gremio de productores", "rol": "Representa a los productores desde 1967 y organiza cada año el Congreso Cafetalero nacional.", "url": ""},
+    {"nombre": "Denominación de Origen Café Marcala", "sigla": "DO Café Marcala", "tipo": "Denominación de origen", "rol": "Protege y certifica el origen y la calidad del café de Marcala, La Paz, reconocido desde 2005.", "url": ""},
+    {"nombre": "Catholic Relief Services", "sigla": "CRS", "tipo": "ONG", "rol": "Desarrolla en Honduras el programa Blue Harvest, que combina agricultura regenerativa y manejo de cuencas en zonas cafetaleras.", "url": "https://www.crs.org/"},
+    {"nombre": "Root Capital", "sigla": "", "tipo": "ONG", "rol": "Ofrece crédito y asesoría financiera a cooperativas cafetaleras hondureñas que no acceden a la banca tradicional.", "url": "https://rootcapital.org/"},
+    {"nombre": "TechnoServe", "sigla": "", "tipo": "ONG", "rol": "Organización de desarrollo empresarial agrícola con programas activos en Honduras.", "url": "https://www.technoserve.org/"},
+    {"nombre": "Coordinadora Latinoamericana y del Caribe de Comercio Justo", "sigla": "CLAC", "tipo": "Organismo internacional", "rol": "Red de pequeños productores copropietaria del sistema Fairtrade, que agrupa a cooperativas certificadas de la región.", "url": "https://clac-comerciojusto.org/"},
+    {"nombre": "Rainforest Alliance", "sigla": "", "tipo": "ONG", "rol": "Certifica fincas de café hondureñas, desde pequeños productores hasta grandes operaciones, bajo criterios ambientales y sociales.", "url": "https://www.rainforest-alliance.org/regions/honduras/"}
+  ],
+  "reconocidosTexto": [
+    "La vitrina más importante del café hondureño es la Taza de Excelencia (Cup of Excellence), que se celebra en el país desde 2004. Un jurado nacional y otro internacional catan a ciegas cientos de muestras; solo los lotes que superan los 87 puntos llegan a la subasta en línea, donde compradores de todo el mundo pujan por ellos. Desde 2025 la competencia premia por separado tres categorías: Exóticos, Tradicionales y Parainema, la variedad desarrollada en el país.",
+    "Honduras ha dado algunos de los momentos más altos de la competencia. En 2016 la finca El Puente, de Marysabel Caballero, vendió su lote a unos 120 dólares la libra, y en 2017 un lote de la finca El Laurel alcanzó 124,50 dólares la libra, el precio más alto pagado hasta entonces por un café de la Taza de Excelencia en cualquier país. Los ganadores de los últimos años vienen sobre todo de Santa Bárbara, Lempira, La Paz e Intibucá."
+  ],
+  "cafesReconocidos": [
+    {"nombre": "Finca El Pimporro (Francisco Alvarado Gómez)", "region": "Intibucá", "logro": "1.er lugar categoría Exóticos, Cup of Excellence Honduras 2026, Geisha lavado, 90,50 puntos", "anio": "2026"},
+    {"nombre": "Finca La Cascada (Edras Nehemías Guevara Muñoz)", "region": "Lempira", "logro": "1.er lugar categoría Tradicionales, Cup of Excellence Honduras 2026, Typica lavado, 89,82 puntos", "anio": "2026"},
+    {"nombre": "Finca La Loma (Ottoniel Sagastume Pineda)", "region": "Santa Bárbara", "logro": "1.er lugar categoría Parainema, Cup of Excellence Honduras 2026, natural, 89,14 puntos", "anio": "2026"},
+    {"nombre": "Finca La Salvaje (Fabio Antonio Caballero García)", "region": "La Paz", "logro": "1.er lugar categoría Exóticos, Cup of Excellence Honduras 2025, Geisha lavado, 91,59 puntos", "anio": "2025"},
+    {"nombre": "Finca Dariela (Keyli Victoria Carvajal Bonilla)", "region": "Lempira", "logro": "1.er lugar categoría Tradicionales, Cup of Excellence Honduras 2025, Typica natural, 90,50 puntos", "anio": "2025"},
+    {"nombre": "Finca El Rubí (Jeniffer Iveth Madrid Chávez)", "region": "Santa Bárbara", "logro": "1.er lugar categoría Parainema, Cup of Excellence Honduras 2025, lavado, 89,65 puntos", "anio": "2025"}
+  ],
+  "records": [
+    {"nombre": "Finca El Laurel", "region": "Honduras", "logro": "124,50 dólares por libra en la subasta de la Cup of Excellence Honduras 2017, récord de la competencia en todos los países en ese momento", "anio": "2017"},
+    {"nombre": "Finca El Puente (Marysabel Caballero)", "region": "Marcala, La Paz", "logro": "Unos 120 dólares por libra en la subasta de la Cup of Excellence Honduras 2016, récord de la competencia en ese momento", "anio": "2016"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Honduras (Taza de Excelencia)", "url": "https://allianceforcoffeeexcellence.org/honduras-2026/"},
+  "fuentes": [
+    {"titulo": "IHCAFE – Instituto Hondureño del Café (inicio y cotizaciones)", "url": "https://www.ihcafe.hn/"},
+    {"titulo": "IHCAFE – Regiones cafetaleras", "url": "https://ihcafe.hn/regiones-cafetaleras/"},
+    {"titulo": "USDA FAS – Honduras: Coffee Annual (2025)", "url": "https://www.fas.usda.gov/data/honduras-coffee-annual-9"},
+    {"titulo": "Daily Coffee News – Honduras Coffee Report: Exports Surge on Rising Prices, Reduced Rust Impact (mayo de 2025)", "url": "https://dailycoffeenews.com/2025/05/26/honduras-coffee-report-exports-surge-on-rising-prices-reduced-rust-impact"},
+    {"titulo": "FAOLEX – Ley de Reordenamiento del Sistema Cafetero, Decreto 145-2000 (CONACAFE)", "url": "https://faolex.fao.org/docs/pdf/hon168210.pdf"},
+    {"titulo": "FAOLEX – Reforma a la Ley Orgánica del IHCAFE (Decreto 83 de 1970)", "url": "https://faolex.fao.org/docs/pdf/hon24019.pdf"},
+    {"titulo": "Origin – Sostenibilidad de la DO Café Marcala", "url": "https://www.origin-gi.com/wp-content/uploads/2017/10/03-presentacion_sostenibilidad_DO_CAFE_Marcala_Italia.pdf"},
+    {"titulo": "Alliance for Coffee Excellence – At $124.50 Per Pound, Honduras Coffee Breaks Cup of Excellence Record (2017)", "url": "https://allianceforcoffeeexcellence.org/blog/2017/12/29/at-124-50-per-pound-honduras-coffee-breaks-cup-of-excellence-record/"},
+    {"titulo": "Alliance for Coffee Excellence – Honduras 2026", "url": "https://allianceforcoffeeexcellence.org/honduras-2026/"},
+    {"titulo": "Alliance for Coffee Excellence – Honduras 2025", "url": "https://allianceforcoffeeexcellence.org/honduras-2025/"},
+    {"titulo": "Royal Coffee – Origin Profile: Honduras", "url": "https://dev.royalny.com/rny_blog/origin-profile-honduras-coffee"},
+    {"titulo": "El Heraldo – Café hondureño supera $2,148 millones exportados en cosecha 2024-2025", "url": "https://www.elheraldo.hn/economia/cafe-hondureno-supera-2-148-millones-exportados-cosecha-2024-2025-IG31408734"},
+    {"titulo": "La Prensa – Café hondureño rompe récord y supera los $2,158 millones en exportaciones", "url": "https://laprensa.hn/economia/cafe-honduras-record-exportaciones-2158-millones-BH31414270"},
+    {"titulo": "Perfect Daily Grind – Recorrido por las zonas productoras de café de Honduras", "url": "https://perfectdailygrind.com/es/2024/07/12/recorrido-zonas-productoras-cafe-honduras/"},
+    {"titulo": "El Heraldo – AHPROCAFE realizó con éxito el 57.º Congreso Cafetalero", "url": "https://www.elheraldo.hn/economia/cafehonduras/usaid-agronegocios-sostenibles-congreso-cafetalero-fortalecer-futuro-cafe-hondureno-LG23256805"},
+    {"titulo": "CRS – The Blue Harvest Coffee Story", "url": "https://www.crs.org/our-work/stories/blue-harvest-coffee-story"},
+    {"titulo": "Root Capital – COCAOL's Journey of Strength and Renewal in Honduras", "url": "https://rootcapital.org/?p=30913"},
+    {"titulo": "Rainforest Alliance – Honduras", "url": "https://www.rainforest-alliance.org/regions/honduras/"},
+    {"titulo": "Wikipedia – Coffee production in Honduras", "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Honduras"}
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "mx",
+  "nombre": "México",
+  "slug": "mexico",
+  "metaDescripcion": "Café de México: historia, producción por estado, cómo se forma el precio, organismos del sector y cafés ganadores de la Taza de Excelencia.",
+  "intro": "México es uno de los grandes productores de café de América y, a la vez, un país que se bebe buena parte de lo que cultiva. Su café nace sobre todo en fincas pequeñas de Chiapas, Veracruz, Puebla y Oaxaca, muchas de ellas trabajadas por comunidades indígenas y cooperativas.",
+  "historia": [
+    "El café llegó a México a finales del siglo XVIII, procedente de las Antillas, y sus primeros cultivos se establecieron en Veracruz. Durante décadas fue un cultivo modesto: las exportaciones solo cobraron volumen a partir de la década de 1870. A finales del siglo XIX el café se extendió hacia el sur y Chiapas, en la frontera con Guatemala, terminó convirtiéndose en la principal región cafetalera del país, posición que conserva hasta hoy.",
+    "En el siglo XX el Estado tomó un papel central. En 1958 el gobierno federal creó el Instituto Mexicano del Café (INMECAFÉ), dedicado primero a la investigación y la asistencia técnica; a partir de 1973 amplió sus funciones al acopio, la organización de productores y la exportación. Mientras rigió el Acuerdo Internacional del Café, con sus cuotas y precios estabilizados, la superficie cafetalera creció con fuerza y el café llegó a ser el producto agrícola de exportación más valioso del país durante los años ochenta.",
+    "En 1989 se rompieron las cláusulas económicas del Acuerdo Internacional y el gobierno se retiró del mercado; el INMECAFÉ fue desmantelado y liquidado a inicios de los noventa. Los productores quedaron expuestos a precios muy volátiles y se organizaron en cooperativas y redes como la Coordinadora Nacional de Organizaciones Cafetaleras (CNOC), nacida en 1989. Un año antes, en 1988, el café de la cooperativa UCIRI de Oaxaca había sido el primero en llevar el sello de comercio justo Max Havelaar en los Países Bajos, origen del sistema Fairtrade.",
+    "En 2000 se declaró la denominación de origen Café Veracruz y en 2003 la de Café Chiapas. La epidemia de roya golpeó con fuerza a partir de 2012 y en febrero de 2013 se declaró emergencia en Veracruz. Desde entonces el país ha renovado cafetales con variedades resistentes y ha ganado peso el robusta. Hoy México produce alrededor de cuatro millones de sacos al año, consume más de tres millones y celebra desde 2012 su propia Taza de Excelencia, donde Chiapas, Veracruz y Puebla dominan los primeros lugares."
+  ],
+  "hitos": [
+    {"anio": "1958", "texto": "El gobierno federal crea el Instituto Mexicano del Café (INMECAFÉ)."},
+    {"anio": "1988", "texto": "El café de la cooperativa UCIRI (Oaxaca) es el primero con el sello de comercio justo Max Havelaar."},
+    {"anio": "1989", "texto": "Se rompen las cláusulas económicas del Acuerdo Internacional del Café y el Estado se retira del mercado."},
+    {"anio": "2000", "texto": "Declaratoria de la denominación de origen Café Veracruz."},
+    {"anio": "2003", "texto": "Declaratoria de la denominación de origen Café Chiapas."},
+    {"anio": "2012", "texto": "Primera edición de la Taza de Excelencia (Cup of Excellence) en México."},
+    {"anio": "2013", "texto": "Se declara emergencia por la roya del cafeto en Veracruz."}
+  ],
+  "produccion": {
+    "resumen": "México cultiva arábica bajo sombra en más de una decena de estados, además de una producción creciente de robusta. Cuatro estados, Chiapas, Veracruz, Puebla y Oaxaca, concentran más del 90 % de la producción, y Chiapas es el mayor productor. El 90 % de los cafeticultores trabaja fincas pequeñas, con un promedio de 2,9 hectáreas. A diferencia de sus vecinos centroamericanos, México tiene un gran mercado interno: consume más de tres millones de sacos al año, en buena parte como café soluble.",
+    "volumen": "Alrededor de 4,08 millones de sacos de 60 kg en el ciclo 2025/26, según la estimación del USDA FAS (informe anual de café, mayo de 2026)",
+    "cosecha": "Aproximadamente de octubre a marzo; en algunas zonas altas de Chiapas se extiende hasta abril",
+    "altitud": "Principalmente entre 600 y 1.500 metros; alrededor del 35 % de la producción es arábica cultivado a 900 m o más",
+    "variedades": ["Typica", "Bourbon", "Caturra", "Mundo Novo", "Oro Azteca", "Catimor", "Sarchimor", "Marsellesa", "Geisha", "Robusta"],
+    "procesos": ["Lavado", "Natural", "Honey"],
+    "productores": "El 90 % de los productores son pequeños caficultores, con fincas de 2,9 hectáreas en promedio (USDA FAS); el programa Producción para el Bienestar apoyó a 181.364 cafeticultores en 2026",
+    "regiones": [
+      {"nombre": "Chiapas", "nota": "El mayor estado productor, con cafés de altura en la frontera con Guatemala y denominación de origen Café Chiapas desde 2003."},
+      {"nombre": "Veracruz", "nota": "Cuna histórica del café mexicano, con denominación de origen Café Veracruz y fincas que dominan la Taza de Excelencia reciente."},
+      {"nombre": "Puebla", "nota": "Tercer productor nacional y el estado con mayores rendimientos por hectárea."},
+      {"nombre": "Oaxaca", "nota": "Región de pequeños productores indígenas y cooperativas, pionera del comercio justo con UCIRI."},
+      {"nombre": "Guerrero", "nota": "Uno de los cinco estados que concentran la mayor superficie cafetalera del país."}
+    ]
+  },
+  "costo": {
+    "explicacion": "Desde 1989 el precio del café en México lo marca el mercado: la referencia es el contrato \"C\" de arábica en la bolsa de Nueva York (y Londres para el robusta), a la que los compradores aplican diferenciales según calidad, altura y certificación. En el campo el productor suele vender su café como cereza (por kilogramo) o como pergamino (por quintal) a intermediarios, beneficios, cooperativas o a la industria, que a su vez exporta o vende al mercado interno. Por eso los cambios en la bolsa o en las condiciones comerciales llegan rápido al productor: a inicios de 2025, por ejemplo, compradores en Veracruz aplicaron descuentos a los cafeticultores ante el anuncio de aranceles en Estados Unidos. Los cafés de especialidad, orgánicos y de comercio justo se negocian con primas sobre esa referencia.",
+    "unidadLocal": "kilogramo de café cereza y quintal de café pergamino; la exportación se reporta en sacos de 60 kg"
+  },
+  "quienControlaPrecio": "Ningún organismo fija el precio del café en México desde la desaparición del INMECAFÉ: el precio sigue al mercado internacional y se negocia libremente. La Secretaría de Agricultura y Desarrollo Rural (SADER) define la política pública y los apoyos, como el programa Producción para el Bienestar. La Asociación Mexicana de la Cadena Productiva del Café (AMECAFÉ) lleva la habilitación anual de comercializadores y exportadores en cada ciclo cafetalero, administra los fideicomisos FIRCAFÉ y publica información de precios y mercados, pero no regula el precio que recibe el productor.",
+  "organismos": [
+    {"nombre": "Secretaría de Agricultura y Desarrollo Rural", "sigla": "SADER", "tipo": "Institución nacional", "rol": "Define la política cafetalera y opera apoyos como Producción para el Bienestar para pequeños productores.", "url": "https://www.gob.mx/agricultura"},
+    {"nombre": "Asociación Mexicana de la Cadena Productiva del Café", "sigla": "AMECAFÉ", "tipo": "Gremio de productores", "rol": "Habilita a comercializadores y exportadores en cada ciclo, administra los fideicomisos FIRCAFÉ y colabora en la Taza de Excelencia México.", "url": "https://www.amecafe.org.mx/"},
+    {"nombre": "Coordinadora Nacional de Organizaciones Cafetaleras", "sigla": "CNOC", "tipo": "Gremio de productores", "rol": "Red de organizaciones regionales de pequeños productores fundada en 1989.", "url": ""},
+    {"nombre": "Coordinadora Latinoamericana y del Caribe de Comercio Justo", "sigla": "CLAC", "tipo": "Organismo internacional", "rol": "Red de pequeños productores copropietaria del sistema Fairtrade, cuyo origen está ligado a la cooperativa oaxaqueña UCIRI.", "url": "https://clac-comerciojusto.org/"},
+    {"nombre": "TechnoServe", "sigla": "", "tipo": "ONG", "rol": "Organización de desarrollo empresarial agrícola con programas activos en México.", "url": "https://www.technoserve.org/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organiza la Taza de Excelencia México y subasta en línea los lotes ganadores.", "url": "https://allianceforcoffeeexcellence.org/"}
+  ],
+  "cafesReconocidos": [
+    {"nombre": "Finca Santa Cruz (Cruz José Argüello Enríquez)", "region": "Chiapas", "logro": "1.er lugar categoría Experimentales, Cup of Excellence México 2026, Gesha natural experimental, 91,33 puntos", "anio": "2026"},
+    {"nombre": "Finca Huehuetepan (María del Rosario Iraís Valdivia Ortiz)", "region": "Veracruz", "logro": "1.er lugar categoría Lavados, Cup of Excellence México 2026, Gesha, 91,22 puntos", "anio": "2026"},
+    {"nombre": "Finca El Izote (Katia de Jesús Loeza Merino)", "region": "Veracruz", "logro": "1.er lugar categoría Naturales y Honey, Cup of Excellence México 2026, Gesha honey, 91,03 puntos", "anio": "2026"},
+    {"nombre": "Finca Santa Cruz (Cruz José Argüello Miceli)", "region": "Chiapas", "logro": "1.er lugar categoría Lavados tradicionales, Cup of Excellence México 2025, Geisha, 91,36 puntos", "anio": "2025"},
+    {"nombre": "Finca Don Gustavo (Rafael Tapia Alvarado)", "region": "Veracruz", "logro": "2.º lugar categoría Lavados tradicionales, Cup of Excellence México 2025, Marsellesa y Anacafé 14, 90,58 puntos", "anio": "2025"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence México (Taza de Excelencia)", "url": "https://allianceforcoffeeexcellence.org/mexico-2026/"},
+  "fuentes": [
+    {"titulo": "USDA FAS – Mexico: Coffee Annual", "url": "https://www.fas.usda.gov/data/mexico-coffee-annual-3"},
+    {"titulo": "CropGPT – Mexico coffee output edges up in 2026/27 (resumen del informe USDA FAS, mayo de 2026)", "url": "https://cropgpt.ai/mexico-coffee-output-edges-up-in-2026-27"},
+    {"titulo": "Daily Coffee News – Mexico Coffee Report: Production and Specialty Consumption Are Up (mayo de 2024)", "url": "https://dailycoffeenews.com/2024/05/23/mexico-coffee-report-production-and-specialty-consumption-are-up"},
+    {"titulo": "Wikipedia – Coffee production in Mexico", "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Mexico"},
+    {"titulo": "CECCAM – El nuevo Inmecafé bonsái (2025)", "url": "https://www.ceccam.org/sites/default/files/El%20nuevo%20Inmecafe%CC%81%20bonsa%CC%81i%2009sep25.pdf"},
+    {"titulo": "La Jornada – CNOC nació en julio de 1989 (suplemento, diciembre de 2009)", "url": "https://jornada.com.mx/2009/12/12/cafetalero.html"},
+    {"titulo": "Wikipedia – Union of Indigenous Communities of the Isthmus Region (UCIRI)", "url": "https://en.wikipedia.org/wiki/Union_of_Indigenous_Communities_of_the_Isthmus_Region"},
+    {"titulo": "Oxfam – RIP Father Frans van der Hoff, co-founder of the Fairtrade movement", "url": "https://frompoverty.oxfam.org.uk/rip-father-frans-von-hoff-the-co-founder-of-the-fairtrade-movement/"},
+    {"titulo": "WIPO Lex – Declaratoria de protección de la denominación de origen Café Veracruz", "url": "https://www.wipo.int/wipolex/es/legislation/details/9312"},
+    {"titulo": "origin-GI – Denominaciones de origen de México (Café Veracruz 2000, Café Chiapas 2003)", "url": "https://www.origin-gi.com/wp-content/uploads/2011/10/3_panel1_3rgf.pdf"},
+    {"titulo": "Agraria.pe – México declara emergencia por roya en café (febrero de 2013)", "url": "https://www.agraria.pe/index.php/noticias/mexico-declara-emergencia-por-roya-en-cafe-3930"},
+    {"titulo": "Oaxaca SEDECO / GIZ – Estrategia integral para el desarrollo sostenible del café (datos SIAP 2022)", "url": "https://www.oaxaca.gob.mx/sedeco/wp-content/uploads/sites/60/2025/06/Estrategia-integral-para-el-desarrollo-sostenible-GIZ-compacta-1.pdf"},
+    {"titulo": "Milenio – Aplican aranceles a cafeticultores de Veracruz tras llegada de Trump", "url": "https://www.milenio.com/estados/aplican-aranceles-a-cafeticultores-de-veracruz-tras-llegada-de-trump"},
+    {"titulo": "Royal Coffee – Mexico Organic Chiapas Altura HG EP (cosecha y altitud)", "url": "https://royalcoffee.com/product/3427097000057697004/"},
+    {"titulo": "AMECAFÉ – Asociación Mexicana de la Cadena Productiva del Café", "url": "https://www.amecafe.org.mx/"},
+    {"titulo": "Global Coffee Report – Mexico sees first Cup of Excellence auction", "url": "https://www.gcrmag.com/mexico-sees-first-cup-of-excellence-auction/"},
+    {"titulo": "TechnoServe – Where we work", "url": "https://www.technoserve.org/our-work/where-we-work/"},
+    {"titulo": "Alliance for Coffee Excellence – Mexico 2026", "url": "https://allianceforcoffeeexcellence.org/mexico-2026/"},
+    {"titulo": "Alliance for Coffee Excellence – Mexico 2025", "url": "https://allianceforcoffeeexcellence.org/mexico-2025/"}
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pe",
+  "nombre": "Perú",
+  "slug": "peru",
+  "metaDescripcion": "Café del Perú: historia, producción, cómo se forma el precio al productor, gremios y cooperativas, y cafés ganadores de la Taza de Excelencia.",
+  "intro": "En el Perú el café es un cultivo de pequeños productores: unas 223 mil familias lo siembran en las laderas orientales de los Andes y en la selva alta. El país es uno de los principales exportadores de café arábica de América del Sur y ha ganado prestigio en los últimos años con sus cafés especiales de Cajamarca, Cusco, Junín y Amazonas.",
+  "historia": [
+    "Las fuentes no coinciden en la fecha exacta, pero ubican la llegada del café al Perú a mediados del siglo XVIII. Durante mucho tiempo fue un cultivo menor. En el siglo XIX se asentó en la provincia de Chanchamayo, en Junín, que se convirtió en la zona cafetalera por excelencia, y en la década de 1880 comenzaron las exportaciones, sobre todo hacia Alemania e Inglaterra. El Ferrocarril Central, completado por la Peruvian Corporation, facilitó la salida del café de los valles de la selva central.",
+    "Durante el siglo XX el cultivo pasó poco a poco a manos de pequeños productores. En la década de 1970 las cooperativas cafetaleras se expandieron y llegaron a manejar alrededor del 80 % de las exportaciones, según la Junta Nacional del Café. Desde los años noventa, instituciones nacionales y organizaciones no gubernamentales promovieron el café como alternativa a la coca en varias zonas. El Perú se volvió además un gran proveedor de café orgánico y de comercio justo, con unas 90.000 hectáreas certificadas como orgánicas.",
+    "La roya amarilla del cafeto golpeó con fuerza a partir de 2013 y todavía afecta cerca del 40 % del cultivo, según el Departamento de Agricultura de Estados Unidos (USDA). En 2015 el Perú volvió a la Organización Internacional del Café tras 23 años de ausencia, a pedido de los productores representados por la Junta Nacional del Café. En 2017 se realizó la primera Taza de Excelencia (Cup of Excellence) del país, que abrió una vitrina internacional para los microlotes peruanos.",
+    "Hoy, según el Ministerio de Desarrollo Agrario y Riego (Midagri), hay unas 223 mil familias cafetaleras y alrededor de 427.000 hectáreas de café, y cerca del 85 % de los productores trabaja menos de 5 hectáreas. La cosecha de 2025 fue de unas 285.000 toneladas y las exportaciones de ese año alcanzaron un récord de 1.796 millones de dólares, impulsadas por los altos precios internacionales. Para 2026, la Junta Nacional del Café prevé una cosecha de 230 mil a 240 mil toneladas por la falta de lluvias durante la floración."
+  ],
+  "hitos": [
+    {"anio": "1887", "texto": "Comienzan las exportaciones de café peruano hacia Alemania e Inglaterra."},
+    {"anio": "2008", "texto": "Se instaura el Día del Café Peruano, que se celebra el cuarto viernes de agosto."},
+    {"anio": "2013", "texto": "La roya amarilla se extiende por los cafetales del país y reduce la producción."},
+    {"anio": "2015", "texto": "El Perú regresa a la Organización Internacional del Café tras 23 años de ausencia."},
+    {"anio": "2017", "texto": "Se celebra la primera Taza de Excelencia (Cup of Excellence) del Perú."},
+    {"anio": "2025", "texto": "Las exportaciones de café alcanzan un récord de 1.796 millones de dólares."}
+  ],
+  "produccion": {
+    "resumen": "El café peruano es arábica y lo produce sobre todo la agricultura familiar: más del 90 % proviene de fincas de menos de 5 hectáreas. Gran parte se cultiva bajo sombra y se cosecha a mano. El productor suele despulpar, fermentar, lavar y secar el café en su finca, y lo vende como café pergamino a cooperativas, acopiadores o exportadores. El Perú destaca por su volumen de café orgánico y certificado, y en los últimos años por microlotes de especialidad de variedades como Geisha y Bourbon.",
+    "volumen": "Alrededor de 4,76 millones de sacos de 60 kg en el año comercial 2025/26 (abril a marzo), según la estimación del USDA; la Junta Nacional del Café calcula la cosecha de 2025 en unas 285.000 toneladas.",
+    "cosecha": "De abril a septiembre, con el pico de la cosecha entre junio y septiembre.",
+    "altitud": "Cerca del 75 % del área cafetalera está entre 1.000 y 1.800 metros sobre el nivel del mar; los lotes de especialidad suelen venir de zonas más altas.",
+    "variedades": ["Típica", "Caturra", "Bourbon", "Geisha"],
+    "procesos": ["Lavado (predominante)", "Natural", "Honey"],
+    "productores": "Unas 223 mil familias cafetaleras, según el Midagri (2026).",
+    "regiones": [
+      {"nombre": "Cajamarca", "nota": "Primera región productora, con alrededor del 22 % del café peruano; de sus fincas salieron los primeros lugares de la Taza de Excelencia 2024 y 2025."},
+      {"nombre": "San Martín", "nota": "Aporta cerca del 20 % de la producción nacional en la selva alta del nororiente."},
+      {"nombre": "Junín", "nota": "Cuna histórica del café peruano en Chanchamayo y Villa Rica, con cerca del 19 % de la producción."},
+      {"nombre": "Amazonas", "nota": "Región del norte que produce alrededor del 15 % del café del país."},
+      {"nombre": "Cusco", "nota": "Región del sur que colocó lotes en los primeros lugares de la Taza de Excelencia 2024 y 2025."}
+    ]
+  },
+  "costo": {
+    "explicacion": "En el Perú no hay un precio oficial del café. El precio al productor sigue la cotización internacional del contrato «C» de la Bolsa de Nueva York, a la que compradores y exportadores aplican un diferencial según la calidad, las certificaciones (orgánico, comercio justo) y la negociación de cada contrato. Según la Junta Nacional del Café, los cambios del mercado mundial se trasladan de inmediato al acopio, y las cooperativas y operadores pagan en función de la tendencia del mercado. Los cafés especiales reciben primas más altas, y los mejores lotes se venden en subastas como la de la Taza de Excelencia.\n\nComo ejemplo fechado: en septiembre de 2021 los productores recibían unos 12 soles por kilo de café comercial (78 puntos) y unos 18 soles por kilo de café especial (80 puntos o más), según la Junta Nacional del Café. El USDA estimó el precio promedio de exportación del año 2025/26 en 7.577 dólares por tonelada, un 55 % más que el año anterior.",
+    "unidadLocal": "kilo o quintal de café pergamino seco, pagado en soles"
+  },
+  "quienControlaPrecio": "Ninguna entidad fija ni regula el precio del café en el Perú: el mercado es libre y el precio se forma a partir de la Bolsa de Nueva York más los diferenciales que pactan cooperativas, empresas exportadoras y compradores internacionales. El Midagri define la política sectorial y los programas de apoyo, pero no establece precios. La Junta Nacional del Café es el gremio que agrupa a cooperativas y organizaciones de productores y los representa ante el Estado; las cooperativas, por su parte, negocian directamente con compradores y trasladan el precio a sus socios.",
+  "organismos": [
+    {"nombre": "Ministerio de Desarrollo Agrario y Riego", "sigla": "Midagri", "tipo": "Institución nacional", "rol": "Ministerio a cargo de la política agraria, incluidos los programas de apoyo a la caficultura.", "url": "https://www.gob.pe/midagri"},
+    {"nombre": "Junta Nacional del Café", "sigla": "JNC", "tipo": "Gremio de productores", "rol": "Agrupa y representa a cooperativas y organizaciones de pequeños productores de café ante el Estado.", "url": "https://www.juntadelcafe.org.pe/"},
+    {"nombre": "Cámara Peruana del Café y Cacao", "sigla": "","tipo": "Gremio de productores", "rol": "Asociación privada fundada en 1991 que reúne a productores, exportadores e industriales del café y el cacao.", "url": "https://www.camcafeperu.com.pe/"},
+    {"nombre": "Central Café & Cacao del Perú", "sigla": "", "tipo": "Cooperativa", "rol": "Organiza la Taza de Excelencia Perú bajo licencia de la Alliance for Coffee Excellence.", "url": ""},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organización intergubernamental del café, a la que el Perú se reincorporó en 2015.", "url": "https://www.ico.org/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "ONG", "rol": "Organización sin fines de lucro que gestiona la competencia Cup of Excellence y publica sus resultados.", "url": "https://allianceforcoffeeexcellence.org/"}
+  ],
+  "cafesReconocidos": [
+    {"nombre": "La Catarata (Ángel Antonio Manosalva Palomino)", "region": "Jaén, Cajamarca", "logro": "1.er lugar, Taza de Excelencia Perú 2025, 90,64 puntos", "anio": "2025"},
+    {"nombre": "Finca La Ponderoza (Dreyde Pérez Delgado)", "region": "Cajamarca", "logro": "2.º lugar, Taza de Excelencia Perú 2025, 90,42 puntos", "anio": "2025"},
+    {"nombre": "Llaqta Pata (Gilber Huayllas Huamán)", "region": "Cusco", "logro": "3.er lugar, Taza de Excelencia Perú 2025, 89,97 puntos", "anio": "2025"},
+    {"nombre": "El Mirador (Miguel Padilla Chinguel)", "region": "Cajamarca", "logro": "1.er lugar, Taza de Excelencia Perú 2024, 90,54 puntos", "anio": "2024"},
+    {"nombre": "Campo Verde (Wilfredo Arias Candia)", "region": "Cusco", "logro": "2.º lugar, Taza de Excelencia Perú 2024, 90,21 puntos", "anio": "2024"}
+  ],
+  "competencia": {"nombre": "Taza de Excelencia Perú (Cup of Excellence)", "url": "https://allianceforcoffeeexcellence.org/peru-2025/"},
+  "fuentes": [
+    {"titulo": "Daily Coffee News – Peru Coffee Report: Production Steady Despite Structural Challenges (resumen del informe anual del USDA, junio de 2026)", "url": "https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/"},
+    {"titulo": "USDA FAS – Peru: Coffee Annual", "url": "https://www.fas.usda.gov/data/peru-coffee-annual-8"},
+    {"titulo": "Agraria.pe – El sector café se consolida como una importante fuente de empleo (agosto de 2026)", "url": "https://www.agraria.pe/noticias/el-sector-cafe-se-consolida-como-una-importante-fuente-de-em-42963"},
+    {"titulo": "Agraria.pe – Perú retorna a foro mundial del café tras 23 años", "url": "https://agraria.pe/noticias/peru-retorna-a-foro-mundial-del-cafe-tras-23-9434"},
+    {"titulo": "Agraria.pe – Cafés galardonados en competencia Taza de Excelencia (2017)", "url": "https://agraria.pe/noticias/cafes-galardonados-en-competencia-taza-de-excelencia-14301"},
+    {"titulo": "Agraria.pe – Taza de Excelencia Perú 2025: el mejor café del Perú es de Cajamarca", "url": "https://agraria.pe/noticias/taza-de-excelencia-peru-2025-el-mejor-cafe-del-peru-es-de-ca-41124"},
+    {"titulo": "Agraria.pe – Crean agenda única para nuestro producto bandera (2010)", "url": "https://agraria.pe/noticias/crean-agenda-unica--para-nuestro-producto-bandera-594"},
+    {"titulo": "RPP – Perú celebra el Día del Café Peruano", "url": "https://rpp.pe/peru/actualidad/peru-celebra-el-dia-del-cafe-peruano-noticia-290944"},
+    {"titulo": "Infomercado – Alza internacional del precio del café favorece a productores peruanos (2021)", "url": "https://infomercado.pe/alza-internacional-del-precio-del-cafe-favorece-a-productores-peruanos/"},
+    {"titulo": "Wikipedia – Coffee production in Peru", "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Peru"},
+    {"titulo": "StoneX – USDA attaché: Peru's 2023/2024 coffee crop pegged at 4.2 million bags (calendario de cosecha)", "url": "https://www.stonex.com/en/insights/usda-attache-peru-s-2023-2024-coffee-crop-pegged-at-4-2-million-bags/"},
+    {"titulo": "Cámara Peruana del Café y Cacao", "url": "https://www.camcafeperu.com.pe/"},
+    {"titulo": "Alliance for Coffee Excellence – Perú 2025, resultados", "url": "https://allianceforcoffeeexcellence.org/peru-2025/"},
+    {"titulo": "Alliance for Coffee Excellence – Perú 2024, resultados", "url": "https://allianceforcoffeeexcellence.org/peru-2024/"}
+  ]
+}

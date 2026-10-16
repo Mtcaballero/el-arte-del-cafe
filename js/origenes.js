@@ -8,6 +8,7 @@
   var porId = {};
   PAISES.forEach(function (c) { porId[c.id] = c; });
   var INICIALES = ['hn', 'gt'];
+  var SLUGS = { hn: 'honduras', gt: 'guatemala', mx: 'mexico', ni: 'nicaragua', sv: 'el-salvador', cr: 'costa-rica', pa: 'panama', do: 'republica-dominicana', co: 'colombia', ec: 'ecuador', pe: 'peru', bo: 'bolivia' };
   var slots = INICIALES.slice();
   var siguiente = 1;
   var ocupado = false;
@@ -23,6 +24,7 @@
   var contenidos = tarjetas.map(function (art) {
     art.style.position = 'relative';
     var envoltorio = document.createElement('div');
+    envoltorio.className = 'tarjeta-cuerpo';
     while (art.firstChild) envoltorio.appendChild(art.firstChild);
     art.appendChild(envoltorio);
     return envoltorio;
@@ -76,12 +78,23 @@
       '<g class="asc-front"><path d="' + c.front + '" fill="' + c.frontFill + '"></path></g></svg>' +
       '<span style="position: absolute; left: 16px; bottom: 14px; display: inline-flex; align-items: center; gap: 8px; padding: 7px 14px; border-radius: 999px; background: rgba(20, 18, 36, 0.62); color: #FFFDF8; font-size: 14px; font-weight: 600;"><svg viewBox="0 0 16 16" style="width: 16px; height: 16px;" aria-hidden="true" fill="none" stroke="#F2B33D" stroke-width="1.6" stroke-linejoin="round"><path d="M1,14 L6,5 L9,10 L11,7 L15,14 Z"></path></svg>' + esc(c.label) + '</span></div>' +
       bordado(c, k) +
-      '<div style="padding: 24px clamp(28px, 4vw, 44px) clamp(28px, 4vw, 44px);">' +
+      '<div class="tarjeta-texto" style="padding: 24px clamp(28px, 4vw, 44px) clamp(28px, 4vw, 44px);">' +
       '<h3 style="font-family: \'Young Serif\', Georgia, serif; font-weight: 400; font-size: 46px; line-height: 1.05; margin: 0 0 6px;">' + esc(c.name) + '</h3>' +
       '<p style="margin: 0 0 18px; font-size: 18px; font-weight: 600; color: #F2B33D;">' + esc(c.tagline) + '</p>' +
       '<p style="margin: 0 0 28px; font-size: 18px; line-height: 1.65; color: ' + c.muted + ';">' + esc(c.desc) + '</p>' +
       '<h4 style="margin: 0 0 12px; font-size: 15px; font-weight: 600; color: #FFFDF8;">Regiones cafetaleras</h4>' +
-      '<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px;">' + regiones + '</ul></div>';
+      '<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px;">' + regiones + '</ul>' +
+      ctaPais(c) + '</div>';
+  }
+
+  // Botón con un gotero V60 que gotea, lleva a la página del país en Regiones.
+  function ctaPais(c) {
+    var listas = window.EADC_REGIONES_LISTAS || [];
+    var destino = listas.indexOf(SLUGS[c.id]) !== -1 ? '/regiones/' + SLUGS[c.id] : '/regiones/';
+    return '<a class="cta-pais" href="' + destino + '">' +
+      '<span class="cta-v60" aria-hidden="true"><svg viewBox="0 0 40 40" width="30" height="30"><path d="M7,9 H33 L24.5,24 H15.5 Z" fill="#C8287A"></path><path d="M5,9 H35" stroke="#C8287A" stroke-width="3" stroke-linecap="round"></path><path d="M15,13 L19,21 M20,13 V21 M25,13 L21,21" stroke="#FFFDF8" stroke-width="1.4" stroke-linecap="round"></path><path d="M13,26.5 H27" stroke="#23305E" stroke-width="2.6" stroke-linecap="round"></path><circle class="cta-gota" cx="20" cy="31" r="2.4" fill="#6B3A22"></circle></svg></span>' +
+      '<span>Descubre el café de ' + esc(c.name) + '</span>' +
+      '<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3,8 H13 M9,4 L13,8 L9,12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>';
   }
 
   function mini(c) {

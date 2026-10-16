@@ -1,0 +1,76 @@
+{
+  "id": "co",
+  "nombre": "Colombia",
+  "slug": "colombia",
+  "metaDescripcion": "Café de Colombia: historia, producción, cómo se fija el precio interno de la FNC, organismos del sector y cafés premiados en Cup of Excellence.",
+  "intro": "Colombia es uno de los grandes productores de café arábica del mundo y su caficultura descansa en cientos de miles de familias repartidas por las montañas andinas. Su modelo gremial, encabezado por la Federación Nacional de Cafeteros desde 1927, se distingue por el precio de referencia diario y la garantía de compra que ofrece al productor.",
+  "historia": [
+    "No hay una fecha exacta de la llegada del café a Colombia. Una de las versiones más citadas sostiene que los holandeses lo llevaron a comienzos del siglo XVIII a su colonia de Surinam, desde donde pasó a Colombia y a Brasil. Hacia 1730, según esos relatos, los jesuitas ya lo cultivaban en la zona de los dos Santanderes. Durante varias décadas fue un cultivo pequeño, y no fue sino hasta 1835 cuando se registraron las primeras exportaciones del grano colombiano.",
+    "En la segunda mitad del siglo XIX el café se extendió por las laderas andinas y se volvió un producto de exportación. Hacia 1870 ya salían cantidades importantes hacia Europa y Estados Unidos, y a finales de ese siglo la producción pasó de unos 60.000 sacos a más de 600.000. Para organizar a los productores y mejorar sus condiciones de venta, el 27 de junio de 1927 se fundó en Medellín la Federación Nacional de Cafeteros (FNC), una entidad gremial privada y sin ánimo de lucro.",
+    "La FNC creó en 1938 el Centro Nacional de Investigaciones de Café (Cenicafé), que desde entonces desarrolla variedades y prácticas de cultivo, entre ellas variedades resistentes a la roya. En 1958 nació el personaje de Juan Valdez, creado por la agencia Doyle Dane Bernbach para promover el café colombiano en el exterior. Más tarde llegaron reconocimientos al origen: en 2007 la Unión Europea registró «Café de Colombia» como Indicación Geográfica Protegida, y en 2011 la UNESCO inscribió el Paisaje Cultural Cafetero en la Lista del Patrimonio Mundial.",
+    "Hoy el café se cultiva en 23 departamentos y el Huila es el primer productor del país. Según la FNC, la producción de 2024 llegó a 13,99 millones de sacos de 60 kg, la mejor desde 2019, y el año cafetero 2024-2025 cerró con 14,8 millones de sacos, la mayor cosecha en 33 años. En 2025 las lluvias prolongadas afectaron las floraciones: el año calendario cerró con 13,67 millones de sacos y el año cafetero 2025-2026 bajó a 12,65 millones, un 15 % menos que el ciclo anterior."
+  ],
+  "hitos": [
+    {"anio": "1835", "texto": "Se registran las primeras exportaciones de café colombiano."},
+    {"anio": "1927", "texto": "Se funda en Medellín la Federación Nacional de Cafeteros de Colombia."},
+    {"anio": "1938", "texto": "La FNC crea Cenicafé, su centro de investigación científica."},
+    {"anio": "1958", "texto": "Nace Juan Valdez, el personaje que representa al caficultor colombiano."},
+    {"anio": "2007", "texto": "La Unión Europea reconoce «Café de Colombia» como Indicación Geográfica Protegida."},
+    {"anio": "2011", "texto": "La UNESCO declara Patrimonio Mundial el Paisaje Cultural Cafetero de Colombia."},
+    {"anio": "2025", "texto": "El año cafetero 2024-2025 cierra con 14,8 millones de sacos, la mayor cosecha en 33 años."}
+  ],
+  "produccion": {
+    "resumen": "Todo el café que produce Colombia es arábica y se cultiva sobre todo en fincas pequeñas de ladera. La tradición del país es el café lavado: el grano se despulpa, se fermenta, se lava y se seca hasta obtener café pergamino seco, que es la forma en que el caficultor lo vende. La producción depende mucho del clima; los años de lluvias excesivas reducen la floración y el llenado del grano. En los últimos años han crecido los cafés especiales y los lotes de variedades como Geisha, con procesos honey o fermentaciones controladas.",
+    "volumen": "Alrededor de 13,67 millones de sacos de 60 kg en 2025 (año calendario), frente a 13,99 millones en 2024, según la FNC. En el año cafetero 2025-2026 (octubre a septiembre) se produjeron 12,65 millones de sacos.",
+    "cosecha": "Dos cosechas al año en buena parte del país: en la zona central, la cosecha principal va aproximadamente de septiembre a diciembre y la mitaca de abril a junio. El calendario cambia según la región y la altitud.",
+    "altitud": "La mayor parte del área cafetera está entre 1.200 y 2.000 metros sobre el nivel del mar.",
+    "variedades": ["Castillo", "Caturra", "Colombia", "Típica", "Geisha"],
+    "procesos": ["Lavado (predominante)", "Honey", "Fermentaciones controladas y anaeróbicas en lotes de especialidad", "Natural"],
+    "productores": "Unas 546.382 familias cafeteras en 23 departamentos y 604 municipios, según datos de la FNC citados en 2021.",
+    "regiones": [
+      {"nombre": "Huila", "nota": "Primer departamento productor del país, con cerca del 19 % de la producción nacional y café en 35 de sus 37 municipios."},
+      {"nombre": "Antioquia", "nota": "Segundo productor nacional; en 2021 aportó alrededor del 15 % de la cosecha del país."},
+      {"nombre": "Tolima", "nota": "De sus montañas salieron dos de los tres primeros lugares de la Cup of Excellence Colombia 2023, ambos de variedad Geisha."},
+      {"nombre": "Nariño", "nota": "Región del sur con fincas de gran altitud que han ganado varias ediciones recientes de la Cup of Excellence."},
+      {"nombre": "Eje Cafetero (Caldas, Quindío y Risaralda)", "nota": "Corazón histórico de la caficultura colombiana, reconocido por la UNESCO como Paisaje Cultural Cafetero."},
+      {"nombre": "Cauca", "nota": "Departamento del suroccidente con fuerte presencia de pequeños productores y cafés especiales."}
+    ]
+  },
+  "costo": {
+    "explicacion": "El precio que recibe el caficultor colombiano parte del mercado internacional. La FNC calcula cada día un precio base de mercado con tres elementos: la cotización de cierre del contrato «C» en la Bolsa de Nueva York, la tasa de cambio del día y un diferencial o prima de referencia para el café colombiano. Con ese cálculo publica el precio interno de referencia por carga de 125 kg de café pergamino seco. Ese precio varía según la distancia entre la finca y el punto de compra, y las cooperativas de caficultores cubren con él los costos de acopio. Al precio se le aplican ajustes por calidad y se suman bonificaciones cuando se trata de cafés especiales.\n\nComo referencia, la página de la FNC mostraba el 15 de octubre de 2026 un precio interno de referencia de 2.095.000 pesos por carga, con la Bolsa de Nueva York en 294,80 centavos de dólar por libra y una tasa de cambio de 3.170 pesos por dólar. Estas cifras cambian a diario.",
+    "unidadLocal": "carga de 125 kg de café pergamino seco"
+  },
+  "quienControlaPrecio": "En Colombia nadie fija el precio del café por decreto: su base es la cotización internacional de la Bolsa de Nueva York. Lo que sí existe es una referencia oficial diaria. La Federación Nacional de Cafeteros, que administra el Fondo Nacional del Café, publica cada día el precio interno de referencia y, mediante la Garantía de Compra, se compromete a comprar el café de cualquier productor a un precio derivado de esa referencia, a través de las cooperativas y puntos de compra autorizados. Los exportadores privados también compran café, pero ese precio público sirve de punto de partida para todo el mercado interno.",
+  "organismos": [
+    {"nombre": "Federación Nacional de Cafeteros de Colombia", "sigla": "FNC", "tipo": "Gremio de productores", "rol": "Representa a los caficultores, publica el precio interno de referencia y garantiza la compra de su café.", "url": "https://federaciondecafeteros.org/"},
+    {"nombre": "Centro Nacional de Investigaciones de Café", "sigla": "Cenicafé", "tipo": "Institución nacional", "rol": "Centro de investigación de la FNC, creado en 1938, que desarrolla variedades y prácticas de cultivo.", "url": "https://www.cenicafe.org/"},
+    {"nombre": "Almacenes Generales de Depósito de Café", "sigla": "Almacafé", "tipo": "Institución nacional", "rol": "Operador logístico del café que presta servicios de compra, almacenamiento, transporte y despacho.", "url": "https://www.almacafe.com.co/"},
+    {"nombre": "Ministerio de Agricultura y Desarrollo Rural", "sigla": "MinAgricultura", "tipo": "Institución nacional", "rol": "Entidad del Gobierno a cargo de la política agropecuaria del país, incluida la cafetera.", "url": "https://www.minagricultura.gov.co/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organización intergubernamental con sede en Londres que reúne a países productores y consumidores de café.", "url": "https://www.ico.org/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "ONG", "rol": "Organización sin fines de lucro que gestiona la competencia Cup of Excellence y publica sus resultados.", "url": "https://allianceforcoffeeexcellence.org/"}
+  ],
+  "cafesReconocidos": [
+    {"nombre": "Finca Montreal (Duberney Cifuentes Fajardo)", "region": "Tolima", "logro": "1.er lugar, Cup of Excellence Colombia 2023, 90,61 puntos", "anio": "2023"},
+    {"nombre": "Finca Santa Ana (Carlos Alberto Belalcázar)", "region": "Nariño", "logro": "2.º lugar, Cup of Excellence Colombia 2023, 90,39 puntos", "anio": "2023"},
+    {"nombre": "Finca El Cedral (Ángel María Rojas Vásquez)", "region": "Tolima", "logro": "3.er lugar, Cup of Excellence Colombia 2023, 90,33 puntos", "anio": "2023"},
+    {"nombre": "Finca La Bohemia (Carlos Alberto Belalcázar)", "region": "Nariño", "logro": "1.er lugar, Cup of Excellence Colombia 2022, 90,65 puntos", "anio": "2022"},
+    {"nombre": "Finca El Porvenir (Abdías Lasso Muñoz)", "region": "Nariño", "logro": "2.º lugar, Cup of Excellence Colombia 2022, 90,02 puntos", "anio": "2022"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Colombia", "url": "https://allianceforcoffeeexcellence.org/colombia-2023/"},
+  "fuentes": [
+    {"titulo": "FNC – Servicios al caficultor (precio interno de referencia)", "url": "https://federaciondecafeteros.org/servicios-al-caficultor/"},
+    {"titulo": "FNC Comité de Caldas – Garantía de compra", "url": "https://caldas.federaciondecafeteros.org/garantia-de-compra/"},
+    {"titulo": "La República – Producción de café en 2025 llegó a 13,67 millones de sacos", "url": "https://www.larepublica.co/economia/produccion-de-cafe-en-2025-llego-a-13-67-millones-de-sacos-y-registro-una-caida-de-2-4302506"},
+    {"titulo": "Agronegocios – Colombia cerró producción de café de 2024 con 13,99 millones de sacos", "url": "https://www.agronegocios.co/agricultura/colombia-cerro-produccion-de-cafe-de-2024-con-una-cifra-de-13-99-millones-de-sacos-4032218"},
+    {"titulo": "La República – Año cafetero 2024-2025 registró la mejor producción de los últimos 33 años", "url": "https://www.larepublica.co/economia/ano-cafetero-2024-2025-registro-la-mejor-produccion-de-los-ultimos-33-anos-4242176"},
+    {"titulo": "Valora Analitik – Producción de café cayó 15 % en el año cafetero 2025-2026", "url": "https://www.valoraanalitik.com/?p=616548"},
+    {"titulo": "Radio Nacional de Colombia – Café colombiano, un producto con mucha historia", "url": "https://radionacional.co/actualidad/campo-colombiano/cafe-colombiano-un-producto-con-mucha-historia"},
+    {"titulo": "Radio Nacional de Colombia – Huila es hoy el primer productor de café del país", "url": "https://radionacional.co/actualidad/campo-colombiano/huila-es-hoy-el-primer-productor-de-cafe-del-pais"},
+    {"titulo": "OMPI – Making the Origin Count: The Colombian Experience", "url": "https://www.wipo.int/ipadvantage/en/details.jsp?id=2617"},
+    {"titulo": "UNESCO – Coffee Cultural Landscape of Colombia", "url": "https://whc.unesco.org/en/list/1121/"},
+    {"titulo": "Alliance for Coffee Excellence – Colombia 2023, resultados", "url": "https://allianceforcoffeeexcellence.org/colombia-2023/"},
+    {"titulo": "Alliance for Coffee Excellence – Colombia 2022, resultados", "url": "https://allianceforcoffeeexcellence.org/colombia-2022/"},
+    {"titulo": "Wikipedia – National Federation of Coffee Growers of Colombia", "url": "https://en.wikipedia.org/wiki/National_Federation_of_Coffee_Growers_of_Colombia"},
+    {"titulo": "Wikipedia – Juan Valdez", "url": "https://en.wikipedia.org/wiki/Juan_Valdez"}
+  ]
+}

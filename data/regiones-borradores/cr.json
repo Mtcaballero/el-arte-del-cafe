@@ -1,0 +1,76 @@
+{
+  "id": "cr",
+  "nombre": "Costa Rica",
+  "slug": "costa-rica",
+  "metaDescripcion": "Café de Costa Rica: historia, producción, liquidación del ICAFE al productor, quién regula el precio y ganadores de la Taza de la Excelencia.",
+  "intro": "Costa Rica exporta café desde 1820, y el grano marcó su historia, su paisaje y su manera de repartir la tierra. Hoy lo cultivan sobre todo pequeños productores, bajo un sistema de reglas que reparte el valor de cada cosecha entre productores, beneficios y exportadores.",
+  "historia": [
+    "El café llegó a la provincia de Costa Rica a finales del siglo XVIII y empezó a arraigarse hacia 1808, bajo el gobernador Tomás de Acosta. En 1816 el padre Félix Velarde, considerado el primer sembrador, mencionó tener cafetos en un solar cerca de la actual Catedral Metropolitana. En 1820 salió la primera exportación, apenas dos quintales con destino a Panamá, y tras la Independencia los municipios repartieron plantas gratis y concedieron tierras para extender el cultivo.",
+    "El Estado apostó fuerte por el grano. En 1825 eximió al café del pago del diezmo y en 1831 decretó que quien lo cultivara durante cinco años en tierra baldía podía reclamarla como propia. En 1832 se hizo la primera venta para exportación a través de Chile, y en la década de 1840 se consolidó el comercio con Europa, con ayuda del comerciante inglés William Le Lacheur. El camino a Puntarenas, terminado en 1846, permitió sustituir las mulas por carretas, y el café fue el único producto de exportación del país hasta 1890.",
+    "En el siglo XX llegaron las máquinas de beneficiado y surgieron los beneficios que reciben la cosecha de muchos pequeños productores. En 1933 se fundó el organismo que hoy es el Instituto del Café de Costa Rica (ICAFE), y en 1961 la Ley 2762 fijó las reglas entre productores, beneficiadores y exportadores, con un sistema de liquidación que limita la ganancia de los beneficios. A mediados de siglo, la llamada Revolución Verde trajo variedades de porte bajo como Caturra y Catuaí, siembras más densas y más fertilizantes.",
+    "Hoy Costa Rica produce alrededor de 1,8 millones de fanegas de café fruta por cosecha. La caficultura sigue concentrada en pequeños productores: el 84,5 % entrega menos de 100 fanegas al año. El número de caficultores y de hectáreas ha bajado en la última década por la urbanización, la falta de mano de obra y la presión del tipo de cambio, pero los microlotes de especialidad y los beneficios pequeños han dado al país una de las reputaciones de calidad más sólidas del mundo."
+  ],
+  "hitos": [
+    {"anio": "1808", "texto": "Bajo el gobernador Tomás de Acosta, el cultivo del café empieza a arraigarse en Costa Rica."},
+    {"anio": "1820", "texto": "Primera exportación de café: dos quintales con destino a Panamá."},
+    {"anio": "1831", "texto": "Un decreto otorga la propiedad de tierras baldías a quien las cultive con café durante cinco años."},
+    {"anio": "1832", "texto": "Primera venta de café para exportación por medio de Chile."},
+    {"anio": "1846", "texto": "Se termina el camino a Puntarenas; el café será el único producto de exportación hasta 1890."},
+    {"anio": "1933", "texto": "Se funda la institución que hoy es el Instituto del Café de Costa Rica (ICAFE)."},
+    {"anio": "1961", "texto": "La Ley 2762 regula las relaciones entre productores, beneficiadores y exportadores."}
+  ],
+  "produccion": {
+    "resumen": "La caficultura costarricense se basa en pequeñas fincas que entregan el café en fruta a los beneficios. En la cosecha 2024-2025 había 307 firmas beneficiadoras: 17 cooperativas que procesaron el 38,2 % del café y 290 sociedades comerciales que procesaron el 61,8 %. Del café verde vendido, el 85,9 % se exportó y el resto se destinó al consumo nacional. La Unión Europea y Estados Unidos son los principales destinos.",
+    "volumen": "1.812.628 fanegas de café fruta en la cosecha 2024-2025, según el ICAFE, de las que se comercializaron 1.713.752 sacos de 46 kg de café verde; el USDA lo estima en unos 1,3 millones de sacos de 60 kg. Para 2025-2026 el ICAFE pronostica 1.763.951 fanegas.",
+    "cosecha": "Se concentra de noviembre a febrero; las regiones de maduración temprana, como la Brunca, empiezan antes.",
+    "altitud": "Desde zonas bajas por debajo de 1.000 m hasta zonas altas por encima de 1.200 m, de suelos volcánicos (clasificación del ICAFE).",
+    "variedades": ["Caturra", "Catuaí", "Geisha"],
+    "procesos": ["Lavado", "Honey", "Natural"],
+    "productores": "Menos de 26.000 productores registrados en 2023/24, según el USDA; el 84,5 % entrega menos de 100 fanegas por cosecha (ICAFE, 2024-2025).",
+    "regiones": [
+      {"nombre": "Los Santos", "nota": "La región más productiva del país; incluye Tarrazú, el principal cantón cafetalero por octava cosecha consecutiva, además de Dota y León Cortés."},
+      {"nombre": "Pérez Zeledón", "nota": "Segundo cantón cafetalero del país y región de maduración temprana, con varios ganadores recientes de la Taza de la Excelencia."},
+      {"nombre": "Coto Brus", "nota": "Región del sur, junto a la frontera con Panamá, que forma con Pérez Zeledón la zona cafetalera Brunca."},
+      {"nombre": "Valle Central", "nota": "Zona histórica del café alrededor de San José y Cartago, cada vez más presionada por la urbanización."},
+      {"nombre": "Valle Occidental", "nota": "Región del oeste del Valle Central, con una estación seca marcada que la hace sensible a los retrasos en las lluvias."},
+      {"nombre": "Turrialba", "nota": "Región de la vertiente caribeña que registró el mayor crecimiento porcentual de la cosecha 2024-2025 (61,7 %)."},
+      {"nombre": "Zona Norte", "nota": "Región del norte del país cuya cosecha bajó un 12,7 % en 2024-2025, junto con la del Valle Occidental."}
+    ]
+  },
+  "costo": {
+    "explicacion": "En Costa Rica el productor entrega el café en fruta al beneficio y recibe adelantos durante la cosecha. El precio final se calcula al cierre del año cafetero: el beneficio vende el café a exportadores o tostadores a precios que siguen el contrato \"C\" de Nueva York más un diferencial por calidad, y de esas ventas se restan los gastos de beneficiado aprobados por el ICAFE y una utilidad del 9 % para el beneficiador, fijada por la Ley 2762. Lo que queda se reparte entre los productores como liquidación final por fanega, que el ICAFE publica para cada beneficio y que debe pagarse dentro de los ocho días hábiles siguientes a su publicación.\n\nEn la cosecha 2024-2025, el precio promedio nacional de liquidación final al productor fue de 120.644,93 colones por fanega, un 40,19 % más que en la cosecha anterior. El precio promedio de exportación subió a 304,44 dólares por saco de 46 kg, pero el tipo de cambio, el más bajo de las últimas seis cosechas, frenó el aumento en colones. Los microlotes y cafés de especialidad se negocian con premios sobre ese promedio, y la Taza de la Excelencia subasta los mejores lotes del país.",
+    "unidadLocal": "fanega de café fruta (2 dobles hectolitros, unos 400 litros); el café verde se comercializa en sacos de 46 kg."
+  },
+  "quienControlaPrecio": "En Costa Rica la comercialización del café está en manos privadas, pero el Estado la supervisa y controla a través del Instituto del Café de Costa Rica (ICAFE), una institución pública no estatal donde están representados productores, beneficiadores, exportadores y tostadores. El ICAFE no fija el precio internacional, que sigue a la bolsa de Nueva York, pero registra los contratos de venta, aprueba los costos de beneficiado y fija el precio de liquidación final que cada beneficio debe pagar a sus productores, de acuerdo con la Ley 2762 de 1961. Esa ley limita la utilidad del beneficiador al 9 % y establece un precio mínimo justo para el productor.",
+  "organismos": [
+    {"nombre": "Instituto del Café de Costa Rica", "sigla": "ICAFE", "tipo": "Institución nacional", "rol": "Institución pública no estatal fundada en 1933 que regula el sector, registra los contratos, publica las liquidaciones al productor e investiga a través del CICAFE.", "url": "https://www.icafe.cr/"},
+    {"nombre": "Ministerio de Agricultura y Ganadería", "sigla": "MAG", "tipo": "Institución nacional", "rol": "Ministerio rector de la política agropecuaria del país.", "url": "https://www.mag.go.cr/"},
+    {"nombre": "Promotora del Comercio Exterior de Costa Rica", "sigla": "PROCOMER", "tipo": "Institución nacional", "rol": "Promueve las exportaciones y publica las cifras oficiales de divisas generadas por el café.", "url": "https://www.procomer.com/"},
+    {"nombre": "Cooperativa de Caficultores de Tarrazú", "sigla": "CoopeTarrazú", "tipo": "Cooperativa", "rol": "Cooperativa fundada en 1960 en San Marcos de Tarrazú que agrupa a más de 5.000 asociados y beneficia y exporta su café.", "url": "https://www.coopetarrazu.com/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "ONG", "rol": "Organización sin fines de lucro que dirige el programa Cup of Excellence y publica los resultados de la Taza de la Excelencia de Costa Rica.", "url": "https://allianceforcoffeeexcellence.org/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organismo intergubernamental del café; Costa Rica firmó el Convenio Internacional del Café de 2022.", "url": "https://ico.org/"}
+  ],
+  "cafesReconocidos": [
+    {"nombre": "Finca Río Blanco (Alejandra Cordero Solano)", "region": "Los Santos", "logro": "1.er lugar, categoría Lavado y Honey, Cup of Excellence Costa Rica 2026, 91,36 puntos (Java lavado)", "anio": "2026"},
+    {"nombre": "Finca Las Margaritas Veintiséis (Emmanuel Solís Porras)", "region": "Los Santos", "logro": "1.er lugar, categoría Experimental, Cup of Excellence Costa Rica 2026, 91,06 puntos (Geisha)", "anio": "2026"},
+    {"nombre": "Finca La Cusuka (Jhonny Alvarado Fonseca)", "region": "Pérez Zeledón", "logro": "1.er lugar, categoría Honey y Natural, Cup of Excellence Costa Rica 2025, 91,22 puntos (Geisha natural)", "anio": "2025"},
+    {"nombre": "Finca Vista Paraíso (Jhon Alvarado Abarca)", "region": "Pérez Zeledón", "logro": "1.er lugar, categoría Lavado, Cup of Excellence Costa Rica 2025, 90,63 puntos (Geisha lavado)", "anio": "2025"},
+    {"nombre": "Finca Don Cayito (Luis Ricardo Calderón Madrigal)", "region": "Tarrazú", "logro": "1.er lugar, categoría Honey y Natural tradicional, Cup of Excellence Costa Rica 2024, 93,62 puntos (Geisha honey)", "anio": "2024"},
+    {"nombre": "Finca Santa Teresa (Roger Ureña Hidalgo)", "region": "Tarrazú", "logro": "1.er lugar, categoría Lavado tradicional, Cup of Excellence Costa Rica 2024, 92,04 puntos (Geisha lavado)", "anio": "2024"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Costa Rica (Taza de la Excelencia)", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2026/"},
+  "fuentes": [
+    {"titulo": "ICAFE: Informe sobre la Actividad Cafetalera en Costa Rica 2025 (LIV Congreso Nacional Cafetalero)", "url": "https://www.icafe.cr/wp-content/uploads/informacion_mercado/informes_actividad/actual/Informe%20Actividad%20Cafetalera.pdf"},
+    {"titulo": "ICAFE: Historia del café de Costa Rica", "url": "https://www.icafe.cr/nuestro-cafe/historia/"},
+    {"titulo": "ICAFE: Acerca del ICAFE", "url": "https://www.icafe.cr/transparencia-institucional-icafe/acceso-a-la-informacion/acerca-del-icafe/index.php"},
+    {"titulo": "ICAFE: Regiones cafetaleras", "url": "https://www.icafe.cr/nuestro-cafe/regiones-cafetaleras/index.php"},
+    {"titulo": "ICAFE: Liquidación final beneficio", "url": "https://www.icafe.cr/sector-cafetalero/liquidacion-final-beneficio/"},
+    {"titulo": "Ley N.° 2762 sobre el régimen de relaciones entre productores, beneficiadores y exportadores de café (FAOLEX)", "url": "https://faolex.fao.org/docs/pdf/cos73525-2001.pdf"},
+    {"titulo": "USDA FAS GAIN: Costa Rica Coffee Annual 2025", "url": "https://www.fas.usda.gov/data/costa-rica-coffee-annual-10"},
+    {"titulo": "Daily Coffee News: Costa Rica Coffee Report (resumen del informe USDA 2025)", "url": "https://dailycoffeenews.com/2025/05/22/costa-rica-coffee-report-production-planted-area-and-farm-numbers-down"},
+    {"titulo": "Alliance for Coffee Excellence: Costa Rica 2026", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2026/"},
+    {"titulo": "Alliance for Coffee Excellence: Costa Rica 2025", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2025/"},
+    {"titulo": "Alliance for Coffee Excellence: Costa Rica 2024", "url": "https://allianceforcoffeeexcellence.org/costa-rica-2024/"},
+    {"titulo": "Oikocredit: CoopeTarrazú", "url": "https://www.oikocredit.coop/en/what-we-do/partners/partner-detail/11355/coopetarrazu-cooperativa-de-caficultores-de-tarrazu-rl"}
+  ]
+}
