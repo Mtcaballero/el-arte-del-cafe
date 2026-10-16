@@ -1,0 +1,138 @@
+{
+  "id": "ni",
+  "nombre": "Nicaragua",
+  "slug": "nicaragua",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de Nicaragua: historia, producción en el norte, cómo se forma el precio, organismos del sector y ganadores de la Taza de Excelencia.",
+  "intro": "El café es uno de los principales productos de exportación de Nicaragua y lo cultivan más de 51.000 familias, sobre todo en las montañas del norte. Sus cooperativas de pequeños productores son referentes del café orgánico y de comercio justo, y Nueva Segovia se ha vuelto una de las regiones más premiadas de Centroamérica.",
+  "v2": {
+    "gentilicio": "nicaragüense",
+    "gentilicioPlural": "nicaragüenses",
+    "regionesTitulo": "El norte cafetalero",
+    "titulos": {"intro": "Un café de cooperativas y montaña", "historia": "Del Pacífico a las montañas del norte"},
+    "lead": "En Nicaragua el café se cultiva en las montañas del norte, entre Jinotega, Matagalpa y Nueva Segovia, y lo sostienen más de 51.000 familias. Es un país de cooperativas, pionero del café orgánico y de comercio justo, que hoy compite con los mejores en la Taza de Excelencia.",
+    "introduccion": [
+      "Casi todo es arábica y más del 85 % de sus fincas está en el norte central. Jinotega es la gran zona productora, Matagalpa la región histórica y Nueva Segovia, con sus fincas de altura en Dipilto y Mozonte, se llevó los primeros lugares de la Taza de Excelencia en 2025 y 2026.",
+      "La historia del café nicaragüense es también la de sus cooperativas: organizaciones de pequeños productores que procesan, certifican y exportan su propio café, y que pusieron al país en el mapa del café orgánico y de comercio justo."
+    ],
+    "cifras": [
+      {"valor": "2,56 M", "etiqueta": "sacos de 60 kg al año", "nota": "Ciclo 2025/26, USDA"},
+      {"valor": "+51.000", "etiqueta": "familias productoras", "nota": "Ministerio Agropecuario, 2024-2025"},
+      {"valor": "94 %", "etiqueta": "de la producción es arábica", "nota": "El resto, robusta del Caribe Sur"},
+      {"valor": "US$ 918 M", "etiqueta": "en exportaciones en 2025", "nota": "Récord, Banco Central"}
+    ],
+    "destacado": "En 2002 Nicaragua celebró la tercera Taza de Excelencia del mundo, después de Brasil y Guatemala. Los dos primeros lugares fueron para pequeños productores de Jinotega.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales de altura en las montañas de Dipilto, Nueva Segovia"},
+      "historia": {"src": "", "alt": "Beneficio de café en una finca histórica de Matagalpa"},
+      "cosecha": {"src": "", "alt": "Recolectores con canastos de cereza de café en Jinotega"},
+      "premios": {"src": "", "alt": "Lotes de la Taza de Excelencia Nicaragua"}
+    },
+    "capitulos": [
+      {"periodo": "1825–1870", "titulo": "Las primeras semillas", "texto": "Las primeras plantas llegaron en la primera mitad del siglo XIX; una fuente de 1825 cuenta que un estudiante sembró en Jinotepe semillas recibidas de un amigo costarricense. El cultivo empezó en las tierras del Pacífico, alrededor de Managua, Carazo y Granada, y hacia 1870 el café ya era el principal producto de exportación."},
+      {"periodo": "1877–1900", "titulo": "La conquista del norte", "texto": "En 1877 una ley pagó cinco centavos por cada árbol productivo a quien sembrara más de 5.000 cafetos. Llegaron inmigrantes y capital extranjero a Matagalpa y Jinotega, que desde entonces dan el mejor café del país. Hacia 1891 la producción superaba los cinco millones de kilos y salía por tren, barco y el río San Juan."},
+      {"periodo": "Siglo XX", "titulo": "El país de las cooperativas", "texto": "El café siguió siendo la columna de la economía rural y en 1992 era el cultivo con más superficie del país. Las cooperativas de pequeños productores crecieron e impulsaron el café orgánico y de comercio justo. En 2002 llegó la primera Taza de Excelencia, la tercera del mundo."},
+      {"periodo": "Hoy", "titulo": "Roya, nuevas reglas y récords", "texto": "Tras la roya de 2013 se renovaron unas 20.000 hectáreas de arábica. Ese año la Ley 853 creó CONATRADEC y un fondo financiado por cada quintal exportado. En 2023 el Estado confiscó a CISA Exportadora, que manejaba cerca de la mitad de la cosecha, y en 2025 las exportaciones marcaron un récord de unos 918 millones de dólares."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha", "texto": "La cereza madura se recoge a mano de noviembre a marzo en las fincas del norte, entre los 1.000 y los 1.700 metros."},
+      {"titulo": "Despulpado", "texto": "El mismo día la cereza pasa por la despulpadora. Muchas familias lo hacen en su finca o en el beneficio de su cooperativa."},
+      {"titulo": "Fermentado y lavado", "texto": "El grano fermenta para soltar el mucílago y se lava. Es el proceso más común en el país."},
+      {"titulo": "Secado", "texto": "Se seca al sol hasta quedar como pergamino. En los lotes de especialidad de Nueva Segovia destacan los naturales y honey."},
+      {"titulo": "Exportación", "texto": "Cooperativas y exportadores trillan, clasifican y venden el café oro a más de 50 países, con Estados Unidos y Europa a la cabeza."}
+    ],
+    "variedades": [
+      {"grupo": "Tradicionales", "lista": ["Caturra", "Catuaí", "Bourbon"]},
+      {"grupo": "Granos grandes", "lista": ["Maracaturra", "Pacamara", "Maragogype"]},
+      {"grupo": "Resistentes a la roya", "lista": ["Catimor"]},
+      {"grupo": "Especialidad y robusta", "lista": ["Geisha", "Robusta"]}
+    ],
+    "variedadesTexto": "Junto a las variedades tradicionales, Nicaragua es famosa por sus granos grandes: el Maragogype, el Pacamara y el Maracaturra, un cruce de Caturra y Maragogype muy ligado al país. El Geisha domina los lotes premiados de Nueva Segovia.",
+    "regiones": [
+      {"nombre": "Jinotega", "altura": "", "perfil": ["Mayor productor", "Tradición cooperativa"], "nota": "La principal zona productora del país, con cafetales de altura."},
+      {"nombre": "Matagalpa", "altura": "", "perfil": ["Región histórica"], "nota": "Reconocida desde el siglo XIX por la calidad de su grano."},
+      {"nombre": "Nueva Segovia", "altura": "Más de 1.500 m en algunas fincas", "perfil": ["Más premiada", "Geisha"], "nota": "Fincas de altura en Dipilto y Mozonte que dominan la Taza de Excelencia reciente."},
+      {"nombre": "Madriz", "altura": "", "perfil": ["Pequeños productores"], "nota": "Cafés de San Juan del Río Coco y alrededores."},
+      {"nombre": "Estelí", "altura": "", "perfil": ["Orgánico", "Comercio justo"], "nota": "Sede de cooperativas de café orgánico y de comercio justo como PRODECOOP."},
+      {"nombre": "Costa Caribe Sur", "altura": "Zona baja", "perfil": ["Robusta"], "nota": "Donde se concentra el cultivo de robusta, alrededor de Nueva Guinea."}
+    ],
+    "costoPasos": [
+      {"titulo": "La bolsa marca el punto de partida", "texto": "La referencia es el contrato C de arábica en Nueva York. Exportadores y compradores negocian un diferencial por calidad, altura y certificaciones como orgánico o comercio justo."},
+      {"titulo": "El aporte por quintal", "texto": "Por cada quintal exportado se paga un aporte al Fondo para la Transformación y Desarrollo de la Caficultura, que varía según el precio internacional."},
+      {"titulo": "Lo que llega a la finca", "texto": "Exportadores, beneficios o cooperativas descuentan procesamiento, transporte y financiamiento antes de pagarle al productor."}
+    ],
+    "costoTip": "Un quintal nicaragüense de café oro pesa 46 kilos, unas 100 libras. Por eso el precio de Nueva York en centavos por libra equivale, más o menos, a dólares por quintal.",
+    "costoEjemplo": {"valor": "US$ 272", "etiqueta": "precio promedio de exportación por quintal en 2025, frente a unos 195 dólares en 2024", "nota": "Banco Central de Nicaragua"},
+    "costoEspecialidad": "Las cooperativas certificadas reciben primas por café orgánico y de comercio justo, y los lotes de la Taza de Excelencia se subastan por su calidad.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El precio sigue al mercado internacional y se negocia entre productores, cooperativas, exportadores y compradores. La Ley 853 de 2013 creó CONATRADEC, una comisión de varios ministerios coordinada por el Ministerio Agropecuario, que administra el fondo cafetalero y promueve el sector, pero no regula lo que recibe el productor.",
+    "organismosNota": "En 2023, tras la quiebra del grupo Mercon en Estados Unidos, el gobierno confiscó su filial CISA Exportadora, que procesaba y exportaba cerca de la mitad de la cosecha. Su salida obligó a reorganizar la comercialización del café.",
+    "niveles": [
+      {"titulo": "Política y fondo cafetalero", "siglas": ["CONATRADEC"]},
+      {"titulo": "Cooperativas", "siglas": ["PRODECOOP", "CAFENICA"]},
+      {"titulo": "Aliados internacionales", "siglas": ["CLAC", "CRS", "Root Capital", "ACE"]}
+    ],
+    "reconocidosIntro": "Nicaragua celebra su Taza de Excelencia desde 2002. En las ediciones recientes Nueva Segovia arrasa: los primeros lugares de 2025 y 2026 son fincas de Dipilto y sus alrededores, casi siempre con Geisha.",
+    "records": [
+      {"valor": "140", "unidad": "dólares por libra", "titulo": "Finca Los Alpes · 2026", "texto": "Un Geisha de Inversiones Valladares Acevedo, de Dipilto, marcó el récord de la subasta de la Taza de Excelencia en Nicaragua."},
+      {"valor": "109", "unidad": "dólares por libra", "titulo": "Lote ganador · 2024", "texto": "El récord anterior del país, superado dos años después."}
+    ],
+    "ganadores": [
+      {"anio": "2026", "categoria": "Naturales y honey", "finca": "Finca Los Alpes", "productor": "Inversiones Valladares Acevedo S.A.", "region": "Dipilto, Nueva Segovia", "cafe": "Geisha natural", "puntos": "92,00"},
+      {"anio": "2026", "categoria": "Lavados", "finca": "Finca El Cambalache", "productor": "Abner Samuel Zavala", "region": "Dipilto, Nueva Segovia", "cafe": "Geisha lavado", "puntos": "91,44"},
+      {"anio": "2025", "categoria": "Naturales y honey", "finca": "Finca Elite", "productor": "Olman Uriel Sauceda Chávez", "region": "Nueva Segovia", "cafe": "Geisha honey", "puntos": "91,77"},
+      {"anio": "2025", "categoria": "Lavados", "finca": "Finca La Esperanza", "productor": "Abner Samuel Zavala", "region": "Nueva Segovia", "cafe": "Geisha lavado", "puntos": "90,73"},
+      {"anio": "2025", "categoria": "Naturales y honey", "puesto": "2.º lugar", "finca": "Finca El Porvenir", "productor": "Sergio Noé Ortez Ortez", "region": "Nueva Segovia", "cafe": "Pacamara natural", "puntos": "90,59"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1825", "texto": "Una fuente de la época menciona las primeras semillas de café sembradas en Jinotepe."},
+    {"anio": "1870", "texto": "El café se convierte en el principal producto de exportación del país."},
+    {"anio": "1877", "texto": "Leyes de fomento pagan cinco centavos por árbol productivo y atraen inversión a Matagalpa y Jinotega."},
+    {"anio": "1891", "texto": "La producción supera los cinco millones de kilos en unas 31.000 hectáreas."},
+    {"anio": "2002", "texto": "Primera Taza de Excelencia en Nicaragua, la tercera del mundo."},
+    {"anio": "2013", "texto": "Se aprueba la Ley 853, que crea CONATRADEC y el fondo cafetalero."},
+    {"anio": "2023", "texto": "El Estado confisca CISA Exportadora, que manejaba cerca de la mitad de la cosecha."},
+    {"anio": "2025", "texto": "Las exportaciones de café alcanzan un récord de unos 918 millones de dólares."},
+    {"anio": "2026", "texto": "Un Geisha de Finca Los Alpes se subasta a 140 dólares la libra, récord del país."}
+  ],
+  "produccion": {
+    "volumen": "Alrededor de 2,56 millones de sacos de 60 kg en el ciclo 2025/26, según la estimación del USDA FAS (informe anual de café, 2026)",
+    "cosecha": "De noviembre a marzo",
+    "altitud": "Principalmente entre 1.000 y 1.700 metros en las zonas de arábica del norte",
+    "productores": "Más de 51.000 familias productoras, según el Ministerio Agropecuario (ciclo 2024-2025)"
+  },
+  "quienControlaPrecio": "En Nicaragua ningún organismo fija el precio del café: sigue al mercado internacional y se negocia entre productores, cooperativas, exportadores y compradores. El marco legal es la Ley 853 de 2013, que creó la Comisión Nacional de Transformación y Desarrollo de la Caficultura (CONATRADEC), integrada por varios ministerios y coordinada por el Ministerio Agropecuario. CONATRADEC administra el fondo que se nutre de aportes por quintal exportado, promueve el desarrollo del sector y respalda la Taza de Excelencia, pero no regula el precio que recibe el productor.",
+  "organismos": [
+    {"nombre": "Comisión Nacional de Transformación y Desarrollo de la Caficultura", "sigla": "CONATRADEC", "tipo": "Institución nacional", "rol": "Administra el Fondo para la Transformación y Desarrollo de la Caficultura y promueve el desarrollo del sector según la Ley 853.", "url": ""},
+    {"nombre": "PRODECOOP R.L.", "sigla": "PRODECOOP", "tipo": "Cooperativa", "rol": "Central de cooperativas fundada en 1993 en Estelí que procesa y exporta café de especialidad, orgánico y de comercio justo del norte del país.", "url": "https://www.prodecoop.com/"},
+    {"nombre": "Federación de Cooperativas de Pequeños Productores de Café de Nicaragua", "sigla": "CAFENICA", "tipo": "Cooperativa", "rol": "Agrupa a cooperativas de pequeños productores, con una parte importante del café orgánico certificado del país.", "url": ""},
+    {"nombre": "Coordinadora Latinoamericana y del Caribe de Comercio Justo", "sigla": "CLAC", "tipo": "Organismo internacional", "rol": "Red de pequeños productores copropietaria del sistema Fairtrade, que agrupa a cooperativas certificadas de la región.", "url": "https://clac-comerciojusto.org/"},
+    {"nombre": "Catholic Relief Services", "sigla": "CRS", "tipo": "ONG", "rol": "Desarrolla en Nicaragua el programa Blue Harvest de agricultura regenerativa y manejo del agua en zonas cafetaleras.", "url": "https://www.crs.org/"},
+    {"nombre": "Root Capital", "sigla": "", "tipo": "ONG", "rol": "Financia y asesora a cooperativas de pequeños productores en Nicaragua.", "url": "https://rootcapital.org/"},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organiza la Taza de Excelencia en Nicaragua y subasta en línea los lotes ganadores.", "url": "https://allianceforcoffeeexcellence.org/"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence Nicaragua (Taza de Excelencia)", "url": "https://allianceforcoffeeexcellence.org/nicaragua-2026/"},
+  "fuentes": [
+    {"titulo": "USDA FAS – Nicaragua: Coffee Annual", "url": "https://www.fas.usda.gov/data/nicaragua-coffee-annual-6"},
+    {"titulo": "Daily Coffee News – Nicaragua Coffee Report: Weather and Costs Hurting Production (junio de 2026)", "url": "https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/"},
+    {"titulo": "Prensa Latina – Nicaragua registra 580 mil toneladas de café oreado (junio de 2025, datos del MAG)", "url": "https://www.prensa-latina.cu/2025/06/25/nicaragua-registra-580-mil-toneladas-de-cafe-oreado/"},
+    {"titulo": "Prensa Latina – Exportaciones de café nicaragüense crecen y consolidan liderazgo (junio de 2026)", "url": "https://www.prensa-latina.cu/2026/06/30/exportaciones-de-cafe-nicaraguense-crecen-y-consolidan-liderazgo/"},
+    {"titulo": "Banco Central de Nicaragua – Palabras oficiales, plan de protección de la cosecha 2025-2026", "url": "https://www.bcn.gob.ni/sites/default/files/noticias/palabras_oficiales/2026/PO_PPSCCP_2025-2026.pdf"},
+    {"titulo": "Revista de Temas Nicaragüenses n.º 49 (mayo de 2012)", "url": "https://enriquebolanos.org/media/publicacion/RevistaTemasNicaraguenses49mayo2012.pdf"},
+    {"titulo": "Justia Nicaragua – Ley para la Transformación y Desarrollo de la Caficultura (Ley 853, 2013)", "url": "https://nicaragua.justia.com/nacionales/leyes/ley-para-la-transformacion-y-desarrollo-de-la-caficultura-dec-17-2013/gdoc"},
+    {"titulo": "Agrolatam – Nicaragua: cosecha de café enfrenta escasez de mano de obra y ausencia de CISA (diciembre de 2025)", "url": "https://www.agrolatam.com/agricultura-latam/nicaragua-cosecha-cafe-amenazas-escasez-mano-obra-cisa/"},
+    {"titulo": "Revista Envío – Cup of Excellence, Fair Trade, Organic Coffee", "url": "https://revistaenvio.org/articulo/2495"},
+    {"titulo": "Bloomberg Línea – Cafés de especialidad de Centroamérica se cotizan hasta en US$450 por libra (agosto de 2026)", "url": "https://www.bloomberglinea.com/2026/08/12/cafes-de-especialidad-de-centroamerica-se-cotizan-hasta-en-us450-por-libra/"},
+    {"titulo": "La Estrella de Panamá – Café nicaragüense en la subasta de Taza de Excelencia 2025", "url": "https://www.laestrella.com.pa/economia/cafe-nicaraguense-alcanza-record-historico-en-subasta-internacional-de-taza-de-excelencia-2025-DD13895152"},
+    {"titulo": "Coffee Review – Byron's Maracaturra Natural, Nicaragua", "url": "https://www.coffeereview.com/review/byrons-maracaturra-natural-nicaragua/"},
+    {"titulo": "PRODECOOP R.L.", "url": "https://www.prodecoop.com/"},
+    {"titulo": "CRS – Blue Harvest one-pager (2024)", "url": "https://www.crs.org/sites/default/files/documents/2026-05/CRS_BlueHarvest_OnePager_Sept2024%201%20%281%29.pdf"},
+    {"titulo": "BID – El FOMIN apoya esquema de financiamiento para agricultura sostenible en Honduras, Guatemala y Nicaragua (Root Capital)", "url": "https://www.iadb.org/en/news/mif-supports-innovative-financing-scheme-sustainable-agriculture-honduras-guatemala-and"},
+    {"titulo": "Alliance for Coffee Excellence – Nicaragua 2026", "url": "https://allianceforcoffeeexcellence.org/nicaragua-2026/"},
+    {"titulo": "Alliance for Coffee Excellence – Nicaragua 2025", "url": "https://allianceforcoffeeexcellence.org/nicaragua-2025/"},
+    {"titulo": "Wikipedia – Coffee production in Nicaragua", "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Nicaragua"}
+  ]
+}
