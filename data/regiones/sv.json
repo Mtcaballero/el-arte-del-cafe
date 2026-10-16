@@ -1,0 +1,132 @@
+{
+  "id": "sv",
+  "nombre": "El Salvador",
+  "slug": "el-salvador",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de El Salvador: historia, producción, precio al caficultor, Instituto Salvadoreño del Café y ganadores de la Taza de la Excelencia.",
+  "intro": "El Salvador es un país pequeño con una larga tradición cafetalera, conocido por sus cafés de altura cultivados bajo sombra en laderas volcánicas y por variedades nacidas allí, como el Pacas y el Pacamara. Tras la dura caída que provocó la roya hace más de una década, el sector vive una recuperación impulsada por los cafés de especialidad.",
+  "v2": {
+    "gentilicio": "salvadoreño",
+    "gentilicioPlural": "salvadoreños",
+    "regionesTitulo": "Seis cordilleras cafetaleras",
+    "titulos": {"intro": "Pequeño en tamaño, enorme en café", "historia": "Del añil al café de especialidad"},
+    "lead": "En El Salvador el café crece bajo sombra en las laderas de sus volcanes, en fincas que casi siempre son pequeñas. De aquí salieron el Pacas y el Pacamara, dos variedades que hoy se cultivan en medio mundo.",
+    "introduccion": [
+      "Seis cordilleras concentran los cafetales, de Apaneca-Ilamatepec en el occidente a Cacahuatique en el oriente. El café se clasifica por la altura a la que crece, y el más buscado, el estrictamente de altura, nace por encima de los 1.200 metros.",
+      "La roya de 2013 hundió la producción a menos de la mitad. El país respondió apostando por la calidad: hoy sus microlotes se venden a casi cinco veces el precio del café convencional, y la cosecha 2025-2026 fue la mayor en más de una década."
+    ],
+    "cifras": [
+      {"valor": "963.650", "etiqueta": "quintales en la cosecha 2025-2026", "nota": "La mayor desde 2012-2013, ISC"},
+      {"valor": "18.252", "etiqueta": "productores registrados", "nota": "ISC, 2026"},
+      {"valor": "80 %", "etiqueta": "tiene menos de 5 manzanas", "nota": "Fincas pequeñas, ISC"},
+      {"valor": "+1.200 m", "etiqueta": "altura del café SHG", "nota": "Estrictamente de altura"}
+    ],
+    "destacado": "En la primera Taza de la Excelencia del país, en 2003, el café de la finca Kilimanjaro se vendió a 14,06 dólares la libra, cuando el café común se pagaba a menos de un dólar. Fue el precio más alto pagado hasta entonces en una subasta por internet.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales bajo sombra en la cordillera Apaneca-Ilamatepec"},
+      "historia": {"src": "", "alt": "Beneficio de café histórico en el occidente de El Salvador"},
+      "cosecha": {"src": "", "alt": "Cosecha de cereza de café en las laderas de un volcán salvadoreño"},
+      "premios": {"src": "", "alt": "Lotes de la Taza de la Excelencia El Salvador"}
+    },
+    "capitulos": [
+      {"periodo": "Siglo XIX", "titulo": "Del añil al café", "texto": "El café se cultivaba desde comienzos del siglo XIX, al principio para consumo local. Cuando los tintes sintéticos hundieron el añil, los gobiernos impulsaron el nuevo cultivo con exenciones de impuestos y otros incentivos. Las tierras volcánicas del occidente resultaron ideales y el café ocupó el lugar del añil como motor de la economía."},
+      {"periodo": "1880–1930", "titulo": "La república del café", "texto": "Hacia 1880 el café era prácticamente el único producto de exportación. En 1881 y 1882 se decretó la extinción de las tierras comunales y ejidales, una reforma que concentró la tierra en manos privadas y aceleró la expansión cafetalera. Durante décadas el grano financió buena parte del Estado y moldeó la vida política y social del país."},
+      {"periodo": "1980–2014", "titulo": "Nacionalización, guerra y roya", "texto": "En 1980 el gobierno nacionalizó el comercio del café y creó el INCAFE como único comercializador. La guerra, los desastres naturales y la caída de precios frenaron la inversión. Ya en este siglo, la roya fue un golpe enorme: la cosecha pasó de 1,73 millones de quintales en 2012-2013 a unos 700.000 un año después."},
+      {"periodo": "Hoy", "titulo": "La apuesta por la calidad", "texto": "En 2023 el Instituto Salvadoreño del Café asumió las funciones del antiguo Consejo Salvadoreño del Café, y en 2024 una ley especial ordenó registrar a todos los actores de la cadena y publicar precios de referencia. La cosecha 2025-2026 fue la mayor desde 2012-2013 y los microlotes de especialidad marcan el camino."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha", "texto": "Se recoge a mano de octubre a marzo, y cerca del 60 % de la cosecha se corta en diciembre y enero."},
+      {"titulo": "Venta en uva o pergamino", "texto": "Muchas familias venden su café recién cortado, en uva, o ya beneficiado, en pergamino, a beneficios y exportadores."},
+      {"titulo": "Beneficiado húmedo", "texto": "La cereza se despulpa, fermenta y lava. El país también es conocido por sus honey, que secan el grano con parte del mucílago."},
+      {"titulo": "Secado", "texto": "El grano se seca al sol en patios o camas africanas hasta quedar como pergamino."},
+      {"titulo": "Clasificación por altura", "texto": "Antes de exportarse se clasifica en estrictamente de altura (más de 1.200 m), de altura media (800 a 1.200 m) o de bajío (600 a 800 m)."}
+    ],
+    "variedades": [
+      {"grupo": "Nacidas en El Salvador", "lista": ["Pacas", "Pacamara"]},
+      {"grupo": "Tradicionales", "lista": ["Bourbon"]},
+      {"grupo": "De especialidad", "lista": ["Geisha"]}
+    ],
+    "variedadesTexto": "El Salvador sigue siendo tierra de Bourbon, y de su suelo salieron dos variedades famosas: el Pacas, una mutación natural del Bourbon identificada en Santa Ana, y el Pacamara, un cruce de Pacas y Maragogype que los investigadores del país empezaron en 1958 y entregaron a los productores a fines de los años ochenta.",
+    "regiones": [
+      {"nombre": "Apaneca-Ilamatepec", "altura": "", "perfil": ["Mayor superficie", "Occidente"], "nota": "La cordillera con más superficie cafetalera del país y cuna de varios lotes ganadores."},
+      {"nombre": "Alotepec-Metapán", "altura": "", "perfil": ["Más premiada", "Pacamara", "Geisha"], "nota": "Montañas del noroeste, junto a Guatemala y Honduras, que dominan la Taza de la Excelencia reciente."},
+      {"nombre": "El Bálsamo-Quezaltepec", "altura": "", "perfil": ["Centro"], "nota": "Entre la costa y el volcán de San Salvador."},
+      {"nombre": "Chichontepec", "altura": "", "perfil": ["Volcán de San Vicente"], "nota": "Cafetales en torno al volcán de San Vicente, en el centro del país."},
+      {"nombre": "Tecapa-Chinameca", "altura": "", "perfil": ["Oriente", "Volcánico"], "nota": "Cordillera volcánica de Usulután y sus alrededores."},
+      {"nombre": "Cacahuatique", "altura": "", "perfil": ["Oriente", "Montaña"], "nota": "Montañas del norte de San Miguel y Morazán."}
+    ],
+    "costoPasos": [
+      {"titulo": "La bolsa marca el punto de partida", "texto": "La referencia es el contrato C de arábica en Nueva York, al que se suma o resta un diferencial según la calidad, la altura y la demanda."},
+      {"titulo": "Precios de referencia del ISC", "texto": "Desde la ley de 2024, el Instituto Salvadoreño del Café registra los contratos de exportación y publica precios de referencia por quintal para proteger a los pequeños productores."},
+      {"titulo": "Lo que llega a la finca", "texto": "Beneficios y exportadores pagan con base en esa referencia y descuentan el beneficiado y el transporte."}
+    ],
+    "costoTip": "El quintal salvadoreño de café oro pesa 100 libras, unos 45,4 kilos. Por eso el precio de Nueva York en centavos por libra equivale, más o menos, a dólares por quintal.",
+    "costoEjemplo": {"valor": "US$ 288,91", "etiqueta": "precio promedio de exportación por quintal en 2024-2025, frente a 228,83 dólares el ciclo anterior", "nota": "Instituto Salvadoreño del Café"},
+    "costoEspecialidad": "Los microlotes de café oro se exportaron a un promedio de 34,77 dólares por kilo, frente a 7,26 dólares de los lotes convencionales (ISC, a febrero de 2026).",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El precio se forma en el mercado internacional, a partir de la bolsa de Nueva York y los diferenciales que pactan exportadores y compradores. El Instituto Salvadoreño del Café, adscrito al Ministerio de Agricultura, registra a todos los actores de la cadena y los contratos de exportación y publica precios de referencia por quintal, pero no impone un precio de compra.",
+    "organismosNota": "En 1980 el Estado nacionalizó el comercio del café y el INCAFE fue durante años el único que podía comprarlo y venderlo. Hoy el mercado es libre, pero el ISC lleva el registro de toda la cadena.",
+    "niveles": [
+      {"titulo": "Rectoría del sector", "siglas": ["ISC", "MAG"]},
+      {"titulo": "Beneficiadores y exportadores", "siglas": ["ABECAFE"]},
+      {"titulo": "Aliados internacionales", "siglas": ["ACE", "OIC"]}
+    ],
+    "reconocidosIntro": "El Salvador celebró su primera Taza de la Excelencia en 2003 y desde entonces sus subastas son de las más seguidas de la región. En los últimos años Alotepec-Metapán y Apaneca-Ilamatepec se reparten los primeros lugares, con Pacamara, Geisha y variedades poco comunes.",
+    "records": [
+      {"valor": "14,06", "unidad": "dólares por libra", "titulo": "Finca Kilimanjaro · 2003", "texto": "El lote de Aida y Mauricio Batlle en la primera subasta del país, récord mundial de su época para una subasta de café por internet."},
+      {"valor": "80,10", "unidad": "dólares por libra", "titulo": "Lote ganador · 2020", "texto": "La mitad del lote ganador de 2020, el segundo precio más alto en la historia de la competencia en el país. Ese año también se batió el récord de precio promedio."}
+    ],
+    "ganadores": [
+      {"anio": "2026", "categoria": "Lavado y honey", "finca": "Finca La Esperanza", "productor": "Inversiones Santonano", "region": "Apaneca-Ilamatepec", "cafe": "Bernardina honey", "puntos": "91,95"},
+      {"anio": "2026", "categoria": "Natural", "finca": "Finca Los Morales", "productor": "Henri Milton Morales Umaña", "region": "Alotepec-Metapán", "cafe": "Geisha natural", "puntos": "91,70"},
+      {"anio": "2026", "categoria": "Natural", "puesto": "2.º lugar", "finca": "Finca El Conacaste", "productor": "", "region": "Alotepec-Metapán", "cafe": "Geisha natural", "puntos": "91,48"},
+      {"anio": "2025", "categoria": "Lavado y honey", "finca": "Finca Santa Rosa", "productor": "J. Raúl Rivera", "region": "Alotepec-Metapán", "cafe": "Pacamara honey", "puntos": "90,93"},
+      {"anio": "2024", "categoria": "Puntaje más alto", "finca": "Finca La Bendición", "productor": "Ismael Recinos Flores", "region": "Alotepec-Metapán", "cafe": "Pacamara honey", "puntos": "92,00"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1880", "texto": "El café se consolida como prácticamente el único cultivo de exportación del país."},
+    {"anio": "1882", "texto": "Culmina la extinción de las tierras comunales y ejidales, que impulsa la expansión cafetalera."},
+    {"anio": "1958", "texto": "Los investigadores del país empiezan el cruce de Pacas y Maragogype que dará origen al Pacamara."},
+    {"anio": "1980", "texto": "Se nacionaliza el comercio del café y se crea el INCAFE como único comercializador."},
+    {"anio": "2003", "texto": "Primera Taza de la Excelencia: la finca Kilimanjaro se vende a 14,06 dólares la libra."},
+    {"anio": "2014", "texto": "La roya hunde la cosecha 2013-2014 a unos 700.000 quintales, frente a 1,73 millones dos ciclos antes."},
+    {"anio": "2023", "texto": "El Instituto Salvadoreño del Café asume las funciones del Consejo Salvadoreño del Café."},
+    {"anio": "2024", "texto": "Se aprueba la ley especial de comercialización, registro y protección de la propiedad del café."},
+    {"anio": "2026", "texto": "El ciclo 2025-2026 cierra con 963.650 quintales, la mayor cosecha desde 2012-2013."}
+  ],
+  "produccion": {
+    "volumen": "963.650 quintales oro uva en el ciclo 2025-2026, según el Instituto Salvadoreño del Café; el USDA estimó unos 561.000 sacos de 60 kg para el ciclo 2024/25",
+    "cosecha": "De octubre a marzo; cerca del 60 % se recolecta en diciembre y enero",
+    "altitud": "Entre 600 y más de 1.200 m",
+    "productores": "18.252 productores en unas 105.213 hectáreas, según el Instituto Salvadoreño del Café (2026)"
+  },
+  "quienControlaPrecio": "En El Salvador el precio no lo fija el Estado: se forma en el mercado internacional, a partir de la bolsa de Nueva York y los diferenciales que pactan exportadores y compradores. El organismo rector es el Instituto Salvadoreño del Café (ISC), adscrito al Ministerio de Agricultura y Ganadería. Desde la ley especial de comercialización de 2024, el ISC registra a productores, beneficiadores, intermediarios, torrefactores y exportadores, recibe el registro de los contratos de exportación y publica precios de referencia por quintal, pero no impone un precio de compra.",
+  "organismos": [
+    {"nombre": "Instituto Salvadoreño del Café", "sigla": "ISC", "tipo": "Institución nacional", "rol": "Rector de la política cafetalera desde 2023: registra a los actores de la cadena, publica estadísticas y precios de referencia y organiza la Taza de la Excelencia nacional.", "url": ""},
+    {"nombre": "Ministerio de Agricultura y Ganadería", "sigla": "MAG", "tipo": "Institución nacional", "rol": "Ministerio al que está adscrito el ISC y que preside su junta directiva.", "url": "https://www.mag.gob.sv/"},
+    {"nombre": "Asociación Salvadoreña de Beneficiadores y Exportadores de Café", "sigla": "ABECAFE", "tipo": "Gremio", "rol": "Agrupa a la mayoría de los beneficiadores y exportadores privados de café del país.", "url": ""},
+    {"nombre": "Alliance for Coffee Excellence", "sigla": "ACE", "tipo": "Organismo internacional", "rol": "Organización sin fines de lucro que dirige la Taza de la Excelencia y subasta los lotes ganadores de El Salvador.", "url": "https://allianceforcoffeeexcellence.org/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organismo intergubernamental del café; El Salvador ratificó el Convenio Internacional del Café de 2022.", "url": "https://ico.org/"}
+  ],
+  "competencia": {"nombre": "Cup of Excellence El Salvador (Taza de la Excelencia)", "url": "https://allianceforcoffeeexcellence.org/el-salvador-2026/"},
+  "fuentes": [
+    {"titulo": "Infobae – La producción de café de El Salvador crecería 12,2 % hasta 963.650 quintales en 2025-2026 (datos del ISC)", "url": "https://www.infobae.com/el-salvador/2026/10/02/la-produccion-de-cafe-de-el-salvador-creceria-122-hasta-963650-quintales-en-2025-2026/"},
+    {"titulo": "Diario El Mundo – La cosecha cafetalera 2025-2026 creció un 7,9 % según el ISC", "url": "https://diario.elmundo.sv/economia/la-cosecha-cafetalera-2025-2026-crecio-un-7-9-segun-el-isc"},
+    {"titulo": "USDA FAS – El Salvador: Coffee Annual 2025", "url": "https://www.fas.usda.gov/data/el-salvador-coffee-annual-10"},
+    {"titulo": "Daily Coffee News – El Salvador Coffee Report (mayo de 2025)", "url": "https://dailycoffeenews.com/2025/05/21/el-salvador-coffee-report-exports-rise-though-structural-challenges-remain/"},
+    {"titulo": "Daily Coffee News – El Salvador Cup of Excellence auction results in record high average price (2020)", "url": "https://dailycoffeenews.com/2020/08/06/el-salvador-cup-of-excellence-auction-results-in-record-high-average-price"},
+    {"titulo": "CSRwire – El Salvador Cup of Excellence internet auction sets record high price (2003)", "url": "https://csrwire.com/press-release/in-el-salvador-today-s-cup-of-excellence-coffee-internet-auction-sets-record-high-price-of-14-pound/"},
+    {"titulo": "OIC – Presentación de El Salvador, año cafetero 2015-16", "url": "https://www.ico.org/documents/cy2015-16/Presentations/7.2%20EL%20SALVADOR.pdf"},
+    {"titulo": "Revista E&N – El Salvador con nueva ley del café que establece precios de referencia", "url": "https://www.revistaeyn.com/centroamericaymundo/el-salvador-con-nueva-ley-del-cafe-que-establece-precios-de-referencia-y-regula-permisos-de-exportacion-CK18120839"},
+    {"titulo": "El Diario de Hoy – Nuevo Instituto Salvadoreño del Café (2023)", "url": "https://www.elsalvador.com/h-noticias/h-nacional/esperan-que-nuevo-instituto-salvadoreno-del-cafe-no-atente-contra-su-independecia/1086716/2023/"},
+    {"titulo": "Revista ECA (UCA) – Lindo Fuentes sobre la extinción de tierras comunales y ejidales", "url": "https://revistas.uca.edu.sv/index.php/eca/article/download/9391/9731"},
+    {"titulo": "World Coffee Research – Pacamara", "url": "https://varieties.worldcoffeeresearch.org/varieties/pacamara"},
+    {"titulo": "Alliance for Coffee Excellence – El Salvador 2026", "url": "https://allianceforcoffeeexcellence.org/el-salvador-2026/"},
+    {"titulo": "Alliance for Coffee Excellence – El Salvador 2025", "url": "https://allianceforcoffeeexcellence.org/el-salvador-2025/"},
+    {"titulo": "Alliance for Coffee Excellence – El Salvador 2024", "url": "https://allianceforcoffeeexcellence.org/el-salvador-2024/"},
+    {"titulo": "Wikipedia – Coffee production in El Salvador", "url": "https://en.wikipedia.org/wiki/Coffee_production_in_El_Salvador"}
+  ]
+}
