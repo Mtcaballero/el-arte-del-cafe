@@ -159,11 +159,11 @@ ${foto(d.imagenes.premios, 'rv-foto-media')}
 <div class="rv-records">
 ${d.records.map((r) => `<div class="rv-record"><span class="rv-record-valor">${esc(r.valor)}<small>${esc(r.unidad)}</small></span><h3>${esc(r.titulo)}</h3><p>${esc(r.texto)}</p></div>`).join('\n')}
 </div>
-${anios.map((a) => `<h3 class="rv-subtitulo">Ganadores de la Taza de Excelencia ${esc(a)}</h3>
+${anios.map((a) => `<h3 class="rv-subtitulo">${esc(d.ganadoresTitulo || 'Ganadores de la Taza de Excelencia')} ${esc(a)}</h3>
 <ul class="rv-ganadores">
-${d.ganadores.filter((g) => g.anio === a).map((g) => `<li><span class="rv-puntos">${esc(g.puntos)}<small>puntos</small></span><p class="rv-categoria">${esc(g.puesto || '1.er lugar')} · ${esc(g.categoria)}</p><h4>${esc(g.finca)}</h4>${g.productor ? '<p>' + esc(g.productor) + '</p>' : ''}<p class="rv-region-tag">${esc(g.region)} · ${esc(g.cafe)}</p></li>`).join('\n')}
+${d.ganadores.filter((g) => g.anio === a).map((g) => `<li>${g.puntos ? '<span class="rv-puntos">' + esc(g.puntos) + '<small>puntos</small></span>' : '<span class="rv-puntos rv-puntos-precio">' + esc(g.precio) + '<small>' + esc(g.unidad || 'US$/kg') + '</small></span>'}<p class="rv-categoria">${esc(g.puesto || '1.er lugar')} · ${esc(g.categoria)}</p><h4>${esc(g.finca)}</h4>${g.productor ? '<p>' + esc(g.productor) + '</p>' : ''}<p class="rv-region-tag">${esc(g.region)} · ${esc(g.cafe)}</p></li>`).join('\n')}
 </ul>`).join('\n')}
-${comp.url ? '<p class="rv-mas"><a href="' + esc(comp.url) + '" target="_blank" rel="noopener">Ver todos los resultados de la ' + esc(comp.nombre.replace(/\s*\(.*\)$/, '')) + ' ' + EXTERNO + '</a></p>' : ''}`, 'rv-oscura');
+${comp.url ? '<p class="rv-mas"><a href="' + esc(comp.url) + '" target="_blank" rel="noopener">' + esc(comp.textoEnlace || 'Ver todos los resultados de la ' + comp.nombre.replace(/\s*\(.*\)$/, '')) + ' ' + EXTERNO + '</a></p>' : ''}`, 'rv-oscura');
 
     return cabeza({ titulo, descripcion: c.metaDescripcion, ruta, tipo: 'article', jsonld }) + `
 <body>

@@ -1,0 +1,128 @@
+{
+  "id": "pa",
+  "nombre": "Panamá",
+  "slug": "panama",
+  "publicado": true,
+  "diseno": 2,
+  "heroVideo": "",
+  "metaDescripcion": "Café de Panamá: historia, producción, precios récord del Geisha en Best of Panama, organismos del sector y cafés premiados de Chiriquí.",
+  "intro": "Panamá produce poco café en comparación con sus vecinos, pero sus Geisha de las tierras altas de Chiriquí alcanzan los precios más altos pagados por un café en subasta. Detrás de esa fama hay una historia reciente: hace tres décadas el país casi no figuraba en el mapa cafetalero.",
+  "v2": {
+    "gentilicio": "panameño",
+    "gentilicioPlural": "panameños",
+    "regionesTitulo": "Montaña y tierras bajas",
+    "ganadoresTitulo": "Lotes estrella de Best of Panama",
+    "titulos": {"intro": "El café más caro del mundo", "historia": "De Portobelo a la fiebre del Geisha"},
+    "lead": "Panamá produce poco café, pero en las faldas del volcán Barú nacen los Geisha más caros del mundo. En tres décadas pasó de casi no figurar en el mapa cafetalero a marcar récords en cada subasta.",
+    "introduccion": [
+      "Casi dos tercios del café panameño salen de las tierras altas de Chiriquí: Boquete, Volcán-Candela y Renacimiento, donde los microclimas por encima de los 1.400 metros le dan al Geisha las condiciones que necesita. En las tierras bajas de Coclé y Colón, el Estado impulsa el robusta para reducir las importaciones.",
+      "Es un país de dos mercados: el café comercial, que se vende a los tostadores locales y compite con el importado, y el de especialidad, que se subasta en dólares por kilo a compradores de Asia, Estados Unidos y Europa."
+    ],
+    "cifras": [
+      {"valor": "168.852", "etiqueta": "quintales en la cosecha 2024-2025", "nota": "MIDA"},
+      {"valor": "6.213", "etiqueta": "productores de café", "nota": "MIDA, 2026"},
+      {"valor": "64 %", "etiqueta": "del café sale de Chiriquí", "nota": "Tierras altas"},
+      {"valor": "US$ 30.204", "etiqueta": "por kilo, récord de subasta", "nota": "Best of Panama 2025"}
+    ],
+    "destacado": "En 1996, cuando el café se pagaba a unos 60 centavos la libra, siete productores de Boquete y Volcán-Candela fundaron la SCAP. Casi tres décadas después, un Geisha panameño se vendió a 30.204 dólares el kilo.",
+    "imagenes": {
+      "paisaje": {"src": "", "alt": "Cafetales de Geisha en las faldas del volcán Barú, en Boquete"},
+      "historia": {"src": "", "alt": "Finca cafetalera histórica en las tierras altas de Chiriquí"},
+      "cosecha": {"src": "", "alt": "Recolección de cerezas de Geisha en una finca de Boquete"},
+      "premios": {"src": "", "alt": "Catación de lotes de Geisha para la subasta Best of Panama"}
+    },
+    "capitulos": [
+      {"periodo": "1742–1900", "titulo": "Del Caribe a las faldas del Barú", "texto": "El café llegó en 1742 en un barco del Caribe francés que atracó en Portobelo, y la primera siembra registrada es de 1780. Durante el siglo XIX apareció en Capira y Campana, y en la segunda mitad de ese siglo familias de Gualaca, Bugaba y David, junto a inmigrantes europeos y estadounidenses, poblaron las tierras altas de Chiriquí y empezaron a cultivarlo."},
+      {"periodo": "1953–1990", "titulo": "Una variedad olvidada", "texto": "El Geisha, de origen etíope, llegó en 1953 al CATIE, en Costa Rica, y en los años sesenta se repartió en Panamá por su tolerancia a la roya. Pero sus ramas frágiles y su bajo rendimiento hicieron que pocos lo sembraran, y durante décadas quedó perdido entre otras variedades."},
+      {"periodo": "1996–2004", "titulo": "La revolución de la especialidad", "texto": "Con el café a unos 60 centavos la libra, siete productores fundaron en 1996 la Asociación de Cafés Especiales de Panamá y crearon la competencia Best of Panama. En 2004, según la propia finca, Hacienda La Esmeralda presentó un lote 100 % Geisha, ganó y marcó el precio más alto pagado ese año por un café en subasta."},
+      {"periodo": "Hoy", "titulo": "Récords y retos", "texto": "El Geisha panameño se volvió referencia mundial y en 2025 un lote de La Esmeralda se vendió a 30.204 dólares por kilo. Al mismo tiempo, la producción total es pequeña y ha bajado, en parte por lluvias extremas; el país importa café para su consumo y el MIDA impulsa el robusta en tierras bajas."}
+    ],
+    "pasos": [
+      {"titulo": "Cosecha escalonada", "texto": "Empieza a fines de septiembre en las zonas bajas y medias. En Renacimiento la recolección fuerte es en noviembre y diciembre, y en Boquete en diciembre y enero."},
+      {"titulo": "Manos ngäbe", "texto": "Buena parte de la cosecha de Chiriquí la recogen a mano trabajadores del pueblo ngäbe, que llegan cada temporada a las fincas."},
+      {"titulo": "Separación en microlotes", "texto": "Las fincas de especialidad separan el café por parcela, variedad y día de cosecha para crear lotes pequeños con perfil propio."},
+      {"titulo": "Lavado, natural o honey", "texto": "Cada lote se procesa por el método que mejor lo expresa y se cata para decidir su destino."},
+      {"titulo": "Dos destinos", "texto": "El café comercial va a los tostadores locales; el de especialidad se vende directo a compradores extranjeros o en la subasta Best of Panama."}
+    ],
+    "variedades": [
+      {"grupo": "De especialidad", "lista": ["Geisha", "Pacamara"]},
+      {"grupo": "Tradicionales", "lista": ["Catuaí", "Typica"]},
+      {"grupo": "Tierras bajas", "lista": ["Robusta"]}
+    ],
+    "variedadesTexto": "El Geisha llegó a Panamá en los años sesenta por su tolerancia a la roya, pero casi nadie lo quería por su bajo rendimiento. Cuarenta años después se convirtió en la variedad más cotizada del mundo y en el símbolo del café panameño.",
+    "regiones": [
+      {"nombre": "Boquete", "altura": "Hasta cerca de 2.000 m", "perfil": ["Geisha", "Volcán Barú"], "nota": "Valle en las faldas del Barú, cuna de Hacienda La Esmeralda y de muchos de los Geisha más caros del mundo."},
+      {"nombre": "Volcán-Candela y Tierras Altas", "altura": "", "perfil": ["Frontera con Costa Rica", "Cuna de la SCAP"], "nota": "Del otro lado del Barú, donde nació la asociación de cafés especiales junto con Boquete."},
+      {"nombre": "Renacimiento", "altura": "", "perfil": ["Mayor volumen", "Cosecha temprana"], "nota": "El MIDA estimó aquí unos 60.000 quintales en 2023-2024, el doble que en Boquete."},
+      {"nombre": "Coclé", "altura": "Tierras bajas", "perfil": ["Robusta"], "nota": "Principal provincia del robusta panameño, con unas 2.500 hectáreas y más de 2.300 productores."}
+    ],
+    "costoPasos": [
+      {"titulo": "El mercado local", "texto": "El café comercial se vende sobre todo a tostadores panameños, a precios que siguen las referencias internacionales y compiten con el café importado."},
+      {"titulo": "Importaciones con arancel reducido", "texto": "Cuando falta café, el Gobierno autoriza por decreto cupos de importación con arancel reducido, que se negocian en la Bolsa Nacional de Productos."},
+      {"titulo": "Especialidad, precio de subasta", "texto": "El Geisha y otros cafés de especialidad se venden directo o en subasta, con precios que no dependen de la bolsa de Nueva York."}
+    ],
+    "costoTip": "En las subastas el Geisha se cotiza en dólares por kilo, no por libra ni por quintal. Un kilo son 2,2 libras: 30.204 dólares por kilo equivalen a unos 13.700 dólares la libra.",
+    "costoEjemplo": {"valor": "US$ 221", "etiqueta": "por quintal pagaban los tostadores en 2023, según productores de Renacimiento que lo consideraban por debajo del costo de producción", "nota": "Prensa panameña, 2023"},
+    "costoEspecialidad": "En Best of Panama 2026 la subasta recaudó 3.041.940 dólares, con un promedio ponderado de 4.055,92 dólares por kilo.",
+    "quienCorto": "Nadie lo fija.",
+    "quienLargo": "El café comercial se negocia libremente con tostadores y comercializadores. El Estado interviene de forma indirecta: el MIDA publica las estadísticas y el Consejo de Gabinete autoriza cupos de importación cuando hay desabastecimiento. En la especialidad, el precio lo marcan los compradores internacionales, sobre todo en la subasta Best of Panama.",
+    "organismosNota": "Panamá no tiene un instituto del café como los de sus vecinos: buena parte de la reputación del país la construyó la SCAP, una asociación de productores que puso al Geisha panameño frente a los compradores del mundo.",
+    "niveles": [
+      {"titulo": "Productores de especialidad", "siglas": ["SCAP"]},
+      {"titulo": "Estado y mercado", "siglas": ["MIDA", "BAISA"]},
+      {"titulo": "Internacional", "siglas": ["OIC"]}
+    ],
+    "reconocidosIntro": "Panamá no tiene Taza de Excelencia: su vitrina es Best of Panama, la competencia y subasta que la SCAP organiza desde hace tres décadas. Allí se pagan los precios más altos del mundo por un café, casi siempre por Geisha de Boquete.",
+    "records": [
+      {"valor": "30.204", "unidad": "dólares por kilo", "titulo": "Hacienda La Esmeralda · 2025", "texto": "Un Geisha lavado de 98 puntos, récord mundial de subasta."},
+      {"valor": "18.004", "unidad": "dólares por kilo", "titulo": "Elida Estate · 2026", "texto": "El Geisha lavado Elida Torre, de la familia Lamastus, el lote mejor pagado de la subasta de 2026."},
+      {"valor": "10.013", "unidad": "dólares por kilo", "titulo": "Elida Estate · 2024", "texto": "Un Geisha natural que fue récord de subasta en su momento."}
+    ],
+    "ganadores": [
+      {"anio": "2026", "puesto": "Lote mejor pagado", "categoria": "Geisha lavado", "finca": "Elida Estate, Elida Torre", "productor": "Lamastus Family Estates", "region": "Boquete, Chiriquí", "cafe": "Geisha lavado", "precio": "18.004"},
+      {"anio": "2026", "puesto": "2.º precio más alto", "categoria": "Geisha natural", "finca": "Finca Lérida, Lérida Waterfall", "productor": "", "region": "Alto Quiel, Boquete", "cafe": "Geisha natural", "precio": "13.505"},
+      {"anio": "2025", "puesto": "Récord mundial", "categoria": "Geisha lavado", "finca": "Hacienda La Esmeralda", "productor": "Familia Peterson", "region": "Boquete, Chiriquí", "cafe": "30.204 dólares por kilo", "puntos": "98"},
+      {"anio": "2025", "puesto": "Segundo lote", "categoria": "Geisha natural", "finca": "Hacienda La Esmeralda", "productor": "Familia Peterson", "region": "Boquete, Chiriquí", "cafe": "23.608 dólares por kilo", "puntos": "97"},
+      {"anio": "2024", "puesto": "Récord de entonces", "categoria": "Geisha natural", "finca": "Elida Estate", "productor": "Lamastus Family Estates", "region": "Boquete, Chiriquí", "cafe": "Geisha natural", "precio": "10.013"}
+    ]
+  },
+  "hitos": [
+    {"anio": "1742", "texto": "Llega el primer café a Panamá, en un barco que atraca en Portobelo."},
+    {"anio": "1780", "texto": "Primera siembra de café registrada en territorio panameño."},
+    {"anio": "1953", "texto": "La variedad Geisha llega al CATIE, en Costa Rica, desde donde se distribuye en Panamá en los años sesenta."},
+    {"anio": "1996", "texto": "Siete productores de Boquete y Volcán-Candela fundan la Asociación de Cafés Especiales de Panamá (SCAP)."},
+    {"anio": "2004", "texto": "Un Geisha de Hacienda La Esmeralda gana Best of Panama y bate el récord de precio en subasta."},
+    {"anio": "2024", "texto": "Un Geisha natural de Elida Estate marca un récord de 10.013 dólares por kilo."},
+    {"anio": "2025", "texto": "Un Geisha lavado de Hacienda La Esmeralda se vende a 30.204 dólares por kilo, récord mundial."},
+    {"anio": "2026", "texto": "La XXX edición de Best of Panama recauda 3.041.940 dólares en su subasta electrónica."}
+  ],
+  "produccion": {
+    "volumen": "168.852 quintales (unos 7,66 millones de kg) en la cosecha 2024-2025, según el Ministerio de Desarrollo Agropecuario (MIDA)",
+    "cosecha": "De fines de septiembre a enero, según la zona",
+    "altitud": "El Geisha requiere microclimas por encima de 1.400 m",
+    "productores": "6.213 productores en 12.843,7 hectáreas, según el MIDA (2026)"
+  },
+  "quienControlaPrecio": "En Panamá ninguna entidad fija el precio del café al productor. El café comercial se negocia libremente con tostadores y comercializadores, y el Estado interviene solo de forma indirecta: el Ministerio de Desarrollo Agropecuario (MIDA) publica las estadísticas y el Consejo de Gabinete autoriza, por decreto, cupos de importación con arancel reducido cuando hay desabastecimiento, que se negocian en la Bolsa Nacional de Productos (BAISA). En los cafés de especialidad, el precio lo marcan los compradores internacionales, sobre todo a través de la subasta Best of Panama que organiza la Asociación de Cafés Especiales de Panamá (SCAP).",
+  "organismos": [
+    {"nombre": "Asociación de Cafés Especiales de Panamá", "sigla": "SCAP", "tipo": "Gremio de productores", "rol": "Asociación sin fines de lucro fundada en 1996 que promueve los cafés especiales panameños y organiza Best of Panama.", "url": "https://www.scap-panama.com/"},
+    {"nombre": "Ministerio de Desarrollo Agropecuario", "sigla": "MIDA", "tipo": "Institución nacional", "rol": "Publica las estadísticas de producción de café y promueve programas como el del robusta.", "url": "https://mida.gob.pa/"},
+    {"nombre": "Bolsa Nacional de Productos", "sigla": "BAISA", "tipo": "Institución nacional", "rol": "Bolsa agropecuaria donde se negocian los cupos de café importado autorizados por el Gobierno.", "url": "https://www.baisa.com/"},
+    {"nombre": "Organización Internacional del Café", "sigla": "OIC", "tipo": "Organismo internacional", "rol": "Organismo intergubernamental del café; Panamá firmó el Convenio Internacional del Café de 2022.", "url": "https://ico.org/"}
+  ],
+  "competencia": {"nombre": "Best of Panama (SCAP)", "url": "https://bestofpanama.auction/", "textoEnlace": "Ver la subasta Best of Panama"},
+  "fuentes": [
+    {"titulo": "La Prensa – Café geisha panameño rompió récord al venderse en más de 30 mil dólares por kilo (2025)", "url": "https://www.prensa.com/economia/cafe-geisha-panameno-rompio-record-al-venderse-en-mas-de-30-mil-dolares-por-kilo/"},
+    {"titulo": "La Prensa – Breve historia del café", "url": "https://www.prensa.com/impresa/mosaico_dominical/breve-historia-cafe_0_4981751814.html"},
+    {"titulo": "La Prensa – El secreto del geisha panameño", "url": "https://www.prensa.com/economia/el-secreto-del-geisha-panameno-la-historia-detras-del-cafe-mas-caro-del-mundo/"},
+    {"titulo": "SCAP – Nuestra historia", "url": "https://scap-panama.com/about-scap/story/"},
+    {"titulo": "Hacienda La Esmeralda – Our Story", "url": "https://haciendaesmeralda.com/our-story/"},
+    {"titulo": "World Coffee Research – Geisha (Panamá)", "url": "https://varieties.worldcoffeeresearch.org/varieties/geisha-panama"},
+    {"titulo": "La Estrella de Panamá – Variabilidad climática reduce la cosecha del café geisha (julio de 2026)", "url": "https://www.laestrella.com.pa/panama/nacional/variabilidad-climatica-reduce-la-cosecha-del-cafe-geisha-de-panama-pero-mejora-su-calidad-LF24127396"},
+    {"titulo": "La Estrella de Panamá – Café robusta, el oro negro que busca impulsar la producción cafetalera (agosto de 2026)", "url": "https://www.laestrella.com.pa/economia/cafe-robusta-el-oro-negro-que-busca-impulsar-la-produccion-cafetalera-de-panama-DH24540388"},
+    {"titulo": "La Estrella de Panamá – Chiriquí empieza la cosecha cafetalera 2023-2024", "url": "https://www.laestrella.com.pa/economia/chiriqui-empieza-cosecha-cafetalera-2023-BELE498955"},
+    {"titulo": "Panamá América – MIDA prevé un incremento en la producción de café en Chiriquí", "url": "https://www.panamaamerica.com.pa/economia/mida-preve-un-incremento-en-la-produccion-de-cafe-en-chiriqui-1212647/amp"},
+    {"titulo": "Bloomberg Línea – Panamá incrementa la importación de café por desabastecimiento (2023)", "url": "https://www.bloomberglinea.com/latinoamerica/panama/panama-incrementa-la-importacion-de-cafe-por-desabastecimiento-a-90-mil-quintales/"},
+    {"titulo": "Newsroom Panama – Resultados de la subasta Best of Panama 2026", "url": "https://newsroompanama.com/2026/09/24/18000-per-kilo-generating-more-than-3-million-in-sales-at-the-best-of-panama-auction-not-gold-or-silver-it-is-panamanian-coffee/"},
+    {"titulo": "Global Coffee Report – Best of Panama auction achieves record-breaking lot price (2024)", "url": "https://www.gcrmag.com/best-of-panama-auction-achieves-record-breaking-lot-price"}
+  ]
+}

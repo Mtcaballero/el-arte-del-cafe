@@ -411,6 +411,7 @@ img { max-width: 100%; height: auto; display: block; }
 .rv-ganadores{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .rv-ganadores li{position:relative;padding:26px 24px;border-radius:24px;background:rgba(255,253,248,.07);border:1px solid rgba(255,253,248,.16)}
 .rv-puntos{float:right;display:flex;flex-direction:column;align-items:center;justify-content:center;width:76px;height:76px;margin:0 0 8px 12px;border-radius:50%;background:#F2B33D;color:#1C1A2E;font-family:'Young Serif',Georgia,serif;font-size:22px;line-height:1}
+.rv-puntos-precio{width:auto;min-width:76px;padding:0 12px;border-radius:38px;font-size:19px}
 .rv-puntos small{font-family:'Figtree',sans-serif;font-size:11px;font-weight:700;margin-top:3px}
 .rv-categoria{font-size:13px!important;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#F2B33D!important;margin:0 0 8px!important}
 .rv-ganadores h4{font-family:'Young Serif',Georgia,serif;font-weight:400;font-size:24px;line-height:1.15;color:#FFFDF8;margin:0 0 6px!important}
